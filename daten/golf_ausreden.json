@@ -1,0 +1,402 @@
+[
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 1)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Handschuh war zu rutschig. (ID: 2)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 3)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 4)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Da lag ein Insekt auf dem Ball. (ID: 5)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Da lag ein Insekt auf dem Ball. (ID: 6)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 7)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 8)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 9)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 10)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 11)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Handschuh war zu rutschig. (ID: 12)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 13)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 14)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ich bin heute einfach nicht in meinen Rhythmus gekommen. (ID: 15)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Eisen war verbogen. (ID: 16)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die Distanzangabe am Schild war falsch. (ID: 17)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Das Eisen war verbogen. (ID: 18)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 19)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 20)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Das Eisen war verbogen. (ID: 21)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 22)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Ball ist auf einem Kieselstein aufgesprungen. (ID: 23)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 24)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 25)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 26)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 27)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Die Distanzangabe am Schild war falsch. (ID: 28)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 29)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 30)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Der Ball ist auf einem Kieselstein aufgesprungen. (ID: 31)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 32)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 33)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 34)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Distanzangabe am Schild war falsch. (ID: 35)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 36)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Eisen war verbogen. (ID: 37)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 38)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist auf einem Kieselstein aufgesprungen. (ID: 39)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 40)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Da lag ein Insekt auf dem Ball. (ID: 41)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Da lag ein Insekt auf dem Ball. (ID: 42)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 43)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 44)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 45)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 46)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Die Sonne hat mich genau im Rückschwung geblendet. (ID: 47)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 48)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 49)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 50)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Handschuh war zu rutschig. (ID: 51)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich bin heute einfach nicht in meinen Rhythmus gekommen. (ID: 52)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 53)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 54)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 55)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 56)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Die Distanzangabe am Schild war falsch. (ID: 57)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 58)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Ich bin heute einfach nicht in meinen Rhythmus gekommen. (ID: 59)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 60)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 61)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 62)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 63)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 64)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 65)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 66)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 67)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 68)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 69)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 70)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Das Eisen war verbogen. (ID: 71)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 72)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 73)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die Distanzangabe am Schild war falsch. (ID: 74)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Distanzangabe am Schild war falsch. (ID: 75)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 76)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein Handschuh war zu rutschig. (ID: 77)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Ball ist auf einem Kieselstein aufgesprungen. (ID: 78)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Eisen war verbogen. (ID: 79)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 80)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Der Ball ist auf einem Kieselstein aufgesprungen. (ID: 81)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 82)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 83)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 84)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 85)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 86)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 87)"
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein Handschuh war zu rutschig. (ID: 88)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein Handschuh war zu rutschig. (ID: 89)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 90)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 91)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 92)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Das Eisen war verbogen. (ID: 93)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 94)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 95)"
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Da lag ein Insekt auf dem Ball. (ID: 96)"
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 97)"
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 98)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Da lag ein Insekt auf dem Ball. (ID: 99)"
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 100)"
+    }
+]
