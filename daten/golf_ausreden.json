@@ -1,402 +1,2002 @@
 [
     {
-        "Kategorie": "Wetter",
-        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 1)"
-    },
-    {
-        "Kategorie": "Technik",
-        "Ausrede": "Mein Handschuh war zu rutschig. (ID: 2)"
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe vor dem Schlag einfach unerwartet lange über das Wasserhindernis nachgedacht."
     },
     {
         "Kategorie": "Material",
-        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 3)"
-    },
-    {
-        "Kategorie": "Technik",
-        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 4)"
-    },
-    {
-        "Kategorie": "Technik",
-        "Ausrede": "Da lag ein Insekt auf dem Ball. (ID: 5)"
+        "Ausrede": "Mein Handschuh war durch den Schweiß extrem rutschig das passiert mir sonst nie."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Da lag ein Insekt auf dem Ball. (ID: 6)"
+        "Ausrede": "Der Boden war durch den nächtlichen Regen extrem weich und matschig weil ich nicht konzentriert war."
     },
     {
-        "Kategorie": "Technik",
-        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 7)"
-    },
-    {
-        "Kategorie": "Technik",
-        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 8)"
-    },
-    {
-        "Kategorie": "Wetter",
-        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 9)"
-    },
-    {
-        "Kategorie": "Wetter",
-        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 10)"
-    },
-    {
-        "Kategorie": "Wetter",
-        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 11)"
-    },
-    {
-        "Kategorie": "Technik",
-        "Ausrede": "Mein Handschuh war zu rutschig. (ID: 12)"
+        "Kategorie": "Material",
+        "Ausrede": "Der Putter hat eine extrem weiche Schlagfläche für diese schnellen Greens."
     },
     {
         "Kategorie": "Mental",
-        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 13)"
+        "Ausrede": "Das Rascheln einer Chipstüte hat mich mitten im Rückschwung irritiert weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Schwungpfad kam heute extrem von außen nach innen und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Dieser Ball fliegt einfach fünf Meter kürzer als mein Standardball."
     },
     {
         "Kategorie": "Mental",
-        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 14)"
+        "Ausrede": "Die Gruppe hinter uns hat heute extrem gedrängelt, das hat mich gestresst."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe den Ball im Treffmoment völlig blockiert mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe versucht, den Ball zu löffeln, statt ihn sauber zu schlagen und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich spiele heute eine Ballmarke, die viel zu hart im Treffmoment ist obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Sonne spiegelte sich so stark auf dem Wasserhindernis, dass ich nichts sehen konnte."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe die Distanz im Kopf dreimal umgerechnet und war am Ende völlig verwirrt."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein innerer Fokus war heute nach dem anstrengenden Arbeitstag völlig weg weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die tiefstehende Sonne hat mich genau im Treffmoment extrem geblendet da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Wind stand so ungünstig quer, dass jeder Slice doppelt bestraft wurde und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein Kopf war blockiert, weil ich unbedingt das Par retten wollte mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe heute einfach keinen Rhythmus im Kopf gefunden da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich war innerlich viel zu hektisch und wollte den Ball regelrecht erzwingen da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Grooves auf meinem Wedge waren komplett mit Sand zugesetzt da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe vor dem Schlag einfach viel zu lange über das Wasserhindernis nachgedacht obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe das falsche Tee verwendet, der Ball lag einfach zu tief obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ein lautes Husten im Flight hinter uns hat mich komplett abgelenkt obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich bin beim Schlagen komplett aus der Balance geraten genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die negative Körpersprache meines Spielpartners hat mich total runtergezogen da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der böige Seitenwind war einfach unberechenbar heute weil ich nicht konzentriert war."
     },
     {
         "Kategorie": "Glück",
-        "Ausrede": "Ich bin heute einfach nicht in meinen Rhythmus gekommen. (ID: 15)"
+        "Ausrede": "Der Ball hatte einen unglaublichen Kick nach links, obwohl das Fairway nach rechts hängt."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Das Eisen war verbogen. (ID: 16)"
-    },
-    {
-        "Kategorie": "Mental",
-        "Ausrede": "Die Distanzangabe am Schild war falsch. (ID: 17)"
-    },
-    {
-        "Kategorie": "Glück",
-        "Ausrede": "Das Eisen war verbogen. (ID: 18)"
-    },
-    {
-        "Kategorie": "Wetter",
-        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 19)"
+        "Ausrede": "Es war heute einfach viel zu kalt, meine Muskeln waren komplett steif da war einfach der Wurm drin."
     },
     {
         "Kategorie": "Material",
-        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 20)"
-    },
-    {
-        "Kategorie": "Mental",
-        "Ausrede": "Das Eisen war verbogen. (ID: 21)"
-    },
-    {
-        "Kategorie": "Mental",
-        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 22)"
+        "Ausrede": "Die Spikes an meinen Golfschuhen haben auf dem nassen Gras keinen Halt geboten da war einfach der Wurm drin."
     },
     {
         "Kategorie": "Material",
-        "Ausrede": "Der Ball ist auf einem Kieselstein aufgesprungen. (ID: 23)"
-    },
-    {
-        "Kategorie": "Wetter",
-        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 24)"
+        "Ausrede": "Die Ballkompression passt überhaupt nicht zu meiner aktuellen Schwunggeschwindigkeit das passiert mir sonst nie."
     },
     {
         "Kategorie": "Glück",
-        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 25)"
+        "Ausrede": "Ein Vogel ist haarscharf am Ball vorbeigeflogen und hat mich irritiert genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Boden war so knochentrocken, dass der Ball unkontrolliert versprungen ist weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Alignment-Tool auf meinem Putter hat mich heute völlig irritiert und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein perfekter Drive landete genau in einer tiefen Divot-Spur auf dem Fairway genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Alignment-Tool auf meinem Putter hat mich heute völlig irritiert da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Entfernungsmesser hat heute ständig falsche Distanzen angezeigt was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Gegenwind auf dieser Bahn war mindestens zwei Schlägerstärken stark da kann man einfach nichts machen."
     },
     {
         "Kategorie": "Technik",
-        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 26)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 27)"
-    },
-    {
-        "Kategorie": "Glück",
-        "Ausrede": "Die Distanzangabe am Schild war falsch. (ID: 28)"
-    },
-    {
-        "Kategorie": "Glück",
-        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 29)"
+        "Ausrede": "Ich habe den Ball dünn getroffen, weil ich den Kopf zu früh gehoben habe das passiert mir sonst nie."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 30)"
+        "Ausrede": "Der böige Wind hat es unmöglich gemacht, den Ballflug vernünftig zu kontrollieren da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist beim Chippen unglücklich an einer Unebenheit versprungen da war einfach der Wurm drin."
     },
     {
         "Kategorie": "Mental",
-        "Ausrede": "Der Ball ist auf einem Kieselstein aufgesprungen. (ID: 31)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 32)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 33)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 34)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Die Distanzangabe am Schild war falsch. (ID: 35)"
-    },
-    {
-        "Kategorie": "Wetter",
-        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 36)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Das Eisen war verbogen. (ID: 37)"
+        "Ausrede": "Ich habe meine Pre-Shot-Routine heute extrem vernachlässigt."
     },
     {
         "Kategorie": "Glück",
-        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 38)"
-    },
-    {
-        "Kategorie": "Glück",
-        "Ausrede": "Der Ball ist auf einem Kieselstein aufgesprungen. (ID: 39)"
-    },
-    {
-        "Kategorie": "Wetter",
-        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 40)"
+        "Ausrede": "Der Ball prallte unglücklich an der Pfostenmarkierung ab und flog ins Wasser."
     },
     {
         "Kategorie": "Mental",
-        "Ausrede": "Da lag ein Insekt auf dem Ball. (ID: 41)"
+        "Ausrede": "Ich konnte mich auf diesem engen Fairway mental einfach nicht frei machen da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Entfernungsmesser hat heute ständig falsche Distanzen angezeigt."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Da lag ein Insekt auf dem Ball. (ID: 42)"
+        "Ausrede": "Der Gegenwind auf dieser Bahn war mindestens zwei Schlägerstärken stark was absolut frustrierend war."
     },
     {
-        "Kategorie": "Glück",
-        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 43)"
+        "Kategorie": "Wetter",
+        "Ausrede": "Der böige Seitenwind war einfach unberechenbar heute."
     },
     {
         "Kategorie": "Mental",
-        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 44)"
+        "Ausrede": "Ich habe heute einfach keinen Rhythmus im Kopf gefunden."
     },
     {
-        "Kategorie": "Material",
-        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 45)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 46)"
+        "Kategorie": "Mental",
+        "Ausrede": "Die negative Körpersprache meines Spielpartners hat mich total runtergezogen da war einfach der Wurm drin."
     },
     {
         "Kategorie": "Technik",
-        "Ausrede": "Die Sonne hat mich genau im Rückschwung geblendet. (ID: 47)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 48)"
+        "Ausrede": "Ich habe viel zu viel Gewicht auf dem hinteren Fuß gelassen das passiert mir sonst nie."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 49)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 50)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Mein Handschuh war zu rutschig. (ID: 51)"
-    },
-    {
-        "Kategorie": "Technik",
-        "Ausrede": "Ich bin heute einfach nicht in meinen Rhythmus gekommen. (ID: 52)"
+        "Ausrede": "Die Thermik über dem Fairway hat den Ball viel zu lange in der Luft gehalten was absolut frustrierend war."
     },
     {
         "Kategorie": "Mental",
-        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 53)"
+        "Ausrede": "Ich habe meine Pre-Shot-Routine heute völlig vernachlässigt und das hat mir die ganze Bahn ruiniert."
     },
     {
         "Kategorie": "Glück",
-        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 54)"
+        "Ausrede": "Der Ball blieb buchstäblich einen Millimeter vor der Lochkante liegen da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe die Distanz im Kopf dreimal umgerechnet und war am Ende völlig verwirrt da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Nach dem Bogey am ersten Loch war mein Selbstvertrauen komplett im Keller weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe den Ball dünn getroffen, weil ich den Kopf zu früh gehoben habe."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball lag so nah an einer Baumwurzel, dass ich nicht normal schwingen konnte."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball blieb buchstäblich einen Millimeter vor der Lochkante liegen da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Schlägergriff war durch die Luftfeuchtigkeit wie Seife da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mir fehlte heute einfach die nötige Aggressivität beim Putten da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe mitten im Schwung die Taktik geändert, das geht nie gut."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Dieser Ball fliegt einfach fünf Meter kürzer als mein Standardball da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rückschwung war heute etwas steil."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe aus Versehen ein etwas schweres Eisen aus dem Bag gezogen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ich bin genau in der einzigen Pfütze auf dem gesamten Fairway gelandet mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich spiele heute eine Ballmarke, die viel zu hart im Treffmoment ist genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Der Flight vor uns war so extrem langsam, dass ich völlig kalt geworden bin obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Bag war heute so schwer, dass meine Schultern absolut verspannt sind."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ein dummer Kommentar am Abschlag hat mich die ganze Bahn über beschäftigt das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rhythmus im Übergang zum Abschwung war unerwartet überhastet."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Meine Hybrid-Schläger haben heute einfach kein Feedback gegeben und das hat mir die ganze Bahn ruiniert."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 55)"
+        "Ausrede": "Der Wind stand so ungünstig quer, dass jeder Slice doppelt bestraft wurde."
     },
     {
-        "Kategorie": "Material",
-        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 56)"
-    },
-    {
-        "Kategorie": "Technik",
-        "Ausrede": "Die Distanzangabe am Schild war falsch. (ID: 57)"
+        "Kategorie": "Mental",
+        "Ausrede": "Nach dem Bogey am ersten Loch war mein Selbstvertrauen komplett im Keller genau im falschen Moment."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 58)"
+        "Ausrede": "Der böige Wind hat es unmöglich gemacht, den Ballflug vernünftig zu kontrollieren mitten auf der Runde."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Ich bin heute einfach nicht in meinen Rhythmus gekommen. (ID: 59)"
+        "Ausrede": "Ein Regentropfen ist mir genau beim Rückschwung auf die Nase gefallen da war einfach der Wurm drin."
     },
     {
-        "Kategorie": "Glück",
-        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 60)"
-    },
-    {
-        "Kategorie": "Technik",
-        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 61)"
+        "Kategorie": "Material",
+        "Ausrede": "Mein Bag war heute so schwer, dass meine Schultern völlig verspannt sind da kann man einfach nichts machen."
     },
     {
         "Kategorie": "Mental",
-        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 62)"
+        "Ausrede": "Ich habe vor dem Schlag einfach viel zu lange über das Wasserhindernis nachgedacht."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Dieser Leihschläger hat einen leicht anderen Lie-Winkel als meine eigenen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rhythmus im Übergang zum Abschwung war völlig überhastet was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ich hatte heute einfach das Pech, dass jeder gute Schlag bestraft wurde da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe viel zu viel Gewicht auf dem hinteren Fuß gelassen da war einfach der Wurm drin."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 63)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 64)"
-    },
-    {
-        "Kategorie": "Mental",
-        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 65)"
-    },
-    {
-        "Kategorie": "Mental",
-        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 66)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 67)"
-    },
-    {
-        "Kategorie": "Mental",
-        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 68)"
+        "Ausrede": "Das Gras auf dem Grün war durch den Tau viel zu langsam und das hat mir die ganze Bahn ruiniert."
     },
     {
         "Kategorie": "Glück",
-        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 69)"
+        "Ausrede": "Mein perfekter Drive landete genau in einer tiefen Divot-Spur auf dem Fairway da war einfach der Wurm drin."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 70)"
-    },
-    {
-        "Kategorie": "Mental",
-        "Ausrede": "Das Eisen war verbogen. (ID: 71)"
+        "Ausrede": "Der böige Wind hat es unmöglich gemacht, den Ballflug vernünftig zu kontrollieren das passiert mir sonst nie."
     },
     {
         "Kategorie": "Technik",
-        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 72)"
-    },
-    {
-        "Kategorie": "Glück",
-        "Ausrede": "Ich habe das falsche Tee gewählt. (ID: 73)"
-    },
-    {
-        "Kategorie": "Mental",
-        "Ausrede": "Die Distanzangabe am Schild war falsch. (ID: 74)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Die Distanzangabe am Schild war falsch. (ID: 75)"
+        "Ausrede": "Ich habe das Gewicht zu schnell auf die Zehenspitzen verlagert und das hat mir die ganze Bahn ruiniert."
     },
     {
         "Kategorie": "Technik",
-        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 76)"
-    },
-    {
-        "Kategorie": "Glück",
-        "Ausrede": "Mein Handschuh war zu rutschig. (ID: 77)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Der Ball ist auf einem Kieselstein aufgesprungen. (ID: 78)"
+        "Ausrede": "Meine Schulterdrehung war im Rückschwung extrem eingeschränkt da war einfach der Wurm drin."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Das Eisen war verbogen. (ID: 79)"
-    },
-    {
-        "Kategorie": "Glück",
-        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 80)"
+        "Ausrede": "Es zog gerade ein Gewitter auf, der Luftdruck hat mich völlig irritiert da war einfach der Wurm drin."
     },
     {
         "Kategorie": "Mental",
-        "Ausrede": "Der Ball ist auf einem Kieselstein aufgesprungen. (ID: 81)"
-    },
-    {
-        "Kategorie": "Technik",
-        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 82)"
+        "Ausrede": "Ich habe mich heute mental einfach nicht auf die schnellen Grüns einstellen können."
     },
     {
         "Kategorie": "Mental",
-        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 83)"
-    },
-    {
-        "Kategorie": "Technik",
-        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 84)"
-    },
-    {
-        "Kategorie": "Material",
-        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 85)"
-    },
-    {
-        "Kategorie": "Glück",
-        "Ausrede": "Der Boden war zu hart, da konnte kein Spin entstehen. (ID: 86)"
-    },
-    {
-        "Kategorie": "Glück",
-        "Ausrede": "Der Ball hatte einen Fabrikationsfehler, der war nicht rund. (ID: 87)"
-    },
-    {
-        "Kategorie": "Glück",
-        "Ausrede": "Mein Handschuh war zu rutschig. (ID: 88)"
+        "Ausrede": "Ich habe die Distanz im Kopf dreimal umgerechnet und war am Ende unglaublich verwirrt."
     },
     {
         "Kategorie": "Mental",
-        "Ausrede": "Mein Handschuh war zu rutschig. (ID: 89)"
-    },
-    {
-        "Kategorie": "Mental",
-        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 90)"
-    },
-    {
-        "Kategorie": "Mental",
-        "Ausrede": "Mein Schlägergriff war zu dick. (ID: 91)"
-    },
-    {
-        "Kategorie": "Technik",
-        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 92)"
-    },
-    {
-        "Kategorie": "Mental",
-        "Ausrede": "Das Eisen war verbogen. (ID: 93)"
+        "Ausrede": "Mir fehlte heute einfach die nötige Aggressivität beim Putten."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 94)"
+        "Ausrede": "Der Wind stand so ungünstig quer, dass jeder Slice doppelt bestraft wurde genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Das Loch war heute so unglücklich auf einem Hang gesteckt, dass kein Ball hielt."
     },
     {
         "Kategorie": "Mental",
-        "Ausrede": "Der Wind hat den Ball plötzlich gedreht. (ID: 95)"
+        "Ausrede": "Ich war innerlich viel zu hektisch und wollte den Ball regelrecht erzwingen da kann man einfach nichts machen."
     },
     {
-        "Kategorie": "Mental",
-        "Ausrede": "Da lag ein Insekt auf dem Ball. (ID: 96)"
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe den Ball dünn getroffen, weil ich den Kopf zu früh gehoben habe obwohl ich mich gut gefühlt habe."
     },
     {
         "Kategorie": "Material",
-        "Ausrede": "Mein Fokus war kurz weg, weil ein Flugzeug vorbeiflog. (ID: 97)"
+        "Ausrede": "Meine Hybrid-Schläger haben heute einfach kein Feedback gegeben."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rhythmus im Übergang zum Abschwung war absolut überhastet."
     },
     {
         "Kategorie": "Wetter",
-        "Ausrede": "Die Greenkeeper haben das Loch heute unmöglich gesteckt. (ID: 98)"
+        "Ausrede": "Das Gras auf dem Grün war durch den Tau viel zu langsam genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein Baumzweig hat meinen perfekt geschlagenen Ball aus der Luft gepflückt da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der böige Wind hat es unmöglich gemacht, den Ballflug vernünftig zu kontrollieren was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Bag war heute so schwer, dass meine Schultern völlig verspannt sind."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball sprang auf einer alten Pitchmarke völlig unvorhersehbar ab weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ich bin genau in der einzigen Pfütze auf dem gesamten Fairway gelandet obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es war heute einfach viel zu kalt, meine Muskeln waren komplett steif mitten auf der Runde."
     },
     {
         "Kategorie": "Technik",
-        "Ausrede": "Da lag ein Insekt auf dem Ball. (ID: 99)"
+        "Ausrede": "Mein Durchschwung war nicht aktiv genug abgebrochen weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe vor dem Schlag einfach viel zu lange über das Wasserhindernis nachgedacht was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein innerer Fokus war heute nach dem anstrengenden Arbeitstag etwas weg."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Wind hat sich genau in der Sekunde gedreht, als ich den Ball geschlagen habe was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Ein plötzlicher Windstoß hat den Ball im Flug komplett nach links gedrückt da war einfach der Wurm drin."
     },
     {
         "Kategorie": "Technik",
-        "Ausrede": "Jemand hat auf dem Nachbar-Fairway gehustet. (ID: 100)"
+        "Ausrede": "Mein Durchschwung war nicht aktiv genug abgebrochen."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Dieser Ball hatte definitiv eine Unwucht in der Schale."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein innerer Fokus war heute nach dem anstrengenden Arbeitstag unglaublich weg."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball hatte einen unglaublichen Kick nach links, obwohl das Fairway nach rechts hängt da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Gras auf dem Grün war durch den Tau total langsam."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Putter hat eine viel zu weiche Schlagfläche für diese schnellen Greens mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein Ball ist im dichten Rough unauffindbar im Boden versunken obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Meine Schulterdrehung war im Rückschwung extrem eingeschränkt obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es zog gerade ein Gewitter auf, der Luftdruck hat mich völlig irritiert obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Nach dem Bogey am ersten Loch war mein Selbstvertrauen komplett im Keller."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe viel zu viel Gewicht auf dem hinteren Fuß gelassen da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Schwungpfad kam heute extrem von außen nach innen da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Durchschwung war nicht aktiv genug abgebrochen obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Jemand anderes hat meinen Ball auf dem Fairway versehentlich weggespielt und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die negative Körpersprache meines Spielpartners hat mich unglaublich runtergezogen."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich spiele heute eine Ballmarke, die völlig hart im Treffmoment ist."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die negative Körpersprache meines Spielpartners hat mich extrem runtergezogen."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich war innerlich viel zu hektisch und wollte den Ball regelrecht erzwingen was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball sprang auf einer alten Pitchmarke völlig unvorhersehbar ab was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Das Rascheln einer Chipstüte hat mich mitten im Rückschwung irritiert was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich war innerlich absolut hektisch und wollte den Ball regelrecht erzwingen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Meine Schulterdrehung war im Rückschwung unerwartet eingeschränkt."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es war heute einfach absolut kalt, meine Muskeln waren komplett steif."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Handschuh war durch den Schweiß total rutschig."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rückschwung war heute viel zu steil obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist unglücklich an der Kante des Bunkers hängengeblieben mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es zog gerade ein Gewitter auf, der Luftdruck hat mich völlig irritiert."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Eintreffwinkel war einfach viel zu flach für dieses Rough obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein Baumzweig hat meinen perfekt geschlagenen Ball aus der Luft gepflückt."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Schlägergriff war durch die Luftfeuchtigkeit wie Seife weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rückschwung war heute völlig steil."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Alignment-Tool auf meinem Putter hat mich heute völlig irritiert mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe vor dem Schlag einfach viel zu lange über das Wasserhindernis nachgedacht weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe das Gewicht zu schnell auf die Zehenspitzen verlagert weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die Gruppe hinter uns hat heute extrem gedrängelt, das hat mich gestresst das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Eintreffwinkel war einfach extrem flach für dieses Rough."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Schlägergriff war durch die Luftfeuchtigkeit wie Seife."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Grooves auf meinem Wedge waren komplett mit Sand zugesetzt mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball blieb buchstäblich einen Millimeter vor der Lochkante liegen und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe die Hüfte im Abschwung viel zu spät geöffnet."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rhythmus im Übergang zum Abschwung war völlig überhastet mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe die Distanz im Kopf dreimal umgerechnet und war am Ende völlig verwirrt weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Dieser Leihschläger hat einen völlig anderen Lie-Winkel als meine eigenen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Durchschwung war nicht aktiv genug abgebrochen genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe versucht, den Ball zu löffeln, statt ihn sauber zu schlagen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Meine Schulterdrehung war im Rückschwung leicht eingeschränkt."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Einstellwinkel meines Schlägerblatts war beim Impact offen das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich spiele heute eine Ballmarke, die viel zu hart im Treffmoment ist weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Boden war durch den nächtlichen Regen extrem weich und matschig und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball sprang auf einer alten Pitchmarke völlig unvorhersehbar ab genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Schwungpfad kam heute extrem von außen nach innen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ich bin genau in der einzigen Pfütze auf dem gesamten Fairway gelandet da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe viel zu viel Gewicht auf dem hinteren Fuß gelassen obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Dieser Leihschläger hat einen ziemlich anderen Lie-Winkel als meine eigenen."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die tiefstehende Sonne hat mich genau im Treffmoment extrem geblendet genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist beim Chippen unglücklich an einer Unebenheit versprungen obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein Maulwurfshügel hat meinen Ball direkt im Roll gestoppt."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die feuchte Luft hat das Fairway etwas langsam gemacht."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe heute einfach keinen Rhythmus im Kopf gefunden und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Handschuh war durch den Schweiß absolut rutschig."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Rillen auf dem Eisen 7 sind mittlerweile viel zu abgenutzt weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe meine Pre-Shot-Routine heute ziemlich vernachlässigt."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein perfekter Drive landete genau in einer tiefen Divot-Spur auf dem Fairway da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Griffdruck meiner linken Hand war heute völlig verkrampft."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein perfekter Drive landete genau in einer tiefen Divot-Spur auf dem Fairway was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Das Rascheln einer Chipstüte hat mich mitten im Rückschwung irritiert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich spiele heute eine Ballmarke, die etwas hart im Treffmoment ist."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rückschwung war heute unglaublich steil."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Thermik über dem Fairway hat den Ball viel zu lange in der Luft gehalten obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der böige Wind hat es unmöglich gemacht, den Ballflug vernünftig zu kontrollieren."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Meine Schulterdrehung war im Rückschwung absolut eingeschränkt."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Das Loch war heute so unglücklich auf einem Hang gesteckt, dass kein Ball hielt da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Wind stand so ungünstig quer, dass jeder Slice doppelt bestraft wurde da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Meine Schulterdrehung war im Rückschwung extrem eingeschränkt und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist im Baumkronendach hängengeblieben und einfach nicht runtergekommen das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Schlägerblatt meines Drivers hat im Treffmoment seltsam vibriert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Handschuh war durch den Schweiß extrem rutschig mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ein dummer Kommentar am Abschlag hat mich die ganze Bahn über beschäftigt da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist unglücklich an der Kante des Bunkers hängengeblieben was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Boden war durch den nächtlichen Regen extrem weich und matschig mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe ziemlich viel Gewicht auf dem hinteren Fuß gelassen."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Meine Hybrid-Schläger haben heute einfach kein Feedback gegeben weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Stand war ein paar Zentimeter zu breit für diesen Schläger da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Jemand anderes hat meinen Ball auf dem Fairway versehentlich weggespielt da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Boden war so knochentrocken, dass der Ball unkontrolliert versprungen ist."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist beim Chippen unglücklich an einer Unebenheit versprungen das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe heute einfach keinen Rhythmus im Kopf gefunden was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Handschuh war durch den Schweiß unglaublich rutschig."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball sprang auf einer alten Pitchmarke etwas unvorhersehbar ab."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es war heute einfach total kalt, meine Muskeln waren komplett steif."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Nach dem Bogey am ersten Loch war mein Selbstvertrauen komplett im Keller und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich war im Gedanken schon beim kühlen Bier im Clubhaus das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Thermik über dem Fairway hat den Ball viel zu lange in der Luft gehalten."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Dieser Leihschläger hat einen völlig anderen Lie-Winkel als meine eigenen das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich war innerlich ziemlich hektisch und wollte den Ball regelrecht erzwingen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist auf einem verdeckten Kieselstein gelandet und ins Aus gesprungen weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Griffdruck meiner linken Hand war heute viel zu verkrampft."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Rillen auf dem Eisen 7 sind mittlerweile viel zu abgenutzt mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Alignment-Tool auf meinem Putter hat mich heute völlig irritiert obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die absolute Hitze hat dafür gesorgt, dass meine Hände ständig rutschig waren."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein Vogel ist haarscharf am Ball vorbeigeflogen und hat mich irritiert weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die extreme Hitze hat dafür gesorgt, dass meine Hände ständig rutschig waren weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die tiefstehende Sonne hat mich genau im Treffmoment etwas geblendet."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Grooves auf meinem Wedge waren komplett mit Sand zugesetzt weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Dieser Leihschläger hat einen völlig anderen Lie-Winkel als meine eigenen weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Durchschwung war nicht aktiv genug abgebrochen das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die extreme Hitze hat dafür gesorgt, dass meine Hände ständig rutschig waren."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein Maulwurfshügel hat meinen Ball direkt im Roll gestoppt da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Meine Ausrichtung zum Ziel war um mindestens fünf Grad verschoben da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Schlägerblatt meines Drivers hat im Treffmoment seltsam vibriert genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Griffdruck meiner linken Hand war heute viel zu verkrampft da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es zog gerade ein Gewitter auf, der Luftdruck hat mich etwas irritiert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Schlägergriff war durch die Luftfeuchtigkeit wie Seife da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ich bin genau in der einzigen Pfütze auf dem gesamten Fairway gelandet genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe meine Pre-Shot-Routine heute etwas vernachlässigt."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe vor dem Schlag einfach viel zu lange über das Wasserhindernis nachgedacht da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe viel zu viel Gewicht auf dem hinteren Fuß gelassen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich bin beim Schlagen komplett aus der Balance geraten mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist auf einem verdeckten Kieselstein gelandet und ins Aus gesprungen mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Graphitschaft meines Treibers ist heute viel zu flexibel und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe aus Versehen ein völlig schweres Eisen aus dem Bag gezogen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Einstellwinkel meines Schlägerblatts war beim Impact offen weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich war innerlich viel zu hektisch und wollte den Ball regelrecht erzwingen genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Das Handy meines Mitspielers hat genau im Treffmoment vibriert das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Eisen war minimal verbogen, das habe ich sofort gespürt mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Rough war durch den Regen leicht schwer und nass."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist im Baumkronendach hängengeblieben und einfach nicht runtergekommen da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Stand war ein paar Zentimeter zu breit für diesen Schläger das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Durchschwung war nicht aktiv genug abgebrochen und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein Kopf war blockiert, weil ich unbedingt das Par retten wollte genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe viel zu viel Gewicht auf dem hinteren Fuß gelassen weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein perfekter Drive landete genau in einer tiefen Divot-Spur auf dem Fairway."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball prallte an der Steinkante der Brücke ab und landete im tiefsten Rough."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein Kopf war blockiert, weil ich unbedingt das Par retten wollte was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Rough war durch den Regen extrem schwer und nass das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe meine Pre-Shot-Routine heute völlig vernachlässigt."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rhythmus im Übergang zum Abschwung war völlig überhastet."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball lag so nah an einer Baumwurzel, dass ich nicht normal schwingen konnte da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist im Baumkronendach hängengeblieben und einfach nicht runtergekommen und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich spiele heute eine Ballmarke, die viel zu hart im Treffmoment ist das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist auf einem verdeckten Kieselstein gelandet und ins Aus gesprungen da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Meine Schulterdrehung war im Rückschwung extrem eingeschränkt genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball prallte unglücklich an der Pfostenmarkierung ab und flog ins Wasser genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist auf einem verdeckten Kieselstein gelandet und ins Aus gesprungen das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Das Handy meines Mitspielers hat genau im Treffmoment vibriert mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich war im Gedanken schon beim kühlen Bier im Clubhaus weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die Gruppe hinter uns hat heute ziemlich gedrängelt, das hat mich gestresst."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die tiefstehende Sonne hat mich genau im Treffmoment leicht geblendet."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die tiefstehende Sonne hat mich genau im Treffmoment extrem geblendet das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die negative Körpersprache meines Spielpartners hat mich total runtergezogen und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die negative Körpersprache meines Spielpartners hat mich total runtergezogen."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Rillen auf dem Eisen 7 sind mittlerweile total abgenutzt."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein innerer Fokus war heute nach dem anstrengenden Arbeitstag ziemlich weg."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich spiele heute eine Ballmarke, die leicht hart im Treffmoment ist."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein Ball ist im dichten Rough unauffindbar im Boden versunken."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die feuchte Luft hat das Fairway extrem langsam gemacht."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Gegenwind auf dieser Bahn war mindestens zwei Schlägerstärken stark mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Ein Regentropfen ist mir genau beim Rückschwung auf die Nase gefallen was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Luftfeuchtigkeit war so hoch, dass der Ball kaum Weite entwickelt hat da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Dieser Ball fliegt einfach fünf Meter kürzer als mein Standardball da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Rough war durch den Regen unglaublich schwer und nass."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Handschuh war durch den Schweiß extrem rutschig obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Ein plötzlicher Windstoß hat den Ball im Flug komplett nach links gedrückt."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Einstellwinkel meines Schlägerblatts war beim Impact offen und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist im Baumkronendach hängengeblieben und einfach nicht runtergekommen."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Eisen war minimal verbogen, das habe ich sofort gespürt das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Eisen war minimal verbogen, das habe ich sofort gespürt und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball sprang auf einer alten Pitchmarke extrem unvorhersehbar ab."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Sonne spiegelte sich so stark auf dem Wasserhindernis, dass ich nichts sehen konnte mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Spikes an meinen Golfschuhen haben auf dem nassen Gras keinen Halt geboten mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein Vogel ist haarscharf am Ball vorbeigeflogen und hat mich irritiert mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Das Loch war heute so unglücklich auf einem Hang gesteckt, dass kein Ball hielt genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich war im Gedanken schon beim kühlen Bier im Clubhaus obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe heute einfach keinen Rhythmus im Kopf gefunden das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein perfekter Drive landete genau in einer tiefen Divot-Spur auf dem Fairway obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball sprang auf einer alten Pitchmarke völlig unvorhersehbar ab."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Einstellwinkel meines Schlägerblatts war beim Impact offen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist auf einem verdeckten Kieselstein gelandet und ins Aus gesprungen obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Alignment-Tool auf meinem Putter hat mich heute völlig irritiert weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Einstellwinkel meines Schlägerblatts war beim Impact offen mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Entfernungsmesser hat heute ständig falsche Distanzen angezeigt obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist unglücklich an der Kante des Bunkers hängengeblieben."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe aus Versehen ein viel zu schweres Eisen aus dem Bag gezogen."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe das falsche Tee verwendet, der Ball lag einfach zu tief was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe den Ball beim Probeschwung perfekt getroffen, aber beim echten Schlag nicht mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Thermik über dem Fairway hat den Ball viel zu lange in der Luft gehalten genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe das falsche Tee verwendet, der Ball lag einfach zu tief das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein plötzlicher Windstoß hat den Ball im letzten Moment aus der Spur gebracht mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ich hatte heute einfach das Pech, dass jeder gute Schlag bestraft wurde genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Griffdruck meiner linken Hand war heute extrem verkrampft."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist im Baumkronendach hängengeblieben und einfach nicht runtergekommen was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist auf einem verdeckten Kieselstein gelandet und ins Aus gesprungen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Jemand anderes hat meinen Ball auf dem Fairway versehentlich weggespielt da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich bin beim Schlagen komplett aus der Balance geraten da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein plötzlicher Windstoß hat den Ball im letzten Moment aus der Spur gebracht was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball prallte an der Steinkante der Brücke ab und landete im tiefsten Rough da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Schwungpfad kam heute extrem von außen nach innen da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Alignment-Tool auf meinem Putter hat mich heute unglaublich irritiert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Grooves auf meinem Wedge waren komplett mit Sand zugesetzt genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Handgelenk hat sich im Treffmoment zu früh gedreht."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball prallte an der Steinkante der Brücke ab und landete im tiefsten Rough und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Luftfeuchtigkeit war so hoch, dass der Ball kaum Weite entwickelt hat was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es war heute einfach völlig kalt, meine Muskeln waren komplett steif."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Luftfeuchtigkeit war so hoch, dass der Ball kaum Weite entwickelt hat."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein perfekter Drive landete genau in einer tiefen Divot-Spur auf dem Fairway und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Schlägergriff war durch die Luftfeuchtigkeit wie Seife genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Jemand anderes hat meinen Ball auf dem Fairway versehentlich weggespielt mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rückschwung war heute absolut steil."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball sprang auf einer alten Pitchmarke völlig unvorhersehbar ab und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es zog gerade ein Gewitter auf, der Luftdruck hat mich leicht irritiert."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Ein Regentropfen ist mir genau beim Rückschwung auf die Nase gefallen das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Graphitschaft meines Treibers ist heute ziemlich flexibel."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Ballkompression passt überhaupt nicht zu meiner aktuellen Schwunggeschwindigkeit."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe heute einfach keinen Rhythmus im Kopf gefunden genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Das Handy meines Mitspielers hat genau im Treffmoment vibriert."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich bin beim Schlagen komplett aus der Balance geraten."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe aus Versehen ein absolut schweres Eisen aus dem Bag gezogen."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die Gruppe hinter uns hat heute extrem gedrängelt, das hat mich gestresst obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Rough war durch den Regen extrem schwer und nass was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe heute einfach keinen Rhythmus im Kopf gefunden weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Gras auf dem Grün war durch den Tau viel zu langsam."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe aus Versehen ein unerwartet schweres Eisen aus dem Bag gezogen."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe aus Versehen ein viel zu schweres Eisen aus dem Bag gezogen da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball hatte einen unglaublichen Kick nach links, obwohl das Fairway nach rechts hängt mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Stand war ein paar Zentimeter zu breit für diesen Schläger genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die feuchte Luft hat das Fairway extrem langsam gemacht obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Grooves auf meinem Wedge waren komplett mit Sand zugesetzt und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Dieser Ball hatte definitiv eine Unwucht in der Schale da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Schlägerblatt meines Drivers hat im Treffmoment seltsam vibriert mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich war innerlich viel zu hektisch und wollte den Ball regelrecht erzwingen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe den Ball komplett an der Hacke getroffen da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball prallte an der Steinkante der Brücke ab und landete im tiefsten Rough das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Ein Regentropfen ist mir genau beim Rückschwung auf die Nase gefallen obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Rough war durch den Regen extrem schwer und nass mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball sprang auf einer alten Pitchmarke ziemlich unvorhersehbar ab."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es war heute einfach viel zu kalt, meine Muskeln waren komplett steif."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein Maulwurfshügel hat meinen Ball direkt im Roll gestoppt und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich spiele heute eine Ballmarke, die viel zu hart im Treffmoment ist was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe die Distanz im Kopf dreimal umgerechnet und war am Ende völlig verwirrt da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Rough war durch den Regen extrem schwer und nass weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist auf einem verdeckten Kieselstein gelandet und ins Aus gesprungen was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Thermik über dem Fairway hat den Ball unerwartet lange in der Luft gehalten."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Einstellwinkel meines Schlägerblatts war beim Impact offen genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein perfekter Drive landete genau in einer tiefen Divot-Spur auf dem Fairway mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die tiefstehende Sonne hat mich genau im Treffmoment extrem geblendet da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe meine Pre-Shot-Routine heute völlig vernachlässigt mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist unglücklich an der Kante des Bunkers hängengeblieben und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der böige Wind hat es unmöglich gemacht, den Ballflug vernünftig zu kontrollieren genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Handgelenk hat sich im Treffmoment zu früh gedreht das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Meine Ausrichtung zum Ziel war um mindestens fünf Grad verschoben."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball lag so nah an einer Baumwurzel, dass ich nicht normal schwingen konnte und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe das falsche Tee verwendet, der Ball lag einfach zu tief da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der dichte Nebel hat mir jegliches Gefühl für die Tiefe des Fairways genommen das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ein lautes Husten im Flight hinter uns hat mich komplett abgelenkt genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein Vogel ist haarscharf am Ball vorbeigeflogen und hat mich irritiert."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rückschwung war heute viel zu steil mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich bin beim Schlagen komplett aus der Balance geraten was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe das Gewicht zu schnell auf die Zehenspitzen verlagert."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der dichte Nebel hat mir jegliches Gefühl für die Tiefe des Fairways genommen genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Wind hat sich genau in der Sekunde gedreht, als ich den Ball geschlagen habe."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist im Baumkronendach hängengeblieben und einfach nicht runtergekommen weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die negative Körpersprache meines Spielpartners hat mich völlig runtergezogen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Einstellwinkel meines Schlägerblatts war beim Impact offen da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es war heute einfach ziemlich kalt, meine Muskeln waren komplett steif."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die negative Körpersprache meines Spielpartners hat mich leicht runtergezogen."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die Gruppe hinter uns hat heute extrem gedrängelt, das hat mich gestresst mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Alignment-Tool auf meinem Putter hat mich heute völlig irritiert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich spiele heute eine Ballmarke, die viel zu hart im Treffmoment ist da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es war heute einfach viel zu kalt, meine Muskeln waren komplett steif und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Spikes an meinen Golfschuhen haben auf dem nassen Gras keinen Halt geboten."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Dieser Ball hatte definitiv eine Unwucht in der Schale weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball prallte unglücklich an der Pfostenmarkierung ab und flog ins Wasser mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein innerer Fokus war heute nach dem anstrengenden Arbeitstag unerwartet weg."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ich hatte heute einfach das Pech, dass jeder gute Schlag bestraft wurde das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich konnte mich auf diesem engen Fairway mental einfach nicht frei machen."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe aus Versehen ein viel zu schweres Eisen aus dem Bag gezogen genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Graphitschaft meines Treibers ist heute absolut flexibel."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich konnte mich auf diesem engen Fairway mental einfach nicht frei machen obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ich hatte heute einfach das Pech, dass jeder gute Schlag bestraft wurde."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe den Ball im Treffmoment völlig blockiert."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die Gruppe hinter uns hat heute extrem gedrängelt, das hat mich gestresst genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich spiele heute eine Ballmarke, die viel zu hart im Treffmoment ist mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe aus Versehen ein unglaublich schweres Eisen aus dem Bag gezogen."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Rough war durch den Regen extrem schwer und nass genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die tiefstehende Sonne hat mich genau im Treffmoment unglaublich geblendet."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es war heute einfach viel zu kalt, meine Muskeln waren komplett steif das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Boden war durch den nächtlichen Regen extrem weich und matschig."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist beim Chippen unglücklich an einer Unebenheit versprungen und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rhythmus im Übergang zum Abschwung war völlig überhastet das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die feuchte Luft hat das Fairway ziemlich langsam gemacht."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Rough war durch den Regen extrem schwer und nass."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Einstellwinkel meines Schlägerblatts war beim Impact offen was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mir fehlte heute einfach die nötige Aggressivität beim Putten da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Der Flight vor uns war so unglaublich langsam, dass ich völlig kalt geworden bin."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Thermik über dem Fairway hat den Ball viel zu lange in der Luft gehalten und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball blieb buchstäblich einen Millimeter vor der Lochkante liegen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Jemand anderes hat meinen Ball auf dem Fairway versehentlich weggespielt weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Schwungpfad kam heute extrem von außen nach innen genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rückschwung war heute viel zu steil."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Eintreffwinkel war einfach viel zu flach für dieses Rough weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Sonne spiegelte sich so stark auf dem Wasserhindernis, dass ich nichts sehen konnte das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein innerer Fokus war heute nach dem anstrengenden Arbeitstag völlig weg das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Jemand anderes hat meinen Ball auf dem Fairway versehentlich weggespielt."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Graphitschaft meines Treibers ist heute viel zu flexibel."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Jemand anderes hat meinen Ball auf dem Fairway versehentlich weggespielt genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der böige Wind hat es unmöglich gemacht, den Ballflug vernünftig zu kontrollieren und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe das falsche Tee verwendet, der Ball lag einfach zu tief."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe vor dem Schlag einfach extrem lange über das Wasserhindernis nachgedacht."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich spiele heute eine Ballmarke, die viel zu hart im Treffmoment ist."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich war innerlich viel zu hektisch und wollte den Ball regelrecht erzwingen obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Meine Schulterdrehung war im Rückschwung extrem eingeschränkt weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Entfernungsmesser hat heute ständig falsche Distanzen angezeigt da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ein dummer Kommentar am Abschlag hat mich die ganze Bahn über beschäftigt."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe den Ball beim Probeschwung perfekt getroffen, aber beim echten Schlag nicht das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Grooves auf meinem Wedge waren komplett mit Sand zugesetzt."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Thermik über dem Fairway hat den Ball viel zu lange in der Luft gehalten da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball hatte einen unglaublichen Kick nach links, obwohl das Fairway nach rechts hängt und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe die Hüfte im Abschwung viel zu spät geöffnet mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe die Distanz im Kopf dreimal umgerechnet und war am Ende etwas verwirrt."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ich hatte heute einfach das Pech, dass jeder gute Schlag bestraft wurde da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Durchschwung war nicht aktiv genug abgebrochen was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein Ball ist im dichten Rough unauffindbar im Boden versunken mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe den Ball komplett an der Hacke getroffen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe den Ball komplett an der Hacke getroffen obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Ein Regentropfen ist mir genau beim Rückschwung auf die Nase gefallen."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Die Rillen auf dem Eisen 7 sind mittlerweile viel zu abgenutzt."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe mitten im Schwung die Taktik geändert, das geht nie gut genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Das Rascheln einer Chipstüte hat mich mitten im Rückschwung irritiert obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein innerer Fokus war heute nach dem anstrengenden Arbeitstag leicht weg."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein Kopf war blockiert, weil ich unbedingt das Par retten wollte."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der dichte Nebel hat mir jegliches Gefühl für die Tiefe des Fairways genommen."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Gegenwind auf dieser Bahn war mindestens zwei Schlägerstärken stark da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es zog gerade ein Gewitter auf, der Luftdruck hat mich völlig irritiert und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rhythmus im Übergang zum Abschwung war völlig überhastet da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Eintreffwinkel war einfach viel zu flach für dieses Rough."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Ich habe das falsche Tee verwendet, der Ball lag einfach zu tief genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist unglücklich an der Kante des Bunkers hängengeblieben da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist beim Chippen unglücklich an einer Unebenheit versprungen."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die tiefstehende Sonne hat mich genau im Treffmoment extrem geblendet was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Putter hat eine viel zu weiche Schlagfläche für diese schnellen Greens was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die extreme Hitze hat dafür gesorgt, dass meine Hände ständig rutschig waren da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Der Putter hat eine viel zu weiche Schlagfläche für diese schnellen Greens genau im falschen Moment."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Eintreffwinkel war einfach viel zu flach für dieses Rough und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Eintreffwinkel war einfach viel zu flach für dieses Rough da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich habe mich heute mental einfach nicht auf die schnellen Grüns einstellen können obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die tiefstehende Sonne hat mich genau im Treffmoment extrem geblendet."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Handschuh war durch den Schweiß extrem rutschig weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball prallte an der Steinkante der Brücke ab und landete im tiefsten Rough obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Der Flight vor uns war so extrem langsam, dass ich völlig kalt geworden bin."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein innerer Fokus war heute nach dem anstrengenden Arbeitstag völlig weg da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die negative Körpersprache meines Spielpartners hat mich total runtergezogen was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Stand war ein paar Zentimeter zu breit für diesen Schläger da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Meine Schulterdrehung war im Rückschwung ziemlich eingeschränkt."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ein lautes Husten im Flight hinter uns hat mich komplett abgelenkt."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Das Loch war heute so unglücklich auf einem Hang gesteckt, dass kein Ball hielt mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Rough war durch den Regen extrem schwer und nass da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball sprang auf einer alten Pitchmarke völlig unvorhersehbar ab mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Es war heute einfach leicht kalt, meine Muskeln waren komplett steif."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Das Rough war durch den Regen extrem schwer und nass und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Ein plötzlicher Windstoß hat den Ball im Flug komplett nach links gedrückt weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein Maulwurfshügel hat meinen Ball direkt im Roll gestoppt was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein plötzlicher Windstoß hat den Ball im letzten Moment aus der Spur gebracht."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Rückschwung war heute extrem steil."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich war im Gedanken schon beim kühlen Bier im Clubhaus."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Handschuh war durch den Schweiß extrem rutschig."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Meine Schulterdrehung war im Rückschwung extrem eingeschränkt."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Griffdruck meiner linken Hand war heute viel zu verkrampft was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Bag war heute so schwer, dass meine Schultern etwas verspannt sind."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Der Eintreffwinkel war einfach viel zu flach für dieses Rough das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Mein Ball ist im dichten Rough unauffindbar im Boden versunken da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Die Gruppe hinter uns hat heute extrem gedrängelt, das hat mich gestresst und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Stand war ein paar Zentimeter zu breit für diesen Schläger."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Das Loch war heute so unglücklich auf einem Hang gesteckt, dass kein Ball hielt da war einfach der Wurm drin."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Dieser Leihschläger hat einen unerwartet anderen Lie-Winkel als meine eigenen."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Das Eisen war minimal verbogen, das habe ich sofort gespürt."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Entfernungsmesser hat heute ständig falsche Distanzen angezeigt mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Stand war ein paar Zentimeter zu breit für diesen Schläger obwohl ich mich gut gefühlt habe."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich konnte mich auf diesem engen Fairway mental einfach nicht frei machen da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Mein innerer Fokus war heute nach dem anstrengenden Arbeitstag völlig weg."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die feuchte Luft hat das Fairway extrem langsam gemacht weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der dichte Nebel hat mir jegliches Gefühl für die Tiefe des Fairways genommen was absolut frustrierend war."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Der Gegenwind auf dieser Bahn war mindestens zwei Schlägerstärken stark."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe das Gewicht zu schnell auf die Zehenspitzen verlagert mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Material",
+        "Ausrede": "Mein Handschuh war durch den Schweiß leicht rutschig."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Ein Baumzweig hat meinen perfekt geschlagenen Ball aus der Luft gepflückt weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Der Ball ist unglücklich an der Kante des Bunkers hängengeblieben weil ich nicht konzentriert war."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Mein Schwungpfad kam heute extrem von außen nach innen mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe den Ball beim Probeschwung perfekt getroffen, aber beim echten Schlag nicht."
+    },
+    {
+        "Kategorie": "Glück",
+        "Ausrede": "Das Loch war heute so unglücklich auf einem Hang gesteckt, dass kein Ball hielt das passiert mir sonst nie."
+    },
+    {
+        "Kategorie": "Wetter",
+        "Ausrede": "Die Thermik über dem Fairway hat den Ball viel zu lange in der Luft gehalten da kann man einfach nichts machen."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich konnte mich auf diesem engen Fairway mental einfach nicht frei machen und das hat mir die ganze Bahn ruiniert."
+    },
+    {
+        "Kategorie": "Mental",
+        "Ausrede": "Ich war innerlich viel zu hektisch und wollte den Ball regelrecht erzwingen mitten auf der Runde."
+    },
+    {
+        "Kategorie": "Technik",
+        "Ausrede": "Ich habe die Hüfte im Abschwung viel zu spät geöffnet genau im falschen Moment."
     }
 ]
