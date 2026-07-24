@@ -1,5 +1,6 @@
-[
-  {"kategorie": "Pro-Tipps", "text": "Wenn der Ball im Teich liegt, einfach tief durchatmen und das nächste Bier bestellen. Die Rundenzeit wird es dir danken."},
+,
+  { "kategorie": "Material", "text": "Der Driver ist heute einfach nicht in der Stimmung für diese Art von Abschlag." },
+    {"kategorie": "Pro-Tipps", "text": "Wenn der Ball im Teich liegt, einfach tief durchatmen und das nächste Bier bestellen. Die Rundenzeit wird es dir danken."},
   {"kategorie": "Pro-Tipps", "text": "Ein perfekter Schwung beginnt im Kopf. Stell dir einfach vor, du würdest den Ball nicht schlagen, sondern freundlich bitten, wegzugehen."},
   {"kategorie": "Pro-Tipps", "text": "Sollte dein Ball im Rough verschwinden: Einfach einen neuen Ball aus der Tasche ziehen. Das nennt man 'Golf-Magie'."},
   {"kategorie": "Pro-Tipps", "text": "Die wichtigste Regel: Wenn niemand zusieht, ist der Ball immer 'spielbar'."},
@@ -99,4 +100,3 @@
   {"kategorie": "Pro-Tipps", "text": "Wenn du den Ball nicht triffst, ist die Luft zu dünn."},
   {"kategorie": "Pro-Tipps", "text": "Golf ist ein langer Spaziergang, unterbrochen durch gelegentliches Ärgern."},
   {"kategorie": "Pro-Tipps", "text": "Wenn nichts hilft: Bestell das nächste Bier. Das funktioniert immer."}
-]
