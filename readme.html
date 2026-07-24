@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GolfAusreden – Der smarte Begleiter für den Golfplatz</title>
+    <title>Bedienungsanleitung – GolfAusreden</title>
     <style>
         :root {
             --primary-color: #1a6b35;
@@ -12,6 +12,7 @@
             --card-bg: #ffffff;
             --text-color: #333333;
             --text-muted: #666666;
+            --border-color: #e9ecef;
         }
 
         body {
@@ -49,7 +50,23 @@
             font-size: 1.1rem;
             color: var(--text-muted);
             max-width: 600px;
-            margin: 0 auto;
+            margin: 0 auto 20px auto;
+        }
+
+        .btn-appstore {
+            display: inline-block;
+            background-color: #000000;
+            color: #ffffff;
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: background-color 0.2s;
+        }
+
+        .btn-appstore:hover {
+            background-color: #333333;
         }
 
         .card {
@@ -57,47 +74,33 @@
             border-radius: 12px;
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
             padding: 30px;
-            margin-bottom: 30px;
+            margin-bottom: 25px;
         }
 
         h2 {
-            font-size: 1.4rem;
+            font-size: 1.3rem;
             color: var(--primary-color);
-            border-bottom: 2px solid #e9ecef;
+            border-bottom: 2px solid var(--border-color);
             padding-bottom: 10px;
             margin-top: 0;
         }
 
-        .features-grid {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 20px;
-            margin-top: 20px;
+        ol, ul {
+            padding-left: 20px;
         }
 
-        @media (min-width: 600px) {
-            .features-grid {
-                grid-template-columns: 1fr 1fr;
-            }
+        li {
+            margin-bottom: 10px;
         }
 
-        .feature-item {
-            background: #fdfdfd;
-            border: 1px solid #e9ecef;
-            border-radius: 8px;
-            padding: 20px;
+        .faq-item {
+            margin-bottom: 15px;
         }
 
-        .feature-item h3 {
-            margin-top: 0;
-            font-size: 1.1rem;
+        .faq-item strong {
             color: var(--primary-light);
-        }
-
-        .feature-item p {
-            margin-bottom: 0;
-            font-size: 0.95rem;
-            color: var(--text-muted);
+            display: block;
+            margin-bottom: 3px;
         }
 
         footer {
@@ -106,41 +109,76 @@
             font-size: 0.9rem;
             margin-top: 40px;
         }
+        
+        a {
+            color: var(--primary-light);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
 
     <div class="container">
         <header>
-            <div class="logo-icon">⛳️</div>
-            <h1>GolfAusreden</h1>
-            <p class="subtitle">Manchmal läuft auf dem Platz nicht alles nach Plan. Finde die perfekten Sprüche, verwalte deine Runden und teile deine Erlebnisse.</p>
+            <div class="logo-icon">📖</div>
+            <h1>Bedienungsanleitung</h1>
+            <p class="subtitle">So bedienst du <strong>GolfAusreden</strong> optimal – von der Runden-Vorbereitung bis zum Teilen mit Freunden.</p>
+            <a href="https://apps.apple.com/de/app/fairway-alibis/id6791482466" class="btn-appstore" target="_blank">Im App Store ansehen</a>
         </header>
 
         <div class="card">
-            <h2>Funktionen im Überblick</h2>
-            <div class="features-grid">
-                <div class="feature-item">
-                    <h3>📍 GPS-Platzsuche</h3>
-                    <p>Findet echte Golfplätze in deiner direkten Umgebung beim Start einer neuen Runde automatisch per Autovervollständigung.</p>
-                </div>
-                <div class="feature-item">
-                    <h3>🎯 Alibi-Radar</h3>
-                    <p>Sammle Loch für Loch passende Alibis, Zeitstempel und GPS-Koordinaten inklusive direkter Apple-Maps-Anbindung.</p>
-                </div>
-                <div class="feature-item">
-                    <h3>📤 Teilen-Funktion</h3>
-                    <p>Teile deine gespielten Runden und besten Alibis direkt aus der Historie heraus mit deinen Flight-Partnern und Freunden.</p>
-                </div>
-                <div class="feature-item">
-                    <h3>🔒 100% Privat</h3>
-                    <p>Kein Account oder Login erforderlich. Alle Daten werden sicher und ausschließlich lokal als JSON auf deinem Gerät gespeichert.</p>
-                </div>
+            <h2>1. Eine neue Runde starten</h2>
+            <ol>
+                <li>Tippe auf dem Startbildschirm auf <strong>„Neue Runde starten“</strong> (oder das Plus-Symbol).</li>
+                <li><strong>Platzsuche:</strong> Gib den Namen deines Golfclubs ein. Die App nutzt deine GPS-Standortdaten, um echte Golfplätze in deiner direkten Umgebung automatisch vorzuschlagen.</li>
+                <li>Bestätige die Auswahl und starte direkt in die Runde.</li>
+            </ol>
+        </div>
+
+        <div class="card">
+            <h2>2. Das Alibi-Radar (Loch für Loch)</h2>
+            <ul>
+                <li><strong>Alibi wählen:</strong> Wähle für das jeweilige Loch oder den verpatzten Schlag eine passende Begründung aus.</li>
+                <li><strong>Zeitstempel & GPS:</strong> Jedes eingetragene Alibi speichert automatisch die exakte Uhrzeit sowie die GPS-Koordinaten.</li>
+                <li><strong>Standort ansehen:</strong> Ein Tipp auf die Koordinaten öffnet direkt Apple Maps, um den exakten Ort nachzuvollziehen.</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>3. Notizen, Speichern & Teilen</h2>
+            <ul>
+                <li><strong>Notizen:</strong> Füge zu jedem Loch oder zur gesamten Runde individuelle Notizen (z. B. Punktestand oder Wetter) hinzu.</li>
+                <li><strong>Historie:</strong> Alle vergangenen Runden werden automatisch gesichert und sind jederzeit in der Historie abrufbar.</li>
+                <li><strong>Runden teilen:</strong> Öffne eine gespeicherte Runde in der Historie und nutze den <strong>Teilen-Button</strong> in der Detailansicht, um deine Erlebnisse per WhatsApp, Nachricht & Co. zu versenden.</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>Häufige Fragen (FAQ)</h2>
+            <div class="faq-item">
+                <strong>Muss ich mich registrieren?</strong>
+                <p>Nein. Die App benötigt keinen Account oder Login.</p>
+            </div>
+            <div class="faq-item">
+                <strong>Wo werden meine Daten gespeichert?</strong>
+                <p>Alle Runden und Alibis werden zu 100 % privat und sicher als JSON-Datei direkt lokal auf deinem iPhone gespeichert.</p>
+            </div>
+            <div class="faq-item">
+                <strong>Warum fragt die App nach dem Standort?</strong>
+                <p>Der GPS-Zugriff wird ausschließlich dazu genutzt, dir in der Eingabemaske Golfplätze in deiner Nähe per Autovervollständigung vorzuschlagen.</p>
+            </div>
+            <div class="faq-item">
+                <strong>Wo finde ich die App im Store?</strong>
+                <p>Du kannst die App direkt über diesen Link aufrufen: <a href="https://apps.apple.com/de/app/fairway-alibis/id6791482466" target="_blank">GolfAusreden im App Store</a>.</p>
             </div>
         </div>
 
         <footer>
-            <p>&copy; GolfAusreden • Viel Spaß auf dem Platz!</p>
+            <p>&copy; GolfAusreden • Viel Spaß auf dem Platz! 🏌️‍♂️⛳️</p>
         </footer>
     </div>
 
