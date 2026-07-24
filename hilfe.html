@@ -50,7 +50,23 @@
             font-size: 1.1rem;
             color: var(--text-muted);
             max-width: 600px;
-            margin: 0 auto;
+            margin: 0 auto 20px auto;
+        }
+
+        .btn-appstore {
+            display: inline-block;
+            background-color: #000000;
+            color: #ffffff;
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: background-color 0.2s;
+        }
+
+        .btn-appstore:hover {
+            background-color: #333333;
         }
 
         .card {
@@ -93,6 +109,15 @@
             font-size: 0.9rem;
             margin-top: 40px;
         }
+        
+        a {
+            color: var(--primary-light);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -102,6 +127,7 @@
             <div class="logo-icon">📖</div>
             <h1>Bedienungsanleitung</h1>
             <p class="subtitle">So bedienst du <strong>GolfAusreden</strong> optimal – von der Runden-Vorbereitung bis zum Teilen mit Freunden.</p>
+            <a href="https://apps.apple.com/de/app/fairway-alibis/id6791482466" class="btn-appstore" target="_blank">Im App Store ansehen</a>
         </header>
 
         <div class="card">
@@ -144,6 +170,10 @@
             <div class="faq-item">
                 <strong>Warum fragt die App nach dem Standort?</strong>
                 <p>Der GPS-Zugriff wird ausschließlich dazu genutzt, dir in der Eingabemaske Golfplätze in deiner Nähe per Autovervollständigung vorzuschlagen.</p>
+            </div>
+            <div class="faq-item">
+                <strong>Wo finde ich die App im Store?</strong>
+                <p>Du kannst die App direkt über diesen Link aufrufen: <a href="https://apps.apple.com/de/app/fairway-alibis/id6791482466" target="_blank">GolfAusreden im App Store</a>.</p>
             </div>
         </div>
 
