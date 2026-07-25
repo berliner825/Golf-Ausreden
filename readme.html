@@ -3,39 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GolfAusreden - Dokumentation & README</title>
+    <title>GolfAusreden - Dokumentation & Marketing</title>
+    
+    <!-- Cache-Control für alle gängigen Browser & Proxies -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 800px;
+            line-height: 1.7;
+            color: #2c3e50;
+            max-width: 850px;
             margin: 0 auto;
             padding: 40px 20px;
-            background-color: #fcfcfc;
+            background-color: #f8f9fa;
         }
         h1, h2, h3 {
             color: #1a4d2e;
         }
         h1 {
-            border-bottom: 2px solid #1a4d2e;
-            padding-bottom: 10px;
+            border-bottom: 3px solid #1a4d2e;
+            padding-bottom: 12px;
+            font-size: 2em;
         }
-        .badge {
-            display: inline-block;
-            background-color: #1a4d2e;
+        h2 {
+            margin-top: 40px;
+            font-size: 1.35em;
+            border-left: 4px solid #1a4d2e;
+            padding-left: 12px;
+        }
+        .hero {
+            background: linear-gradient(135deg, #1a4d2e 0%, #2e7d32 100%);
             color: white;
-            padding: 4px 10px;
-            border-radius: 4px;
-            font-size: 0.85em;
-            font-weight: bold;
-            margin-bottom: 15px;
+            padding: 35px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+        .hero h1 {
+            color: white;
+            border-bottom: 2px solid rgba(255,255,255,0.3);
+            margin-top: 0;
+        }
+        .hero p {
+            font-size: 1.15em;
+            color: #e8f5e9;
         }
         .card {
             background: white;
             border: 1px solid #e0e0e0;
             border-radius: 8px;
-            padding: 20px;
+            padding: 25px;
             margin-bottom: 20px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.02);
         }
@@ -43,52 +63,88 @@
             padding-left: 20px;
         }
         li {
-            margin-bottom: 8px;
+            margin-bottom: 10px;
+            color: #444;
+        }
+        strong {
+            color: #1a4d2e;
+        }
+        .quote-box {
+            background-color: #f0f7f2;
+            border-left: 4px solid #2e7d32;
+            padding: 18px;
+            margin: 20px 0;
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+            font-size: 1.05em;
+            color: #1a4d2e;
         }
         footer {
             margin-top: 50px;
             text-align: center;
             font-size: 0.9em;
-            color: #666;
+            color: #777;
             border-top: 1px solid #e0e0e0;
             padding-top: 20px;
+        }
+        footer a {
+            color: #1a4d2e;
+            text-decoration: none;
+            font-weight: bold;
         }
     </style>
 </head>
 <body>
 
-    <span class="badge">iOS App</span>
-    <h1>GolfAusreden</h1>
-    <p><strong>Dein digitaler Caddy für unschlagbare Alibis und die perfekte Dokumentation jeder denkwürdigen Golfrunde.</strong></p>
-
-    <div class="card">
-        <h2>Über das Projekt</h2>
-        <p>GolfAusreden ist eine native iOS-Anwendung, entwickelt in SwiftUI. Sie hilft Golfern dabei, verpatzte Schläge, missglückte Putts oder Wetterkapriolen mit Humor zu nehmen, passende Ausreden parat zu haben und die Rundenhistorie samt Foto-Dokumentation festzuhalten.</p>
+    <div class="hero">
+        <h1>GolfAusreden</h1>
+        <p><strong>Der perfekte Putt war unmöglich? Der Wind war schuld!</strong></p>
+        <p>Dein digitaler Caddy für unschlagbare Alibis und legendäre Runden.</p>
     </div>
 
     <div class="card">
-        <h2>Hauptfunktionen</h2>
+        <h2>🏌️ Über das Projekt & Marketing-Ansatz</h2>
+        <p>Jeder Golfer kennt den Moment: Der Ball landet im tiefsten Rough, der Putt rollt Zentimeter am Loch vorbei, oder der Schläger scheint heute einfach gegen dich zu arbeiten. Schluss mit peinlichen Rechtfertigungen!</p>
+        <p>Mit <strong>GolfAusreden</strong> hast du ab sofort für jede Katastrophe auf dem Platz die passende, humorvolle Erklärung parat.</p>
+    </div>
+
+    <div class="card">
+        <h2>💬 Die ultimative Antwort: „Was soll ich damit?“</h2>
+        <div class="quote-box">
+            „Weil es auf dem Platz nicht darauf ankommt, wie gut du spielst, sondern wie gut du erklären kannst, warum es nicht geklappt hat.“
+        </div>
+        
+        <h3>Die Argumentationshilfe für Skeptiker:</h3>
         <ul>
-            <li><strong>Aktive Runde aufzeichnen:</strong> Wähle deinen Golfplatz, dokumentiere das gespielte Alibi Loch für Loch und halte Momente per Foto fest.</li>
-            <li><strong>Integrierter Foto-Stempel:</strong> Versehe deine Golf-Schnappschüsse automatisch mit einem schicken Stempel (Platz, Loch, Alibi).</li>
-            <li><strong>Ausreden-Mosaik & Kategorien:</strong> Durchstöbere Kategorien wie Putt, Schwung oder Wetter, lass dir zufällige Vorschläge anzeigen oder übernehme Ausreden in deine eigene Sammlung („Meine“).</li>
-            <li><strong>QR-Code / Deep Linking:</strong> Scanne GolfAusreden-QR-Codes von Freunden oder Flyern, um neue Ausreden sofort in deine App zu importieren.</li>
-            <li><strong>Server-Updates & Datenbasis:</strong> Suche jederzeit manuell nach Aktualisierungen, um neue Sprüche und Alibis direkt vom Server zu laden.</li>
-            <li><strong>Statistiken:</strong> Finde über das Balkendiagramm heraus, welche Ausreden du im Laufe der Saison am häufigsten gebraucht hast.</li>
+            <li><strong>Der soziale Faktor & Humor:</strong> Golf ist oft zu ernst. Die App bricht das Eis im Flight und sorgt für Lacher, bevor der Flightpartner überhaupt einen Spruch machen kann.</li>
+            <li><strong>Der digitale Erinnerungswert:</strong> Mit dem integrierten Foto-Stempel machst du aus jedem Schnappschuss auf dem Grün eine unvergessliche Erinnerung – direkt mit Platz- und Alibi-Angabe.</li>
+            <li><strong>Selbsterkenntnis durch Statistik:</strong> Die eingebaute Statistik zeigt Schwarz auf Weiß, ob du heute eher am Wetter, am Putter oder am eigenen Swing gezweifelt hast.</li>
         </ul>
     </div>
 
     <div class="card">
-        <h2>Technischer Aufbau</h2>
+        <h2>✨ Hauptfunktionen</h2>
+        <ul>
+            <li><strong>Aktive Runde aufzeichnen:</strong> Wähle deinen Platz und dokumentiere das gespielte Alibi Loch für Loch.</li>
+            <li><strong>Der Erinnerungsstempel:</strong> Versehe deine Golf-Schnappschüsse automatisch mit einem stylischen Stempel (Platz, Loch, Alibi).</li>
+            <li><strong>Ausreden-Mosaik & Kategorien:</strong> Durchstöbere Kategorien (Putt, Schwung, Wetter etc.), nutze den Zufallsgenerator oder lege eigene Sprüche an.</li>
+            <li><strong>QR-Code / Deep Linking:</strong> Scanne GolfAusreden-QR-Codes, um neue Alibis blitzschnell mit Mitspielern auszutauschen.</li>
+            <li><strong>Server-Updates & Datenbasis:</strong> Suche manuell nach Aktualisierungen, um neue Sprüche direkt vom Server zu laden.</li>
+            <li><strong>Saison-Statistiken:</strong> Finde heraus, welche Ausrede du am häufigsten gebraucht hast.</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>🛠️ Technischer Aufbau</h2>
         <ul>
             <li><strong>Framework:</strong> SwiftUI (iOS 16+)</li>
-            <li><strong>Architektur:</strong> Modulare Views, SwiftUI Environment, UIKit-Integration für Spezialfeatures (Kamera/ShareSheet).</li>
+            <li><strong>Dokumentation & Hilfe:</strong> Online eingebunden via externer Remote-Hilfe (<a href="hilfe.html" target="_blank">hilfe.html</a>).</li>
             <li><strong>Autor:</strong> Andreas Scheffler</li>
         </ul>
     </div>
 
     <footer>
-        <p>&copy; 2026 Andreas Scheffler. Alle Rechte vorbehalten. | <a href="hilfe.html" style="color: #1a4d2e; text-decoration: none;">Zur Bedienungsanleitung (Hilfe)</a></p>
+        <p>&copy; 2026 Andreas Scheffler. Alle Rechte vorbehalten. </p>
     </footer>
 
 </body>
