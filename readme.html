@@ -3,151 +3,93 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README – GolfAusreden</title>
+    <title>GolfAusreden - Dokumentation & README</title>
     <style>
-        :root {
-            --primary-color: #1a6b35;
-            --primary-light: #228b45;
-            --bg-color: #f8f9fa;
-            --card-bg: #ffffff;
-            --text-color: #333333;
-            --text-muted: #666666;
-            --border-color: #e9ecef;
-        }
-
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
             line-height: 1.6;
-            margin: 0;
-            padding: 0;
-        }
-
-        .container {
+            color: #333;
             max-width: 800px;
-            margin: 40px auto;
-            padding: 20px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #fcfcfc;
         }
-
-        header {
-            text-align: center;
-            margin-bottom: 40px;
+        h1, h2, h3 {
+            color: #1a4d2e;
         }
-
-        .logo-icon {
-            font-size: 48px;
-            margin-bottom: 10px;
-        }
-
         h1 {
-            color: var(--primary-color);
-            margin: 0 0 10px 0;
-            font-size: 2.2rem;
-        }
-
-        .subtitle {
-            font-size: 1.1rem;
-            color: var(--text-muted);
-            max-width: 600px;
-            margin: 0 auto 20px auto;
-        }
-
-        .btn-appstore {
-            display: inline-block;
-            background-color: #000000;
-            color: #ffffff;
-            padding: 12px 24px;
-            border-radius: 8px;
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.95rem;
-            transition: background-color 0.2s;
-        }
-
-        .btn-appstore:hover {
-            background-color: #333333;
-        }
-
-        .card {
-            background: var(--card-bg);
-            border-radius: 12px;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
-            padding: 30px;
-            margin-bottom: 25px;
-        }
-
-        h2 {
-            font-size: 1.3rem;
-            color: var(--primary-color);
-            border-bottom: 2px solid var(--border-color);
+            border-bottom: 2px solid #1a4d2e;
             padding-bottom: 10px;
-            margin-top: 0;
         }
-
+        .badge {
+            display: inline-block;
+            background-color: #1a4d2e;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.85em;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        .card {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+        }
         ul {
             padding-left: 20px;
         }
-
         li {
-            margin-bottom: 10px;
+            margin-bottom: 8px;
         }
-
         footer {
+            margin-top: 50px;
             text-align: center;
-            color: var(--text-muted);
-            font-size: 0.9rem;
-            margin-top: 40px;
-        }
-
-        a {
-            color: var(--primary-light);
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
+            font-size: 0.9em;
+            color: #666;
+            border-top: 1px solid #e0e0e0;
+            padding-top: 20px;
         }
     </style>
 </head>
 <body>
 
-    <div class="container">
-        <header>
-            <div class="logo-icon">⛳️</div>
-            <h1>GolfAusreden</h1>
-            <p class="subtitle">Dein smarter Begleiter für den Golfplatz – Runden dokumentieren, Alibis finden und teilen.</p>
-            <a href="https://apps.apple.com/de/app/fairway-alibis/id6791482466" class="btn-appstore" target="_blank">Im App Store ansehen</a>
-        </header>
+    <span class="badge">iOS App</span>
+    <h1>GolfAusreden</h1>
+    <p><strong>Dein digitaler Caddy für unschlagbare Alibis und die perfekte Dokumentation jeder denkwürdigen Golfrunde.</strong></p>
 
-        <div class="card">
-            <h2>Über das Projekt</h2>
-            <p><strong>GolfAusreden</strong> ist eine iOS-App, die entwickelt wurde, um Golfrunden aufzuzeichnen, passende Ausreden und Alibis für verpatzte Schläge zu liefern und die Daten lokal sowie übersichtlich zu verwalten.</p>
-        </div>
-
-        <div class="card">
-            <h2>Hauptfunktionen</h2>
-            <ul>
-                <li><strong>📍 GPS-Platzsuche:</strong> Automatische Vorschläge für echte Golfplätze in der direkten Umgebung beim Start einer neuen Runde.</li>
-                <li><strong>🎯 Alibi-Radar:</strong> Loch-für-Loch-Auswahl von Begründungen inklusive Zeitstempel und GPS-Koordinaten (mit Apple-Maps-Anbindung).</li>
-                <li><strong>⚙️ Eigene Alibis & Kategorie „Meine“:</strong> Erstelle eigene individuelle Sprüche und Insider-Witze, verwalte sie und passe sie flexibel an.</li>
-                <li><strong>🤝 Teilen per QR-Code & JSON-Export:</strong> Teile deine Lieblings-Alibis direkt vor Ort per QR-Code (mit automatischem App-Deep-Link) oder exportiere/importiere ganze Listen als JSON-Datei.</li>
-                <li><strong>📤 Teilen-Funktion:</strong> Gespielte Runden und Alibis direkt aus der Historie heraus mit Mitspielern teilen.</li>
-                <li><strong>📸 Gestempelte Erinnerungsfotos:</strong> Halte Schläge direkt mit der Kamera fest, versehe sie automatisch mit Runden- und Loch-Stempeln und behalte in der Historie dank Kamera-Symbol den Überblick.</li>
-                <li><strong>🔒 100% Privat:</strong> Kein Account oder Login erforderlich – alle Daten werden sicher als JSON-Datei lokal auf dem Gerät gespeichert.</li>
-            </ul>
-        </div>
-
-        <div class="card">
-            <h2>App Store Link</h2>
-            <p>Die offizielle iOS-Version ist im App Store verfügbar:</p>
-            <p><a href="https://apps.apple.com/de/app/fairway-alibis/id6791482466" target="_blank">https://apps.apple.com/de/app/fairway-alibis/id6791482466</a></p>
-        </div>
-
-        <footer>
-            <p>&copy; GolfAusreden • Viel Spaß auf dem Platz! 🏌️‍♂️⛳️</p>
-        </footer>
+    <div class="card">
+        <h2>Über das Projekt</h2>
+        <p>GolfAusreden ist eine native iOS-Anwendung, entwickelt in SwiftUI. Sie hilft Golfern dabei, verpatzte Schläge, missglückte Putts oder Wetterkapriolen mit Humor zu nehmen, passende Ausreden parat zu haben und die Rundenhistorie samt Foto-Dokumentation festzuhalten.</p>
     </div>
+
+    <div class="card">
+        <h2>Hauptfunktionen</h2>
+        <ul>
+            <li><strong>Aktive Runde aufzeichnen:</strong> Wähle deinen Golfplatz, dokumentiere das gespielte Alibi Loch für Loch und halte Momente per Foto fest.</li>
+            <li><strong>Integrierter Foto-Stempel:</strong> Versehe deine Golf-Schnappschüsse automatisch mit einem schicken Stempel (Platz, Loch, Alibi).</li>
+            <li><strong>Ausreden-Mosaik & Kategorien:</strong> Durchstöbere Kategorien wie Putt, Schwung oder Wetter, lass dir zufällige Vorschläge anzeigen oder übernehme Ausreden in deine eigene Sammlung („Meine“).</li>
+            <li><strong>QR-Code / Deep Linking:</strong> Scanne GolfAusreden-QR-Codes von Freunden oder Flyern, um neue Ausreden sofort in deine App zu importieren.</li>
+            <li><strong>Server-Updates & Datenbasis:</strong> Suche jederzeit manuell nach Aktualisierungen, um neue Sprüche und Alibis direkt vom Server zu laden.</li>
+            <li><strong>Statistiken:</strong> Finde über das Balkendiagramm heraus, welche Ausreden du im Laufe der Saison am häufigsten gebraucht hast.</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Technischer Aufbau</h2>
+        <ul>
+            <li><strong>Framework:</strong> SwiftUI (iOS 16+)</li>
+            <li><strong>Architektur:</strong> Modulare Views, SwiftUI Environment, UIKit-Integration für Spezialfeatures (Kamera/ShareSheet).</li>
+            <li><strong>Autor:</strong> Andreas Scheffler</li>
+        </ul>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Andreas Scheffler. Alle Rechte vorbehalten. | <a href="hilfe.html" style="color: #1a4d2e; text-decoration: none;">Zur Bedienungsanleitung (Hilfe)</a></p>
+    </footer>
 
 </body>
 </html>

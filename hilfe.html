@@ -3,176 +3,98 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hilfe & Funktionsumfang – GolfAusreden</title>
+    <title>GolfAusreden - Hilfe & Anleitung</title>
     <style>
-        :root {
-            --primary-color: #1a6b35;
-            --primary-light: #228b45;
-            --bg-color: #f8f9fa;
-            --card-bg: #ffffff;
-            --text-color: #333333;
-            --text-muted: #666666;
-            --border-color: #e9ecef;
-        }
-
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
             line-height: 1.6;
-            margin: 0;
-            padding: 0;
-        }
-
-        .container {
+            color: #333;
             max-width: 800px;
-            margin: 40px auto;
-            padding: 20px;
-        }
-
-        header {
-            text-align: center;
-            margin-bottom: 40px;
-        }
-
-        .logo-icon {
-            font-size: 48px;
-            margin-bottom: 10px;
-        }
-
-        h1 {
-            color: var(--primary-color);
-            margin: 0 0 10px 0;
-            font-size: 2.2rem;
-        }
-
-        .subtitle {
-            font-size: 1.1rem;
-            color: var(--text-muted);
-            max-width: 600px;
             margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #fcfcfc;
         }
-
-        .card {
-            background: var(--card-bg);
-            border-radius: 12px;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
-            padding: 30px;
-            margin-bottom: 25px;
+        h1, h2 {
+            color: #1a4d2e;
         }
-
-        h2 {
-            font-size: 1.3rem;
-            color: var(--primary-color);
-            border-bottom: 2px solid var(--border-color);
+        h1 {
+            border-bottom: 2px solid #1a4d2e;
             padding-bottom: 10px;
+        }
+        .section {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+        }
+        .section h2 {
             margin-top: 0;
+            font-size: 1.25em;
         }
-
-        h3 {
-            font-size: 1.1rem;
-            color: var(--text-color);
-            margin-top: 20px;
-            margin-bottom: 5px;
+        p, li {
+            color: #555;
         }
-
         ul {
             padding-left: 20px;
-            margin-top: 5px;
         }
-
-        li {
-            margin-bottom: 10px;
+        .contact-box {
+            background-color: #f0f7f2;
+            border-left: 4px solid #1a4d2e;
+            padding: 15px;
+            margin-top: 30px;
+            border-radius: 0 8px 8px 0;
         }
-
-        p {
-            margin-bottom: 15px;
-        }
-
         footer {
+            margin-top: 50px;
             text-align: center;
-            color: var(--text-muted);
-            font-size: 0.9rem;
-            margin-top: 40px;
-        }
-
-        .badge {
-            display: inline-block;
-            background-color: var(--primary-light);
-            color: white;
-            font-size: 0.8rem;
-            padding: 2px 8px;
-            border-radius: 4px;
-            vertical-align: middle;
-            margin-left: 5px;
+            font-size: 0.9em;
+            color: #666;
+            border-top: 1px solid #e0e0e0;
+            padding-top: 20px;
         }
     </style>
 </head>
 <body>
 
-    <div class="container">
-        <header>
-            <div class="logo-icon">⛳️</div>
-            <h1>GolfAusreden</h1>
-            <p class="subtitle">Dein digitaler Caddy für unschlagbare Alibis und die Dokumentation deiner Runden – Benutzerhandbuch & Hilfe.</p>
-        </header>
+    <h1>Hilfe & Anleitung</h1>
+    <p>Dein digitaler Caddy für unschlagbare Alibis und die perfekte Dokumentation jeder denkwürdigen Golfrunde.</p>
 
-        <div class="card">
-            <h2>1. Erste Schritte & Hauptbildschirm</h2>
-            <p>Auf dem Startbildschirm von GolfAusreden hast du direkten Zugriff auf alle wichtigen Funktionen der App:</p>
-            <ul>
-                <li><strong>Aktive Runde starten:</strong> Beginne eine neue Golfrunde. Die App schlägt dir automatisch echte Golfplätze in deiner Umgebung vor (GPS-Platzsuche).</li>
-                <li><strong>Antennen-Symbol (Einstellungen):</strong> Öffnet ein Pop-over, in dem du beispielsweise die Wind-Unterstützung ein- oder ausschalten kannst.</li>
-                <li><strong>Zahnrad-Symbol:</strong> Führt dich direkt zur Verwaltung deiner eigenen Alibis und Sprüche.</li>
-                <li><strong>Historie-Symbol:</strong> Zeigt dir vergangene Runden und gespeicherte Spielstände an.</li>
-            </ul>
-        </div>
-
-        <div class="card">
-            <h2>2. Das Alibi-Radar & Aktive Runde</h2>
-            <p>Während deiner Runde unterstützt dich das Alibi-Radar:</p>
-            <ul>
-                <li><strong>Loch-für-Loch-Begründungen:</strong> Erhalte treffende Ausreden und Erklärungen für verpatzte Schläge.</li>
-                <li><strong>Zeitstempel & Koordinaten:</strong> Jede Aktion wird präzise mit Zeit und GPS-Standort (inklusive Apple-Maps-Anbindung) versehen.</li>
-            </ul>
-        </div>
-
-        <div class="card">
-            <h2>3. Eigene Alibis erstellen & verwalten <span class="badge">Neu</span></h2>
-            <p>Über das Zahnrad-Symbol auf dem Startbildschirm erreichst du die Ansicht <strong>„Eigene Alibis verwalten“</strong>:</p>
-            <ul>
-                <li><strong>Hinzufügen:</strong> Erfasse eigene Sprüche und Insider-Witze, die automatisch unter der Kategorie <em>„Meine“</em> gespeichert werden.</li>
-                <li><strong>Bearbeiten & Löschen:</strong> Passe bestehende eigene Sprüche an oder lösche sie ganz einfach per Wischgeste aus der Liste.</li>
-            </ul>
-        </div>
-
-        <div class="card">
-            <h2>4. Teilen & Importieren (QR-Code & JSON) <span class="badge">Neu</span></h2>
-            <p>Teile deine besten Sprüche mit deinen Flight-Partnern direkt auf dem Platz oder zu Hause:</p>
-            <ul>
-                <li><strong>QR-Code Sharing:</strong> Neben jedem eigenen Alibi findest du ein QR-Code-Symbol. Tippst du darauf, öffnet sich ein QR-Code. Wenn ein Mitspieler diesen mit seiner iPhone-Kamera scannt, öffnet sich GolfAusreden automatisch (via Deep-Link <code>golfausreden://</code>) und das Alibi wird direkt in seine App übernommen!</li>
-                <li><strong>Text kopieren:</strong> Alternativ kannst du den Alibi-Text direkt über einen Button in die Zwischenablage kopieren.</li>
-                <li><strong>JSON-Dateiexport/-import:</strong> Exportiere deine komplette Sammlung als <code>.json</code>-Datei (über den nativen ShareLink) oder importiere fremde Alibi-Dateien über den Dokumenten-Picker.</li>
-            </ul>
-        </div>
-
-        <div class="card">
-            <h2>5. Fotos & Runden-Historie</h2>
-            <ul>
-                <li><strong>Gestempelte Erinnerungsfotos:</strong> Halte besondere Momente mit der Kamera fest. Sie werden automatisch mit einem Runden- und Loch-Stempel versehen.</li>
-                <li><strong>Kamera-Symbol in der Historie:</strong> In der Runden-Historie siehst du auf einen Blick, wie viele Erinnerungsfotos während einer Runde gespeichert wurden.</li>
-            </ul>
-        </div>
-
-        <div class="card">
-            <h2>6. Datenschutz & Speicherort</h2>
-            <p>GolfAusreden arbeitet <strong>100% lokal</strong>. Es ist kein Benutzerkonto, Login oder Cloud-Dienst erforderlich. Alle Daten, Runden und eigenen Alibis verbleiben sicher auf deinem iPhone.</p>
-        </div>
-
-        <footer>
-            <p>&copy; GolfAusreden • Viel Erfolg auf der Runde und ein schönes Spiel! 🏌️‍♂️⛳️</p>
-        </footer>
+    <div class="section">
+        <h2>⛳ 1. Aktive Runde starten</h2>
+        <p>Wähle deinen aktuellen Golfplatz aus und zeichne deine gespielten Alibis Loch für Loch auf. Du kannst während der Runde direkt ein Erinnerungsfoto aufnehmen, das mit einem integrierten Stempel (Platz, Loch, genutztes Alibi) versehen wird.</p>
     </div>
+
+    <div class="section">
+        <h2>📁 2. Alle Ausreden & Mosaik</h2>
+        <p>Durchstöbere alle vorhandenen Kategorien (wie Putt, Schwung, Wetter etc.). Du kannst dir zufällige Vorschläge anzeigen lassen, Ausreden kopieren, mit Freunden teilen oder mit einem Tipp direkt in deine eigene Sammlung („Meine“) übernehmen.</p>
+    </div>
+
+    <div class="section">
+        <h2>📷 3. Eigene Alibis per QR-Code</h2>
+        <p>Scanne einfach einen GolfAusreden-QR-Code (z. B. von Mitspielern oder aus Flyern), um neue Alibis blitzschnell und vollautomatisch deiner eigenen Sammlung hinzuzufügen.</p>
+    </div>
+
+    <div class="section">
+        <h2>⚙️ 4. Einstellungen & Datenbasis</h2>
+        <p>Die App startet sofort mit den integrierten Standard-Alibis. Über das Zahnrad-Symbol in den Einstellungen kannst du jederzeit manuell nach Aktualisierungen auf dem Server suchen, um neue Sprüche und Daten zu laden.</p>
+    </div>
+
+    <div class="section">
+        <h2>📊 5. Statistiken</h2>
+        <p>Finde heraus, welche Alibis du im Laufe der Golfsaison am häufigsten gebraucht hast – übersichtlich dargestellt über das Balkendiagramm-Symbol in der Mosaikansicht.</p>
+    </div>
+
+    <div class="contact-box">
+        <h3>Fragen oder Feedback?</h3>
+        <p>Du hast Anregungen, Fragen zur App oder einen Fehler entdeckt? Schreib mir gerne direkt eine E-Mail an:<br>
+        <strong>brief@andi-aus-berlin.info</strong></p>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Andreas Scheffler. GolfAusreden - Alle Rechte vorbehalten.</p>
+    </footer>
 
 </body>
 </html>
