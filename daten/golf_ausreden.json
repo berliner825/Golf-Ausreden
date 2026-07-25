@@ -449,6 +449,45 @@
   { "kategorie": "Bunker", "text": "Die Menge an Sand war schlichtweg illegal platziert." },
   { "kategorie": "Bunker", "text": "Da war keine Chance auf einen sauberen Ballkontakt bei dem Untergrund." },
   { "kategorie": "Bunker", "text": "Der Sand hat den Ball wie ein Magnet festgehalten." },
-  { "kategorie": "Bunker", "text": "Nächstes Mal nehme ich die Schaufel statt des Sandwedges." }
-  
+  { "kategorie": "Bunker", "text": "Nächstes Mal nehme ich die Schaufel statt des Sandwedges." },
+  {
+    "kategorie": "Allgemein",
+    "text": "Der Schlägerkopf hat sich im dümmsten Moment minimal verdreht."
+  },
+  {
+    "kategorie": "Allgemein",
+    "text": "Ich wurde im Durchschwung durch eine optische Täuschung am Horizont irritiert."
+  },
+  {
+    "kategorie": "Allgemein",
+    "text": "Der Ball lag in einer unglücklichen Bodenwelle, die man von oben gar nicht sehen konnte."
+  },
+  {
+    "kategorie": "Allgemein",
+    "text": "Da hat kurz der innere Rhythmus gestimmt, aber leider zur falschen Zeit."
+  },
+  {
+    "kategorie": "Allgemein",
+    "text": "Das Gras ist hier genau in die falsche Richtung gewachsen."
+  },
+  {
+    "kategorie": "Allgemein",
+    "text": "Ich habe die Distanz um exakt fünf Meter falsch eingeschätzt."
+  },
+  {
+    "kategorie": "Allgemein",
+    "text": "Der Treffpunkt war gut, aber die Physik wollte heute einfach nicht mitspielen."
+  },
+  {
+    "kategorie": "Allgemein",
+    "text": "In dem Moment, als ich geschlagen habe, hat sich mein Stand auf dem Untergrund minimal verschoben."
+  },
+  {
+    "kategorie": "Allgemein",
+    "text": "Das war rein technisch gesehen ein Prototyp-Schwung, der so nicht geplant war."
+  },
+  {
+    "kategorie": "Allgemein",
+    "text": "Die Anspannung im Muskel war nach den letzten Löchern einfach zu präzise dosiert."
+  }
   ]
