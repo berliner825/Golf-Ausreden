@@ -449,5 +449,305 @@
   { "kategorie": "Bunker", "text": "Die Menge an Sand war schlichtweg illegal platziert." },
   { "kategorie": "Bunker", "text": "Da war keine Chance auf einen sauberen Ballkontakt bei dem Untergrund." },
   { "kategorie": "Bunker", "text": "Der Sand hat den Ball wie ein Magnet festgehalten." },
-  { "kategorie": "Bunker", "text": "Nächstes Mal nehme ich die Schaufel statt des Sandwedges." }
+  { "kategorie": "Bunker", "text": "Nächstes Mal nehme ich die Schaufel statt des Sandwedges." },
+  {
+   "kategorie": "Fazit",
+    "text": "Der schlechte Drive lag eindeutig daran, dass das Parken im engen Carport die Handgelenke blockiert hat."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Wer auf dem Parkplatz schon im falschen Gang anfährt, zieht sich den Slice direkt über 18 Löcher mit."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Schon beim Ausparken hat mir ein rücksichtsloser Kombi die ideale Linie für den ersten Abschlag versaut."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Der Weg zum Golfplatz war durch eine Baustelle so verstopft, dass mein Puls schon vor Loch 1 im roten Bereich war."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Wer sein Golfbag auf dem Schotterparkplatz falsch herum auslädt, braucht sich über verunglückte Putts nicht zu wundern."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Die Parkplatzsuche war heute so stressig, dass die Konzentration für das Grün komplett auf der Strecke geblieben ist."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Ein zerkratzter Kotflügel auf dem Club-Parkplatz raubt einfach jede mentale Stärke für das kurze Spiel."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Wer ganz hinten auf dem Ausweichparkplatz parken muss, hat physikalisch schon drei Schläge Rückstand."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Der Stau auf der Autobahnanfahrt hat meine Muskeln asymmetrisch verkrampft."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Schon beim Einparken rückwärts in die enge Lücke habe ich gemerkt, dass heute kein Driver sitzt."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Die Vollsperrung auf der Landstraße hat mein inneres Handicap massiv nach oben korrigiert."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Wer direkt vor dem Clubhaus keinen Parkplatz kriegt, spielt psychologisch direkt einen Bogey mehr."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Das Navi hat mich über drei Feldwege geschickt – da war der Schwung vor dem ersten Abschlag schon ruiniert."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Der nasse Schlamm auf dem Parkplatz hat meine Golfschuhe direkt mit fünf Kilo Extragewicht beschwert."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Schon die Parkplatzgebühren an der Schranke haben meine sportliche Motivation spürbar gedämpft."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Ein Drängler auf der Zufahrt zum Golfclub hinterlässt einfach Spuren im mentalen Score."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Wer sein E-Golfmobil auf dem Parkplatz nicht richtig lädt, darf sich über fehlende Energie auf der Back Nine nicht wundern."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Der Schlagloch-Parcours auf der Clubzufahrt hat mein Alignment komplett dejustiert."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Wer den Kofferraumdeckel beim Ausladen ins Gesicht bekommt, startet mit maximaler Verwirrung in den Flight."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Die Parkplatzordnung auf diesem Platz ist so kompliziert wie ein komplexer Putt über drei Breaks."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Schon auf der Hinfahrt hat das Radio nur Lieder gespielt, die meinen Golf-Rhythmus gestört haben."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Der Hagelschauer exakt auf den letzten zwei Kilometern der Anfahrt hat den Ballflug im Nachhinein völlig blockiert."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Wer den Parkplatz ohne Beinschäden erreicht, hat das schwerste Hindernis des Tages bereits hinter sich."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Die enge Ausfahrt vom Parkplatz spiegelt exakt den Schwierigkeitsgrad meiner heutigen Annäherungsschläge wider."
+  },
+  {
+   "kategorie": "Fazit",
+    "text": "Ein Fehltritt auf dem geschotterten Parkplatz – und der Stand beim Schwung ist für die Tonne."
+  },
+    {
+      "kategorie": "Fazit",
+      "text": "Das Bier an der Bar hat isotonische Eigenschaften, die den Slice sofort ausgleichen."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Auf der Terrasse schmeckt jedes Par wie ein Major-Sieg."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Die wahren Turniere werden nicht auf dem Grün, sondern bei der Nachbesprechung im Clubhaus entschieden."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Wer die Runde im Clubhaus schönredet, braucht keine Scorekarte mehr."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Ein kühles Getränk im Schatten der Clubhausterrasse heilt jeden dreifachen Bogey."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Die physikalischen Gesetze des Golfschwungs greifen erst ab dem zweiten Kaltgetränk im Clubhaus."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Im Clubhaus sind plötzlich alle Drives über 280 Meter lang."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Das Handicap schrumpft beim Betreten der Clubhausterrasse ganz von alleine um drei Striche."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Wer den Flight im Clubhaus einlädt, muss sich keine Vorwürfe wegen verlorener Bälle anhören."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Die besten taktischen Ratschläge für die nächste Runde entstehen auf der Clubhausterrasse."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Auf der Terrasse verblasst der Ärger über den getroffenen Rasensprenger im Rough."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Ein erfolgreicher Golftag endet traditionell dort, wo der Zapfhahn am nächsten steht."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Im Clubhaus hat jeder Spieler eine Ausrede parat, die wissenschaftlich nicht widerlegbar ist."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Die Scorekarte lügt vielleicht, aber die Stimmung im Clubhaus deckt gnadenlos auf."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Wer im Clubhaus zuerst die Zeche zahlt, hat die Runde sportlich am besten verkraftet."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Auf der Clubhausterrasse wandeln sich verlorene Bälle in legendäre Geschichten."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Das 19. Loch ist die einzige Bahn auf dem Platz, bei der man garantiert keinen Bunker trifft."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Nach 18 Löchern ist vor der Analyse bei Kaffee und Kuchen im Clubhaus."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Ein geselliger Ausklang im Clubhaus gleicht jeden verlorenen Putt wieder aus."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Die Terrasse des Clubhauses ist der sicherste Ort vor unerwarteten Annäherungsschlägen."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Im Clubhaus zählt nicht der Score, sondern die Qualität der verabreichten Alibis."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Wer im Clubhaus über den Wind klagt, hat auf dem Platz einfach zu tief in die Taschen geschaut."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Auf der Clubhausterrasse sind sich alle einig: Der Platzwart war an allem schuld."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Der beste Treffpunkt nach einem harten Tag im Rough ist die Theke im Clubhaus."
+    },
+    {
+      "kategorie": "Fazit",
+      "text": "Hier im Clubhaus fließt der Caddy-Kaffee wenigstens ohne Drei-Putt-Garantie."
+    },
+      {
+        "kategorie": "Fazit",
+        "text": "Die Greenkeeper haben heute heimlich an den Fahnenpositionen gefummelt, um unseren Flight zu zerstören."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Wer die Grüns heute als ‚spielbar‘ bezeichnet, hat noch nie echten Rasen unter den Füßen gehabt."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Das Greenkeeping-Team hatte heute offenbar Mitleid mit dem Platz und hat die Löcher extra hinter perfekten Wellen versteckt."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Auf diesen Grüns rollt der Ball nicht, er sucht sich psychologisch den längsten Umweg zum Loch."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Der Platzwart hat heute eindeutig persönliche Rachegelüste an meinem Putter ausgelassen."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Eingesäte Stolperfallen im Fairway – anders kann man den Zustand heute nicht erklären."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Die Greenkeeper haben den Rasen heute so kurz geschnitten, dass mein Ball vor Scham direkt ins Rough gerollt ist."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Ein Par war heute nur drin, wenn man die frisch vertikutierten Bahnen als aerodynamische Schanze genutzt hat."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Der morgendliche Tau wurde vom Platzwart gezielt so verteilt, dass jeder zweite Drive im Schlamm stecken bleibt."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Wer bei diesem Greenkeeper-Design noch einstellig Handicap spielt, hat den Platz bestochen."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Die Platzverhältnisse waren heute so unberechenbar, dass selbst die Löcher vor Angst gezittert haben."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Der Rasensprenger-Test lief heute perfekt – exakt während unseres Schlags auf dem Grün."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Das Rough wuchert höher als das Ego nach einem Eagle."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Die Greenkeeper haben die Sandbunker heute mit Treibsand verwechselt, anders gibt es keine Erklärung."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Ein ungemähter Traum in Grün – leider lag mein Ball immer im tiefsten Albtraum."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Der Platzwart hat die Flaggen heute im Windkanal aufgestellt."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Frisch aerifizierte Grüns sind der beste Beweis dafür, dass der Golfgott Humor hat."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Die Linienführung der Fairways erinnerte heute eher an eine moderne Kunstinstallation als an eine Spielbahn."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Wer heute ein Birdie schreibt, hat den Greenkeeper persönlich bestochen oder extrem viel Glück beim Abpraller am Rasenmäher."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Der Boden war so hart vom Walzen, dass der Ball vom Grün abgeprallt ist wie vom Trampolin."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Die Greenkeeper haben den Vorstart-Bonus heute komplett gestrichen und überall Löcher platziert, wo sie nicht hingehören."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Das Green glich heute einer Buckelpiste – Putten war eher eine wissenschaftliche Schätzung."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Ein Platz im absolut elitären Zustand: Man findet garantiert jeden Ball im tiefen Klee wieder."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Die Fräskanten im Bunker waren heute so scharf, dass sie Bälle förmlich angesaugt haben."
+      },
+      {
+        "kategorie": "Fazit",
+        "text": "Respekt an den Platzwart: So viele Hindernisse baut man sonst nur in Videospielen ein."
+      }
   ]
