@@ -452,18 +452,6 @@
   { "kategorie": "Bunker", "text": "Nächstes Mal nehme ich die Schaufel statt des Sandwedges." },
   {
    "kategorie": "Fazit",
-    "text": "Der schlechte Drive lag eindeutig daran, dass das Parken im engen Carport die Handgelenke blockiert hat."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Wer auf dem Parkplatz schon im falschen Gang anfährt, zieht sich den Slice direkt über 18 Löcher mit."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Schon beim Ausparken hat mir ein rücksichtsloser Kombi die ideale Linie für den ersten Abschlag versaut."
-  },
-  {
-   "kategorie": "Fazit",
     "text": "Der Weg zum Golfplatz war durch eine Baustelle so verstopft, dass mein Puls schon vor Loch 1 im roten Bereich war."
   },
   {
@@ -472,23 +460,7 @@
   },
   {
    "kategorie": "Fazit",
-    "text": "Die Parkplatzsuche war heute so stressig, dass die Konzentration für das Grün komplett auf der Strecke geblieben ist."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Ein zerkratzter Kotflügel auf dem Club-Parkplatz raubt einfach jede mentale Stärke für das kurze Spiel."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Wer ganz hinten auf dem Ausweichparkplatz parken muss, hat physikalisch schon drei Schläge Rückstand."
-  },
-  {
-   "kategorie": "Fazit",
     "text": "Der Stau auf der Autobahnanfahrt hat meine Muskeln asymmetrisch verkrampft."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Schon beim Einparken rückwärts in die enge Lücke habe ich gemerkt, dass heute kein Driver sitzt."
   },
   {
    "kategorie": "Fazit",
@@ -496,59 +468,7 @@
   },
   {
    "kategorie": "Fazit",
-    "text": "Wer direkt vor dem Clubhaus keinen Parkplatz kriegt, spielt psychologisch direkt einen Bogey mehr."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Das Navi hat mich über drei Feldwege geschickt – da war der Schwung vor dem ersten Abschlag schon ruiniert."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Der nasse Schlamm auf dem Parkplatz hat meine Golfschuhe direkt mit fünf Kilo Extragewicht beschwert."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Schon die Parkplatzgebühren an der Schranke haben meine sportliche Motivation spürbar gedämpft."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Ein Drängler auf der Zufahrt zum Golfclub hinterlässt einfach Spuren im mentalen Score."
-  },
-  {
-   "kategorie": "Fazit",
     "text": "Wer sein E-Golfmobil auf dem Parkplatz nicht richtig lädt, darf sich über fehlende Energie auf der Back Nine nicht wundern."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Der Schlagloch-Parcours auf der Clubzufahrt hat mein Alignment komplett dejustiert."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Wer den Kofferraumdeckel beim Ausladen ins Gesicht bekommt, startet mit maximaler Verwirrung in den Flight."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Die Parkplatzordnung auf diesem Platz ist so kompliziert wie ein komplexer Putt über drei Breaks."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Schon auf der Hinfahrt hat das Radio nur Lieder gespielt, die meinen Golf-Rhythmus gestört haben."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Der Hagelschauer exakt auf den letzten zwei Kilometern der Anfahrt hat den Ballflug im Nachhinein völlig blockiert."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Wer den Parkplatz ohne Beinschäden erreicht, hat das schwerste Hindernis des Tages bereits hinter sich."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Die enge Ausfahrt vom Parkplatz spiegelt exakt den Schwierigkeitsgrad meiner heutigen Annäherungsschläge wider."
-  },
-  {
-   "kategorie": "Fazit",
-    "text": "Ein Fehltritt auf dem geschotterten Parkplatz – und der Stand beim Schwung ist für die Tonne."
   },
     {
       "kategorie": "Fazit",
@@ -749,5 +669,206 @@
       {
         "kategorie": "Fazit",
         "text": "Respekt an den Platzwart: So viele Hindernisse baut man sonst nur in Videospielen ein."
-      }
+      },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Treffpunkt im Unterbewusstsein war perfekt, nur leider physisch ganz woanders."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Schläger waren heute eindeutig auf Linksverkehr eingestellt, obwohl wir rechts gespielt haben."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Luftwiderstand auf der Back Nine war physikalisch einfach nicht zu berechnen."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Grüns hatten heute eine persönliche Vendetta gegen meinen Putter."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Mein Rückschwung war exzellent, nur der Moment danach wurde vom Wind verweht."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Graphitschaft hat heute die Frequenz meiner schlechten Laune angenommen."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Erdanziehungskraft war auf diesem Platz heute spürbar stärker als im restlichen Bundesgebiet."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Ich habe gedanklich bereits an der Abendkarte im Clubhaus gearbeitet, da war für den Ball kein Platz mehr."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Ball wollte einfach die freie Natur im tiefen Rough erkunden."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Das war kein schlechter Schlag, das war eine strategische Erkundungsmission in den Bunker."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Driver hat sich geweigert, mit dem Golfball zu kooperieren."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Fahnenpositionen wurden heute von Sadisten gesteckt."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Mein Trainer hat mir genau diesen Slice verboten, aber der Schläger hat nicht zugehört."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Gegenwind kam heute exklusiv und persönlich aus jeder Richtung."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Mein Muskelgedächtnis hat heute beschlossen, komplett in den Urlaub zu gehen."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Ball ist nicht vorbeigeschlagen, er hat das Loch lediglich vornehm umkreist."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Ich habe den Ball zu sauber getroffen – er war schlicht überfordert mit so viel Präzision."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Rillen im Eisen waren heute eindeutig politisch linksradikal ausgerichtet."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Fairways hatten heute eine merkwürdige Rechtskurve eingebaut, die gestern noch nicht da war."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Ein Zuschauer hat drei Bahnen weiter geatmet, das hat meinen Rhythmus zerstört."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Das war ein Lehrbuch-Schlag – allerdings aus einem ganz falschen Lehrbuch."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Ball hatte heute eine allergische Reaktion auf die Schlägerfläche."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Meine Golfschuhe hatten heute zu viel Grip, da konnte der Schwung sich nicht entfalten."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Ich wollte den Ball nur kurz im Wald parken, um die Fauna zu unterstützen."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Schwung war theoretisch brillant, nur die Praxis war anderer Meinung."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Barometerstand hat meinen Loft komplett durcheinandergebracht."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Ball hat die Linie verweigert und sich für den freien Fall entschieden."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Ich war gedanklich schon beim Bier im Clubhaus, da verzeiht einem der Platz keinen Annäherungsschlag."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Ich spiele eigentlich Handicap 12, aber heute hatte mein Avatar einen Lag."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Putter war heute eindeutig auf Abstinenz programmiert."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Rough-Länge verstößt gegen die Menschenwürde."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Das war kein Slice, das war eine gewollte Platzvergrößerung nach rechts."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Mein Knie hat im Rückschwung ein Veto eingelegt."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Ich wollte testen, ob der See magnetisch ist. Ergebnis: Ja, ist er."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Treffmoment dauerte minimal zu kurz, um den Ball zu überzeugen."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Bälle hatten heute zu viel Eigengewicht in die falsche Richtung."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Sauerstoffgehalt in der Luft war auf Loch 7 zu niedrig für meinen Golfstil."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Ich habe den Ball so hart getroffen, dass er vor Schreck in den Busch geflüchtet ist."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Das Grün hatte heute zu viele Wellen, das war eine optische Täuschung."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Flightpartner hat zu laut geguckt, da war die Anspannung weg."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Mein Coach hat mir verboten, heute gut zu spielen, wegen der Statistik."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Schaft hat geflext wie ein nasser Strohhalm."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Bunkerkanten waren heute eindeutig zu steil für meine Flugkurve."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Das war der perfekte Schlag – für das Neben-Fairway."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Ich spiele absichtlich so schlecht, damit mein Handicap für das nächste Turnier Luft nach oben hat."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Ball wollte einfach mal sehen, was im tiefen Unterholz so wächst."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Augen-Hand-Koordination war heute im verdienten Feierabend."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Handschuhe haben heute jegliche diplomatische Einigung mit dem Griff verweigert."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Ich wollte den Ball eigentlich sanft aufs Grün legen, aber er hatte andere Pläne."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Das Spiel war eine Aneinanderreihung unglücklicher physikalischer Begebenheiten."
+  }
+]
   ]
