@@ -1,0 +1,42 @@
+[
+  {
+    "id": "wt-1",
+    "bedingung": "sonnig",
+    "text": "Strahlender Sonnenschein! Vergiss die Sonnencreme nicht, aber lass dir den Driver von der Wärme beflügeln."
+  },
+  {
+    "id": "wt-2",
+    "bedingung": "sonnig",
+    "text": "Perfektes Golfwetter. Die Grays sind schnell, die Vögel zwitschern – heute fällt die Unter-Par-Runde!"
+  },
+  {
+    "id": "wt-3",
+    "bedingung": "windig",
+    "text": "Frische Brise heute! Ein idealer Tag, um den Ball flach zu halten und den Wind für clevere Schläge zu nutzen."
+  },
+  {
+    "id": "wt-4",
+    "bedingung": "windig",
+    "text": "Gegenwind auf dem Fairway? Sieh es positiv: Das ist die perfekte Ausrede für den verunglückten Annäherungsschlag!"
+  },
+  {
+    "id": "wt-5",
+    "bedingung": "regen",
+    "text": "Echtes Schottenwetter! Nur die Harten kommen in den Genuß. Der Ball stoppt heute auf den Greens sofort."
+  },
+  {
+    "id": "wt-6",
+    "bedingung": "regen",
+    "text": "Regen ist nur flüssiger Sonnenschein für den Platz. Kopf hoch, Schirm auf und das Kurzspiel meistern!"
+  },
+  {
+    "id": "wt-7",
+    "bedingung": "standard",
+    "text": "Egal was der Himmel macht: Ein Tag auf dem Golfplatz ist immer besser als jeder Tag im Büro."
+  },
+  {
+    "id": "wt-8",
+    "bedingung": "standard",
+    "text": "Gute Bedingungen für eine Runde, bei der du garantiert jede Menge Stoff für neue Alibis sammelst!"
+  }
+]
