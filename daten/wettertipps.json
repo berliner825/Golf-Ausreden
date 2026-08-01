@@ -7,7 +7,7 @@
   {
     "id": "wt-2",
     "bedingung": "sonnig",
-    "text": "Perfektes Golfwetter. Die Grays sind schnell, die Vögel zwitschern – heute fällt die Unter-Par-Runde!"
+    "text": "Perfektes Golfwetter. Die Greens sind schnell, die Vögel zwitschern – heute fällt die Unter-Par-Runde!"
   },
   {
     "id": "wt-3",
@@ -22,7 +22,7 @@
   {
     "id": "wt-5",
     "bedingung": "regen",
-    "text": "Echtes Schottenwetter! Nur die Harten kommen in den Genuß. Der Ball stoppt heute auf den Greens sofort."
+    "text": "Echtes Schottenwetter! Nur die Harten kommen in den Genuss. Der Ball stoppt heute auf den Greens sofort."
   },
   {
     "id": "wt-6",
@@ -38,5 +38,215 @@
     "id": "wt-8",
     "bedingung": "standard",
     "text": "Gute Bedingungen für eine Runde, bei der du garantiert jede Menge Stoff für neue Alibis sammelst!"
+  },
+  {
+    "id": "wt-9",
+    "bedingung": "sonnig",
+    "text": "Blauer Himmel und kein Wolkchen in Sicht – ideal, um den Ball meterweit ins Rough zu ballern."
+  },
+  {
+    "id": "wt-10",
+    "bedingung": "sonnig",
+    "text": "Die Sonne brennt! Zeit für das kalte Clubhaus-Getränk nach der Runde. Vorher wird aber geliefert!"
+  },
+  {
+    "id": "wt-11",
+    "bedingung": "sonnig",
+    "text": "Sonne pur! Der Ball rollt heute nach dem Aufkommen gefühlt noch meilenweit weiter."
+  },
+  {
+    "id": "wt-12",
+    "bedingung": "sonnig",
+    "text": "Perfekte Lichtverhältnisse, um den Ball im ungemähten Gras zielsagend zu übersehen. Viel Erfolg!"
+  },
+  {
+    "id": "wt-13",
+    "bedingung": "sonnig",
+    "text": "Vitamin D tanken und Bälle versenken – heute ist dein Tag auf dem Fairway!"
+  },
+  {
+    "id": "wt-14",
+    "bedingung": "sonnig",
+    "text": "Der Platz trocken, die Laune top – jetzt muss nur noch der Schwung mitspielen."
+  },
+  {
+    "id": "wt-15",
+    "bedingung": "sonnig",
+    "text": "Sonnenschein garantiert beste Sicht auf die gegnerischen Flights, die vor dir trödeln."
+  },
+  {
+    "id": "wt-16",
+    "bedingung": "sonnig",
+    "text": "Heiß wie Frittenfett! Nutze die Wärme für maximale Schlägerkopfgeschwindigkeit."
+  },
+  {
+    "id": "wt-17",
+    "bedingung": "sonnig",
+    "text": "Schatten gibt's im Clubhaus. Draußen wird jetzt Scorekarte geschrieben!"
+  },
+  {
+    "id": "wt-18",
+    "bedingung": "sonnig",
+    "text": "Strahlender Sonnenschein täuscht nicht darüber hinweg: Der Putter hat heute trotzdem ein Eigenleben."
+  },
+  {
+    "id": "wt-19",
+    "bedingung": "windig",
+    "text": "Orkanböen im Anflug! Nimm einfach drei Schläger mehr und bete zum Golfgott."
+  },
+  {
+    "id": "wt-20",
+    "bedingung": "windig",
+    "text": "Der Wind pfeift um die Ohren. Perfekt, um jeden Slice auf den Luftstrom zu schieben."
+  },
+  {
+    "id": "wt-21",
+    "bedingung": "windig",
+    "text": "Windstärke Sturm! Wer heute das Grün trifft, hat Physik nie verstanden."
+  },
+  {
+    "id": "wt-22",
+    "bedingung": "windig",
+    "text": "Seitenwind von rechts? Zielt einfach ins Nachbarland, der Wind bringt ihn zurück."
+  },
+  {
+    "id": "wt-23",
+    "bedingung": "windig",
+    "text": "Heute bläst es ordentlich die Falten aus dem Gesicht. Bleib stabil im Stand!"
+  },
+  {
+    "id": "wt-24",
+    "bedingung": "windig",
+    "text": "Gegenwind auf allen Par-5-Löchern? Charakterbildung at its best!"
+  },
+  {
+    "id": "wt-25",
+    "bedingung": "windig",
+    "text": "Der Ball fliegt heute dank Rückenwind weiter als je zuvor – leider meistens ins Aus."
+  },
+  {
+    "id": "wt-26",
+    "bedingung": "windig",
+    "text": "Whirlpool-Atmosphäre auf dem Fairway. Lass dich nicht aus der Ruhe bringen!"
+  },
+  {
+    "id": "wt-27",
+    "bedingung": "windig",
+    "text": "Bei dem Wind bleibt die Frisur nicht sitzen, aber der Score hoffentlich stabil."
+  },
+  {
+    "id": "wt-28",
+    "bedingung": "windig",
+    "text": "Natur pur: Der Wind sortiert heute gnadenlos aus, wer gerade geschwungen hat."
+  },
+  {
+    "id": "wt-29",
+    "bedingung": "regen",
+    "text": "Wasserschlacht! Heute gewinnen die, die den wasserdichten Handschuh dabei haben."
+  },
+  {
+    "id": "wt-30",
+    "bedingung": "regen",
+    "text": "Es schüttet wie aus Eispöten. Zeit, den Schirm als Schutzschild zu nutzen."
+  },
+  {
+    "id": "wt-31",
+    "bedingung": "regen",
+    "text": "Nasser Ball, nasse Hände, gute Ausreden. Die Runde wird legendär!"
+  },
+  {
+    "id": "wt-32",
+    "bedingung": "regen",
+    "text": "Der Platz steht unter Wasser – ideale Bedingungen für das erste Amphibien-Golf der Vereinsgeschichte."
+  },
+  {
+    "id": "wt-33",
+    "bedingung": "regen",
+    "text": "Kein schlechtes Wetter, nur unpassende Kleidung. Zeig dem Regen, wer Chef im Ring ist!"
+  },
+  {
+    "id": "wt-34",
+    "bedingung": "regen",
+    "text": "Gedankliche Vorbereitung auf den Schlamm-Catch: Heute zählt jeder Meter Carry."
+  },
+  {
+    "id": "wt-35",
+    "bedingung": "regen",
+    "text": "Tropfen im Gesicht halten frisch. Konzentrier dich auf den Ball, nicht auf die nassen Socken."
+  },
+  {
+    "id": "wt-36",
+    "bedingung": "regen",
+    "text": "Ein echter Golfer schmilzt nicht im Wasser. Ab auf die Bahn!"
+  },
+  {
+    "id": "wt-37",
+    "bedingung": "regen",
+    "text": "Putz das Lofts-Eisen, zieh die Kapuze tief ins Gesicht – jetzt wird geliefert."
+  },
+  {
+    "id": "wt-38",
+    "bedingung": "regen",
+    "text": "Der Platz gehört heute den ganz Harten. Viel Erfolg da draußen!"
+  },
+  {
+    "id": "wt-39",
+    "bedingung": "standard",
+    "text": "Wolkig, aber stabil. Perfekt, um dem Flightpartner die Show zu stehlen."
+  },
+  {
+    "id": "wt-40",
+    "bedingung": "standard",
+    "text": "Angenehme Temperaturen. Keine Ausrede wegen Hitze oder Kälte heute!"
+  },
+  {
+    "id": "wt-41",
+    "bedingung": "standard",
+    "text": "Der Himmel ist grau, dein Golfspiel hoffentlich bunt und spektakulär."
+  },
+  {
+    "id": "wt-42",
+    "bedingung": "standard",
+    "text": "Optimale Wetterlage für eine konstante Runde ohne böse Überraschungen (hoffentlich)."
+  },
+  {
+    "id": "wt-43",
+    "bedingung": "standard",
+    "text": "Guter Golf-Tag. Die Vögel singen, der Platz wartet – lass es krachen."
+  },
+  {
+    "id": "wt-44",
+    "bedingung": "standard",
+    "text": "Neutrales Wetter bedeutet: Heute entscheidet ganz allein dein Talent (oder dein Glück)."
+  },
+  {
+    "id": "wt-45",
+    "bedingung": "standard",
+    "text": "Wunderbare Bedingungen, um die Scorekarte am Ende stolz im Clubhaus vorzuzeigen."
+  },
+  {
+    "id": "wt-46",
+    "bedingung": "standard",
+    "text": "Ein Tag wie gemalt für 18 Löcher pure Erholung und sportlichen Ehrgeiz."
+  },
+  {
+    "id": "wt-47",
+    "bedingung": "standard",
+    "text": "Die Bedingungen passen. Jetzt liegt's am Equipment und am Schwung."
+  },
+  {
+    "id": "wt-48",
+    "bedingung": "standard",
+    "text": "Ruhiger Tag auf dem Kurs. Genieße die Natur und jeden gelungenen Schlag."
+  },
+  {
+    "id": "wt-49",
+    "bedingung": "sonnig",
+    "text": "Sonnenschein pur: Die perfekte Kulisse für das nächste Hole-in-One!"
+  },
+  {
+    "id": "wt-50",
+    "bedingung": "standard",
+    "text": "Los geht's! Tee up und zeig dem Platz, wer heute das Sagen hat."
   }
 ]
