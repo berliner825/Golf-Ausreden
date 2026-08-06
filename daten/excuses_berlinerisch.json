@@ -1,545 +1,2006 @@
 [
-  { "kategorie": "Tee 1", "text": "Dit Tee war viel zu tief reingekloppt, da konntste ja nur drunterhermauschen, wa." },
-  { "kategorie": "Tee 1", "text": "Der Flight hinter uns stand schon im Abschlagskreis und hat mich volljekleistert mit Stress." },
-  { "kategorie": "Tee 1", "text": "Kaltstart ohne Range-Bälle – da ist der Muskeltonus noch im totalen Standby-Modus, et jibt keen Erbarmen." },
-  { "kategorie": "Tee 1", "text": "Der Wind kam genau in dem Wimpernschlag von schräg hinten, ick glob et hackt." },
-  { "kategorie": "Tee 1", "text": "Ick dacht, det wär n Holz und keen Eisen. Der Schläger hat mich verarscht." },
-  { "kategorie": "Tee 1", "text": "Wer schlägt denn bitte direkt nach der Begrüßung ab? Da fehlt jegliche Betriebstemperatur, meen Lieber." },
-  { "kategorie": "Tee 1", "text": "Die Schnösel auf der Clubterrasse haben genau im Schwung jeredet. Typische akustische Volltreffer." },
-  { "kategorie": "Tee 1", "text": "Der Boden war so hart, da ist das Tee abgebrochen wie een altes Streichholz." },
-  { "kategorie": "Tee 1", "text": "Mein Vormieter im Flight hat den Ball so hingelegt, dass meine ganze Aura im Eimer war." },
-  { "kategorie": "Tee 1", "text": "Erster Schlag des Tages ist kein Golf, dit ist een wissenschaftliches Experiment mit ungewissem Ausgang." },
-  { "kategorie": "Tee 1", "text": "Die Sonne stand exakt im 45-Grad-Winkel direkt in meinem rechten Auge. Blindflug in Neukölln." },
-  { "kategorie": "Tee 1", "text": "Der Griffgummi war noch feucht von der Desinfektion am Tee-Klo." },
-  { "kategorie": "Tee 1", "text": "Ick hab den Ball im Augenwinkel flattern sehn – der hatte bestimmt ne Unwucht." },
-  { "kategorie": "Tee 1", "text": "Zu hoher Erwartungsdruck vom Flight. Die Blicke brannten sich förmlich in mein Hemd." },
-  { "kategorie": "Tee 1", "text": "Der Greenkeeper hat die roten Tee-Klos so nah an den Baum gestellt, dass mein Rückschwung illegal war." },
-  { "kategorie": "Tee 1", "text": "Mein Frühstücksbrötchen lag noch quer im Magen und hat den Schwerpunkt verlegt." },
-  { "kategorie": "Tee 1", "text": "Ick wollt den Ball absichtlich kurz halten, um dit Material zu schonen." },
-  { "kategorie": "Tee 1", "text": "Der Driver hat heute Morgen beim Einpacken in die Tasche einen mittelschweren Schock gekriegt." },
-  { "kategorie": "Tee 1", "text": "Dit war kein Slice, dit war ein gewollter Fade mit extremer Berliner Note." },
-  { "kategorie": "Tee 1", "text": "Nervös? Ick doch nich. Der Ball war einfach extrem unkooperativ, ick sags dir." },
-  { "kategorie": "Tee 1", "text": "Auf Loch 1 jilt die physikalische Unschärferelation: Keener weiß, wo die Kugel hinfliegt." },
-  { "kategorie": "Tee 1", "text": "Der Flight vor uns hat uns so lange warten lassen, dass mein Adrenalin in den Keller jesaust ist." },
-  { "kategorie": "Tee 1", "text": "Falsche Startzeit im Kopf jehabt, da war der Schwung gedanklich noch im Auto." },
-  { "kategorie": "Tee 1", "text": "Ick hab den Ball im Gras kaum jesehn – tarnfarben quasi, wie die Mauer." },
-  { "kategorie": "Tee 1", "text": "Dit war nur der obligatorische Opferball für den Platzgott, ab jetzt läuft der Hase." },
-  { "kategorie": "Wetter", "text": "Der Wind hat den Ball jrade uff de Flugkurve erwischt." },
-  { "kategorie": "Wetter", "text": "De Luftfeuchtigkeit macht den Ball heut extrem schwer." },
-  { "kategorie": "Wetter", "text": "Der Gegenwind war in dieser Höh' viel stärker als am Boden." },
-  { "kategorie": "Wetter", "text": "De tiefstehende Sonne hat mich beim Abschlag kurz jeblendet." },
-  { "kategorie": "Wetter", "text": "Das Gras ist durch den Tau viel zu glitschig für meen Eisen." },
-  { "kategorie": "Wetter", "text": "Der plötzliche Luftdruckabfall hat de Flugbahn beeinflusst." },
-  { "kategorie": "Wetter", "text": "Da kam 'ne Windböe aus 'ner völlig unerwarteten Richtung." },
-  { "kategorie": "Wetter", "text": "De Hitze lässt den Ball heut unkontrolliert springen." },
-  { "kategorie": "Wetter", "text": "Der Windschatten des Baumes hat meenen Ball abbremsen lassen." },
-  { "kategorie": "Wetter", "text": "Es ist zu schwül, der Schläger klebt regelrecht in meener Hand." },
-  { "kategorie": "Wetter", "text": "Durch den Regen ist der Boden zu weich, der Ball gräbt sich ein." },
-  { "kategorie": "Wetter", "text": "De Wolken haben genau beim Putten das Licht verändert." },
-  { "kategorie": "Wetter", "text": "Der Seitenwind war für diesen Balltyp viel zu stark." },
-  { "kategorie": "Wetter", "text": "Es ist zu kalt, der Ball hat heut einfach keene Flugweite." },
-  { "kategorie": "Wetter", "text": "Der Wind hat den Spin meenes Balls komplett neutralisiert." },
-  { "kategorie": "Wetter", "text": "De Luft ist heut so dünn, da fliegt der Ball völlig anders." },
-  { "kategorie": "Wetter", "text": "Der feine Nieselregen macht das Grün unberechenbar schnell." },
-  { "kategorie": "Wetter", "text": "De Hitze flimmert über dem Fairway, das verzerrt de Distanz." },
-  { "kategorie": "Wetter", "text": "Der Wind hat den Ball in 'ne Windhose jezogen." },
-  { "kategorie": "Wetter", "text": "Durch de Kälte sind meine Muskeln steif, das Wetter ist schuld." },
-  { "kategorie": "Wetter", "text": "Der Boden ist durch den Regen zu hart jeworden, der Ball prallt ab." },
-  { "kategorie": "Wetter", "text": "Der Wind hat den Ball im Flug einfach 'angehalten'." },
-  { "kategorie": "Wetter", "text": "Das Licht ist heut so flach, ick kann de Bodenwellen nich sehn." },
-  { "kategorie": "Wetter", "text": "De hohe Luftfeuchtigkeit hat den Flugwinkel verändert." },
-  { "kategorie": "Wetter", "text": "Ein plötzlicher Windhauch hat meen Setup kurz vor dem Schlag jestört." },
-  { "kategorie": "Wetter", "text": "De Hitze macht mich müde, das Wetter drosselt meine Power." },
-  { "kategorie": "Wetter", "text": "Der Boden ist durch de Sonne so trocken, dass der Ball nur rollt." },
-  { "kategorie": "Wetter", "text": "Der Wind kommt heut aus zwei Richtungen gleichzeitig." },
-  { "kategorie": "Wetter", "text": "Das Wetter ist zu wechselhaft, meen Rhythmus kommt nich rein." },
-  { "kategorie": "Wetter", "text": "De Wolkendecke schluckt de Tiefe, ick seh de Fahne nich genau." },
-  { "kategorie": "Wetter", "text": "Der Nebel in der Senke hat de Sicht auf das Loch verzerrt." },
-  { "kategorie": "Wetter", "text": "De Luftbewegung am Tee war heut völlig unlogisch." },
-  { "kategorie": "Wetter", "text": "Es ist zu windig, um den Ball sauber im Flug zu kontrollieren." },
-  { "kategorie": "Wetter", "text": "De Sonnenstrahlen haben genau auf der Balloberfläche reflektiert." },
-  { "kategorie": "Wetter", "text": "Der Boden ist durch de Feuchtigkeit zu 'klebrig' für meine Spikes." },
-  { "kategorie": "Wetter", "text": "De Kälte lässt das Material des Balls hart und unspielbar werden." },
-  { "kategorie": "Wetter", "text": "Der Wind hat den Ball in 'ne Luftschicht drückt, de stand." },
-  { "kategorie": "Wetter", "text": "Bei diesem Wetter ist das Grün nich mehr zu lesen." },
-  { "kategorie": "Wetter", "text": "De Hitze hat meen Schwung heut extrem verlangsamelt." },
-  { "kategorie": "Wetter", "text": "Der Wind hat das Gras in eine Richtung jebogen, de den Ball bremst." },
-  { "kategorie": "Wetter", "text": "Das Wetter-Chaos macht mich heut mental einfach fertig." },
-  { "kategorie": "Wetter", "text": "De hohe Luftfeuchtigkeit lässt den Ball heut seltsam 'schweben'." },
-  { "kategorie": "Wetter", "text": "Der Wind hat den Schlag in der Endphase abgefälscht." },
-  { "kategorie": "Wetter", "text": "De Sonne blendet mich direkt durch de Bäume am Green." },
-  { "kategorie": "Wetter", "text": "Der Boden ist zu uneben durch das viele Regenwasser." },
-  { "kategorie": "Wetter", "text": "Es ist zu schwül, meen Handschuh wird nass und rutschig." },
-  { "kategorie": "Wetter", "text": "Der Wind hat meen Schwung durch de Kleidung beeinflusst." },
-  { "kategorie": "Wetter", "text": "De Lichtverhältnisse machen den Ball im Flug fast unsichtbar." },
-  { "kategorie": "Wetter", "text": "Das Wetter ist heut einfach keen Golfer-Wetter." },
-  { "kategorie": "Wetter", "text": "Der Wind hat den Ball genau in den Bereich drückt, wo er nich hin sollte." },
-  { "kategorie": "Technik", "text": "Der Anstellwinkel war heut zwei Grad zu steil." },
-  { "kategorie": "Technik", "text": "Ick hab den Sweetspot um Millimeter verfehlt." },
-  { "kategorie": "Technik", "text": "De Rotationsgeschwindigkeit meiner Hüfte war inkonsistent." },
-  { "kategorie": "Technik", "text": "Meen Takeaway war heut viel zu hastig eingeleitet." },
-  { "kategorie": "Technik", "text": "Ick hab den Ball beim Treffmoment nich sauber komprimiert." },
-  { "kategorie": "Technik", "text": "Das war ein klassisches 'Early Extension' Problem." },
-  { "kategorie": "Technik", "text": "De Schlägerkopfgeschwindigkeit war höher als meine Reaktionsfähigkeit." },
-  { "kategorie": "Technik", "text": "Ick hab den 'Release'-Punkt 'ne Zehntelsekunde zu spät jesetzt." },
-  { "kategorie": "Technik", "text": "Meen Schwerpunkt lag bei diesem Schlag zu weit auf den Fersen." },
-  { "kategorie": "Technik", "text": "Der Ball hatte zu wenig Backspin, um auf dem Grün zu halten." },
-  { "kategorie": "Technik", "text": "Ick hab den Schlag mit der Wade statt mit dem ganzen Körper eingeleitet." },
-  { "kategorie": "Technik", "text": "Das war ein reiner 'Slice'-Effekt durch ein zu offenes Schlägerblatt." },
-  { "kategorie": "Technik", "text": "De Schwungbahn war heut leider 'Outside-In'." },
-  { "kategorie": "Technik", "text": "Ick hab beim Durchschwung de Spannung im Handgelenk verloren." },
-  { "kategorie": "Technik", "text": "De Flugkurve wurde durch eine unglückliche Luftdichte korrigiert." },
-  { "kategorie": "Technik", "text": "Meen 'Downswing' war heut nich synchron mit der Schulterdrehung." },
-  { "kategorie": "Technik", "text": "Ick hab den Bodenkontakt einen Millimeter zu früh hergestellt." },
-  { "kategorie": "Technik", "text": "Das 'Tempo'-Verhältnis von Backswing zu Downswing war nich 3:1." },
-  { "kategorie": "Technik", "text": "Meen Kopf ist beim Schwung eine Spur zu weit nach vorne jewandert." },
-  { "kategorie": "Technik", "text": "De Gewichtsverlagerung auf das vordere Bein kam zu abrupt." },
-  { "kategorie": "Technik", "text": "Ick hab beim Treffmoment de Unterarme zu stark rotiert." },
-  { "kategorie": "Technik", "text": "Der 'Launch-Angle' war bei diesem Wind einfach zu hoch." },
-  { "kategorie": "Technik", "text": "Ick hab de 'Lag'-Phase im Schwung nich optimal ausjenutzt." },
-  { "kategorie": "Technik", "text": "Meen 'Setup' war heut eine Spur zu weit von der Balllinie entfernt." },
-  { "kategorie": "Technik", "text": "Ick hab den Ball 'toppt', weil meen Fokus kurz weg war." },
-  { "kategorie": "Technik", "text": "De vertikale Komponente meenes Schwungs war heut zu ausgeprägt." },
-  { "kategorie": "Technik", "text": "Ick hab den Ball zu weit hinten im Stand positioniert." },
-  { "kategorie": "Technik", "text": "Das war ein 'Fat Shot' durch eine unsaubere Gewichtsverteilung." },
-  { "kategorie": "Technik", "text": "De Schaftbelastung war beim Übergang nich linear." },
-  { "kategorie": "Technik", "text": "Ick hab den 'Follow-Through' nich vollständig abgeschlossen." },
-  { "kategorie": "Technik", "text": "Meen Handgelenk-Winkel hat sich im Impact-Moment verändert." },
-  { "kategorie": "Technik", "text": "Der Ballkontakt war nich zentriert jenug auf dem Sweetspot." },
-  { "kategorie": "Technik", "text": "Ick hab heut de kinetische Kette im Schwung unterbrochen." },
-  { "kategorie": "Technik", "text": "De Standbreite war für diesen Schlag nich optimal." },
-  { "kategorie": "Technik", "text": "Ick hab den 'Dynamic Loft' durch meine Handstellung zu stark erhöht." },
-  { "kategorie": "Technik", "text": "Das war eine Fehlfunktion in der Koordination zwischen Auge und Hand." },
-  { "kategorie": "Technik", "text": "Ick hab de Arme heut zu eng am Körper jeführt." },
-  { "kategorie": "Technik", "text": "De Dekompression des Handgelenks kam genau im falschen Moment." },
-  { "kategorie": "Technik", "text": "Der 'Spin-Loft' war bei diesem Eisen nich ideal." },
-  { "kategorie": "Technik", "text": "Ick hab den Ball mit dem 'Hosel' statt mit der Schlagfläche getroffen." },
-  { "kategorie": "Technik", "text": "Meine Schulterachse war beim Ansprechen des Balls zu offen." },
-  { "kategorie": "Technik", "text": "Ick hab de Energieübertragung durch eine zu steife Hüfte jehemmt." },
-  { "kategorie": "Technik", "text": "Der Schlag war rein technisch gesehen ein 'Push-Slice'." },
-  { "kategorie": "Technik", "text": "Ick hab den Übergang vom Backswing zum Downswing überhastet." },
-  { "kategorie": "Technik", "text": "Meen 'Balance-Point' hat sich beim Schwung minimal verschoben." },
-  { "kategorie": "Technik", "text": "Der Ball hat beim Impact einen ungünstigen 'Sidespin' bekommen." },
-  { "kategorie": "Technik", "text": "Ick hab den Schlägerkopf nich unter de Balllinie gebracht." },
-  { "kategorie": "Technik", "text": "De Rotationsachse ist heut leicht jewackelt." },
-  { "kategorie": "Technik", "text": "Ick hab das 'Timing' des Impact-Moments durch eine Störung von außen verloren." },
-  { "kategorie": "Technik", "text": "Technisch gesehen war das ein sauberer Fehler durch zu viel Ehrgeiz." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern viel zu viel am Golf-Simulator trainiert, meen Körper ist heut völlig erschöpft." },
-  { "kategorie": "Vortag", "text": "Das Abendessen gestern war deutlich zu schwer, das liegt mir heut noch im Magen." },
-  { "kategorie": "Vortag", "text": "Ick hatte gestern einen langen Arbeitstag, meen Fokus ist heut noch nich bei 100 Prozent." },
-  { "kategorie": "Vortag", "text": "De gestrige Golfrunde war so anstrengend, meine Muskulatur ist heut noch zu steif." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern Abend noch an meenem Schwung jejarbeitet, das muss sich heut erst setzen." },
-  { "kategorie": "Vortag", "text": "De gestrige Nacht war viel zu kurz, meen Reaktionsvermögen ist heut im Keller." },
-  { "kategorie": "Vortag", "text": "Ick war gestern beim Sport, meine Arme fühlen sich heut wie Blei an." },
-  { "kategorie": "Vortag", "text": "De gestrige Diskussion über Golf-Theorie hat mich mental völlig durcheinandergebracht." },
-  { "kategorie": "Vortag", "text": "Ick bin gestern den ganzen Tag in der Sonne jewesen, ick bin heut einfach nich fit." },
-  { "kategorie": "Vortag", "text": "Das gestrige Event hat mich so viel Energie jekostet, dass ick heut keene Kraft hab." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern Abend noch zu viel Video-Analyse von Profis jeseh'n, ick bin völlig verwirrt." },
-  { "kategorie": "Vortag", "text": "De gestrige Anreise war so stressig, ick konnte heut nich richtig abschalten." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern zu viel Zeit in der Hocke verbracht, meine Beine machen heut nich mit." },
-  { "kategorie": "Vortag", "text": "De gestrige Golf-Theorie, de ick jelesen hab, widerspricht meenem Schwunggefühl heut." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern zu wenig Wasser jedrunken, ick bin heut noch nich hydriert jenug." },
-  { "kategorie": "Vortag", "text": "Der gestrige Tag hat mich mental so gefordert, dass ick heut keene Ruhe finde." },
-  { "kategorie": "Vortag", "text": "Ick war gestern bei einem andern Trainer, der mir meen Schwung komplett umgestellt hat." },
-  { "kategorie": "Vortag", "text": "Das gestrige Wetter war so schlecht, dass ick heut immer noch 'ne Erkältung spüre." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern Abend noch meine Schläger jereinigt, vielleicht hab ick se dabei verstellt." },
-  { "kategorie": "Vortag", "text": "De gestrige Aufregung lässt mich heut nich zur nötigen Ruhe kommen." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern zu wenig Schlaf bekratzt, meen Timing ist heut völlig daneben." },
-  { "kategorie": "Vortag", "text": "Der gestrige Schwung-Fehler sitzt mir heut noch in den Knochen." },
-  { "kategorie": "Vortag", "text": "Ick hatte gestern so viel Stress, dass ick heut nich locker lassen kann." },
-  { "kategorie": "Vortag", "text": "Das gestrige Training war so intensiv, dass meen Muskelkater heut alles blockiert." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern noch so viele Bälle auf der Range jeschlagen, ick bin heut überspielt." },
-  { "kategorie": "Vortag", "text": "De gestrige Vorbereitung war so gründlich, dass ick heut viel zu viel nachdenke." },
-  { "kategorie": "Vortag", "text": "Ick war gestern bei einem Turnier, de mentale Anspannung spüre ick heut noch." },
-  { "kategorie": "Vortag", "text": "Der gestrige Erfolg hat mich heut etwas leichtsinnig werden lassen." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern Abend noch so viele Golf-Regeln jelernt, ick bin heut nur mit Denken beschäftigt." },
-  { "kategorie": "Vortag", "text": "De gestrige Enttäuschung über meen Spiel sitzt mir heut noch tief in der Seele." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern meine Schläger in der Tasche falsch sortiert, ick finde nix wieder." },
-  { "kategorie": "Vortag", "text": "De gestrige Feier war so lang, ick hab heut noch ein ganz leichtes Defizit in der Balance." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern zu viel Zeit im Internet mit Golf-Videos verbracht, meen Kopf ist voll." },
-  { "kategorie": "Vortag", "text": "De gestrige Wanderung war zu lang, meine Füße brauchen heut noch 'ne Pause." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern meen Setup umgestellt und muss mich heut erst daran jewöhnen." },
-  { "kategorie": "Vortag", "text": "Der gestrige Tag war so langweilig, dass ick heut nich richtig in Schwung komme." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern so viel Neues jelernt, dass meen Gehirn heut blockiert." },
-  { "kategorie": "Vortag", "text": "De gestrige Anspannung war so groß, ick bin heut einfach noch nich locker." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern Abend meine Schläger noch mal kurz zur Kontrolle angefasst." },
-  { "kategorie": "Vortag", "text": "Der gestrige Tag hat mich so prägt, dass ick heut immer noch im 'Gestern-Modus' bin." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern viel zu viel Zeit mit dem Lesen von Golf-Büchern verbracht." },
-  { "kategorie": "Vortag", "text": "De gestrige Reise war so anstrengend, meen ganzer Körper ist noch in der 'Ankunftsphase'." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern Abend noch versucht, meine Schwungbahn zu korrigieren." },
-  { "kategorie": "Vortag", "text": "Der gestrige Tag hat meen Selbstvertrauen so erschüttert, dass ick heut zweifle." },
-  { "kategorie": "Vortag", "text": "Ick bin gestern den ganzen Tag jessen, meen Rücken ist heut noch komplett fest." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern zu viel Golf-Talk jehört, ick bin heut nur noch jenervt." },
-  { "kategorie": "Vortag", "text": "De gestrige Vorbereitung auf heut war so akribisch, dass ick heut zu viel Druck mache." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern Abend noch an meener Putter-Technik jejarbeitet." },
-  { "kategorie": "Vortag", "text": "Der gestrige Tag hat mich so ausgelaugt, dass ick heut einfach keene Puste hab." },
-  { "kategorie": "Vortag", "text": "Ick hab gestern so viele Fehler jemacht, de ick heut unbedingt vermeiden will – und genau deshalb passieren se." },
-  { "kategorie": "Golfplatz", "text": "Das Grün ist hier so uneben, das liest sich wie ein Jebirgszug." },
-  { "kategorie": "Golfplatz", "text": "Dieser Bunker hat den ungünstigsten Sand, den ick je jespielt hab." },
-  { "kategorie": "Golfplatz", "text": "Das Rough an diesem Loch ist diese Woche völlig überwachsen." },
-  { "kategorie": "Golfplatz", "text": "De Fahne steht heut in einer unfairen Position auf dem Grün." },
-  { "kategorie": "Golfplatz", "text": "Das Fairway ist hier so smal, da bleibt keen Platz für Fehler." },
-  { "kategorie": "Golfplatz", "text": "Dieser Platz ist für meen Spiel einfach viel zu lang ausgelegt." },
-  { "kategorie": "Golfplatz", "text": "Der Boden auf diesem Platz ist nach dem Regen extrem tückisch." },
-  { "kategorie": "Golfplatz", "text": "De Abfolge der Löcher hier bringt meen Rhythmus völlig durcheinander." },
-  { "kategorie": "Golfplatz", "text": "Dieses Loch ist architektonisch einfach gegen meen Spielkonzept entworfen." },
-  { "kategorie": "Golfplatz", "text": "De Pin-Position ist auf diesem Grün quasi unspielbar platziert." },
-  { "kategorie": "Golfplatz", "text": "Der Übergang vom Vorgrün zum Grün ist hier viel zu abrupt." },
-  { "kategorie": "Golfplatz", "text": "Diese Bahn hat einen leichten Schlagseiten-Effekt durch die Hanglage." },
-  { "kategorie": "Golfplatz", "text": "Das Wasserhindernis an diesem Loch ist psychologisch viel zu präsent." },
-  { "kategorie": "Golfplatz", "text": "Auf diesem Platz ist das Gras so kurz, da läuft der Ball überall hin." },
-  { "kategorie": "Golfplatz", "text": "De Bunker-Kanten sind hier viel zu steil für meen Schwung." },
-  { "kategorie": "Golfplatz", "text": "Dieser Kurs ist so trocken, der Ball rollt bei jedem Schlag weiter als gewollt." },
-  { "kategorie": "Golfplatz", "text": "De Grüns auf diesem Platz sind heut einfach zu schnell für mich." },
-  { "kategorie": "Golfplatz", "text": "Der Windkanal, den dieser Kurs durch de Baumreihen bildet, ist unfair." },
-  { "kategorie": "Golfplatz", "text": "Hier auf dem Platz sind die Wege zwischen den Löchern zu lang." },
-  { "kategorie": "Golfplatz", "text": "Dieser Kurs hat ein so schwieriges Layout für den zweiten Schlag." },
-  { "kategorie": "Golfplatz", "text": "De Topographie dieses Lochs lässt meen Ball immer nach rechts abdriften." },
-  { "kategorie": "Golfplatz", "text": "De Aus-Grenzen sind hier viel zu nah an der Spielbahn." },
-  { "kategorie": "Golfplatz", "text": "Dieser Platz ist heut in einem Zustand, den man kaum bespielen kann." },
-  { "kategorie": "Golfplatz", "text": "De Grüns wurden hier gestern so jesandet, das stört den Balllauf." },
-  { "kategorie": "Golfplatz", "text": "Dieser Kurs verzeiht auf dem Fairway einfach keen einzigen Fehler." },
-  { "kategorie": "Golfplatz", "text": "Der Bunker hier ist tiefer, als er von der Bahn aus aussieht." },
-  { "kategorie": "Golfplatz", "text": "De Neigung auf diesem Grün bricht in zwei Richtungen gleichzeitig." },
-  { "kategorie": "Golfplatz", "text": "Dieser Golfplatz ist bekannt für seine unfairen Platzierungen der Löcher." },
-  { "kategorie": "Golfplatz", "text": "Das Gras im Rough ist hier so dicht, das blockiert jeden Schläger." },
-  { "kategorie": "Golfplatz", "text": "Dieser Kurs ist für Linkshänder (oder Rechtshänder) eigentlich viel schwieriger." },
-  { "kategorie": "Golfplatz", "text": "De Baumreihen auf diesem Loch stehen genau in meiner Flugbahn." },
-  { "kategorie": "Golfplatz", "text": "Dieser Platz ist heut so voll, das Warten macht mich steif." },
-  { "kategorie": "Golfplatz", "text": "De Bodenbeschaffenheit hier variiert von Loch zu Loch zu stark." },
-  { "kategorie": "Golfplatz", "text": "Dieser Platz hat eine so ungewöhnliche Architektur am Green." },
-  { "kategorie": "Golfplatz", "text": "De Fahne steht hinter dem Bunker, das ist ein taktisches Foul." },
-  { "kategorie": "Golfplatz", "text": "Hier sind die Wege so hügelig, das kostet schon vor dem Schlag Kraft." },
-  { "kategorie": "Golfplatz", "text": "Dieser Platz ist berüchtigt für seine versteckten Bodenwellen." },
-  { "kategorie": "Golfplatz", "text": "De Wasserhindernisse auf diesem Kurs sind fast nich zu umspielen." },
-  { "kategorie": "Golfplatz", "text": "Das Grün an diesem Loch ist so klein, da trifft man nix." },
-  { "kategorie": "Golfplatz", "text": "Dieser Kurs ist bei diesem Wetter einfach nich für meen Spiel jemacht." },
-  { "kategorie": "Golfplatz", "text": "De Aus-Linie ist auf dieser Bahn viel zu eng gewählt." },
-  { "kategorie": "Golfplatz", "text": "Dieser Bunker ist strategisch so platziert, dass man ihn treffen muss." },
-  { "kategorie": "Golfplatz", "text": "Der Rasen auf diesem Platz ist heut so stumpf, da rollt nix." },
-  { "kategorie": "Golfplatz", "text": "Diese Bahn hat ein Gefälle, das man vom Abschlag aus nich sieht." },
-  { "kategorie": "Golfplatz", "text": "Dieser Platz ist für meen Handicap heut zu anspruchsvoll." },
-  { "kategorie": "Golfplatz", "text": "De Wege auf diesem Kurs sind so verwinkelt, ick verliere de Orientierung." },
-  { "kategorie": "Golfplatz", "text": "Dieser Bunker hier hat so feinen Sand, da versinkt man komplett." },
-  { "kategorie": "Golfplatz", "text": "De Fahnenposition ist heut so weit hinten, das erreicht man kaum." },
-  { "kategorie": "Golfplatz", "text": "Dieser Golfplatz verlangt 'ne Präzision, de ick heut nich hab." },
-  { "kategorie": "Golfplatz", "text": "Hier auf dem Platz ist der Boden so hart, der Ball prallt überall ab." },
-  { "kategorie": "Mental", "text": "Es braucht nur einen Schlag, um den Tag zu einem besseren zu wenden." },
-  { "kategorie": "Mental", "text": "Ick hab es zu sehr jewollt und hab mich deshalb verkrampft." },
-  { "kategorie": "Mental", "text": "Ick war mit den Gedanken schon beim wohlverdienten Bier nach der Runde." },
-  { "kategorie": "Mental", "text": "Das war ein klassischer Fall von 'Overthinking' – ick hab zu viel nachgedacht." },
-  { "kategorie": "Mental", "text": "Meen Fokus ist genau in dem Moment abgewandert, als ick den Schläger schwang." },
-  { "kategorie": "Mental", "text": "Ick wollte den Schlag unbedingt erzwingen, statt ihn einfach passieren zu lassen." },
-  { "kategorie": "Mental", "text": "De Angst vor dem Wasserhindernis hat den Ball magisch angezogen." },
-  { "kategorie": "Mental", "text": "Ick war mental noch beim Schlag davor und konnte ihn nich loslassen." },
-  { "kategorie": "Mental", "text": "Der Druck, hier ein Par zu spielen, hat meine Muskeln steif werden lassen." },
-  { "kategorie": "Mental", "text": "Ick hab mich beim Ansprechen des Balls zu sehr unter Druck jesetzt." },
-  { "kategorie": "Mental", "text": "Meen Kopf wollte den Ball links halten, aber meen Körper wollte rechts." },
-  { "kategorie": "Mental", "text": "Ick hab den 'Mental Block' in dem Moment jespürt, als ick den Schläger hob." },
-  { "kategorie": "Mental", "text": "De Selbstzweifel haben meine Schwungbewegung blockiert." },
-  { "kategorie": "Mental", "text": "Ick war heut gedanklich nich zu 100 Prozent bei der Sache." },
-  { "kategorie": "Mental", "text": "Der Ehrgeiz hat meen natürliches Schwunggefühl komplett unterdrückt." },
-  { "kategorie": "Mental", "text": "Ick hab den Schlag mental schon verpatzt jeseh'n, bevor ick ihn ausführte." },
-  { "kategorie": "Mental", "text": "Zu viel Adrenalin im System, das hat meine Feinmotorik beeinträchtigt." },
-  { "kategorie": "Mental", "text": "Ick war zu sehr auf meen Ergebnis fokussiert statt auf den Prozess." },
-  { "kategorie": "Mental", "text": "Meen innerer Kritiker hat genau während des Schwungs angefangen zu reden." },
-  { "kategorie": "Mental", "text": "Ick hab den Schlag 'zerdenkt' – de Theorie hat de Praxis zerstört." },
-  { "kategorie": "Mental", "text": "De Angst vor einem schlechten Score hat meine Handgelenke verkrampft." },
-  { "kategorie": "Mental", "text": "Ick hab mich von meiner Erwartungshaltung selbst blockiert." },
-  { "kategorie": "Mental", "text": "Meen Fokus war bei der Fahne, aber meine Intuition war woanders." },
-  { "kategorie": "Mental", "text": "Ick hab heut de 'mentale Frische' vermissen lassen." },
-  { "kategorie": "Mental", "text": "Der Gedanke an den letzten Fehler hat mich beim aktuellen Schlag jelähmt." },
-  { "kategorie": "Mental", "text": "Ick wollte zu perfekt sein und hab dabei das Gefühl verloren." },
-  { "kategorie": "Mental", "text": "Meen 'Mindset' war heut auf Sicherheit, nich auf Angriff." },
-  { "kategorie": "Mental", "text": "Ick hab den Ballkontakt durch eine mentale Blockade unterbrochen." },
-  { "kategorie": "Mental", "text": "De Vorfreude auf das nächste Loch hat meine Konzentration hier jestört." },
-  { "kategorie": "Mental", "text": "Ick war mental zu entspannt, mir fehlte de nötige Spannung." },
-  { "kategorie": "Mental", "text": "Der Ärger über den Schlag davor hat meen Urteilsvermögen jetrübt." },
-  { "kategorie": "Mental", "text": "Ick hab versucht, den Ball mit Willenskraft statt mit Schwung zu bewegen." },
-  { "kategorie": "Mental", "text": "Meine Konzentration ist durch eine kurze Ablenkung in meenem Kopf abgerutscht." },
-  { "kategorie": "Mental", "text": "Ick hab heut de mentale Balance zwischen Risiko und Sicherheit verloren." },
-  { "kategorie": "Mental", "text": "Der Kopf sagte 'ja', aber das Gefühl im Schwung sagte 'nein'." },
-  { "kategorie": "Mental", "text": "Ick war mental zu sehr im 'Analyse-Modus' statt im 'Spiel-Modus'." },
-  { "kategorie": "Mental", "text": "Der Wunsch nach einem spektakulären Schlag hat de Vernunft ausgeschaltet." },
-  { "kategorie": "Mental", "text": "Ick hab beim Schwung de mentale Verbindung zum Schläger verloren." },
-  { "kategorie": "Mental", "text": "De mentale Belastung durch den Spielstand hat mich kurz jelähmt." },
-  { "kategorie": "Mental", "text": "Ick hab mich selbst durch zu viele Korrekturgedanken verunsichert." },
-  { "kategorie": "Mental", "text": "Meen 'Mental Game' hatte heut einfach einen freien Tag." },
-  { "kategorie": "Mental", "text": "Ick hab versucht, den Schlag mental zu erzwingen, statt ihn geschehen zu lassen." },
-  { "kategorie": "Mental", "text": "Der Gedanke an das schwierige Grün hat mich schon beim Abschlag blockiert." },
-  { "kategorie": "Mental", "text": "Ick war heut einfach nich mental auf dem Golfplatz präsent." },
-  { "kategorie": "Flight Partner", "text": "Meen Flight-Partner ist genau dann losgelaufen, als ick angesetzt habe." },
-  { "kategorie": "Flight Partner", "text": "Das Gespräch am Nebenschläger hat mich kurz aus dem Konzept gebracht." },
-  { "kategorie": "Flight Partner", "text": "Meen Mitspieler hat sich zu früh bewegt, das war eine Ablenkung." },
-  { "kategorie": "Flight Partner", "text": "Ick musste mich auf das Spiel meenes Partners konzentrieren, das hat mich müde gemacht." },
-  { "kategorie": "Flight Partner", "text": "De Diskussion über das Regelwerk vor dem Schlag war unnötig." },
-  { "kategorie": "Flight Partner", "text": "Meen Flight-Partner hat an der falschen Stelle gestanden." },
-  { "kategorie": "Flight Partner", "text": "De ständigen Kommentare zu meenem Schwung verunsichern mich." },
-  { "kategorie": "Flight Partner", "text": "Ick hab mich beim Abschlag durch de Schritte meenes Partners irritieren lassen." },
-  { "kategorie": "Flight Partner", "text": "Das langsame Tempo meenes Flight-Partners hat meen Rhythmus zerstört." },
-  { "kategorie": "Flight Partner", "text": "Der Schatten meenes Mitspielers ist genau über meen Ball gewandert." },
-  { "kategorie": "Flight Partner", "text": "Meen Partner hat das Grün betreten, während ick noch putten wollte." },
-  { "kategorie": "Flight Partner", "text": "Das ständige Rascheln in der Tasche meenes Flight-Partners war zu laut." },
-  { "kategorie": "Flight Partner", "text": "Ick hab mich vom Frust meenes Flight-Partners anstecken lassen." },
-  { "kategorie": "Flight Partner", "text": "Meen Mitspieler hat auf der falschen Seite des Lochs gewartet." },
-  { "kategorie": "Flight Partner", "text": "De Vorfreude auf das Getränk nach der Runde mit meenem Partner hat mich abgelenkt." },
-  { "kategorie": "Flight Partner", "text": "Meen Flight-Partner hat mich bei der Schlagwahl völlig falsch beraten." },
-  { "kategorie": "Flight Partner", "text": "Ick musste erst den Flight-Partner beruhigen, das hat Energie jekostet." },
-  { "kategorie": "Flight Partner", "text": "Meen Mitspieler hat meen Ball-Markierung missachtet." },
-  { "kategorie": "Flight Partner", "text": "De ständige Suche nach dem Ball meenes Partners hat meen Fokus jestört." },
-  { "kategorie": "Flight Partner", "text": "Meen Flight-Partner hat zu laut jeatmet beim Putten." },
-  { "kategorie": "Flight Partner", "text": "Ick hab mich von der schlechten Laune meenes Mitspielers beeinflussen lassen." },
-  { "kategorie": "Flight Partner", "text": "Meen Partner hat genau in meiner Sichtlinie gestanden." },
-  { "kategorie": "Flight Partner", "text": "De ständigen Handy-Geräusche aus der Tasche meenes Partners nerven." },
-  { "kategorie": "Flight Partner", "text": "Ick wollte nich so gut spielen wie meen Flight-Partner, das hat mich jehemmt." },
-  { "kategorie": "Flight Partner", "text": "Meen Mitspieler hat mich bei meenem Setup unterbrochen." },
-  { "kategorie": "Flight Partner", "text": "De Taktik meenes Flight-Partners hat meen Schwung komplett verändert." },
-  { "kategorie": "Flight Partner", "text": "Ick wurde durch das Geplauder über Geschäftliches unterbrochen." },
-  { "kategorie": "Flight Partner", "text": "Meen Partner hat meen Tempo bei der Runde vorgegeben, das war nich meins." },
-  { "kategorie": "Flight Partner", "text": "Ick hab mich auf das Spiel meenes Partners konzentriert, statt auf meen Ball." },
-  { "kategorie": "Flight Partner", "text": "Meen Flight-Partner hat mir den falschen Schläger empfohlen." },
-  { "kategorie": "Flight Partner", "text": "Das ständige Zurechtrücken der Tasche meenes Mitspielers war zu laut." },
-  { "kategorie": "Flight Partner", "text": "Ick hab mich vom Jubel meenes Partners ablenken lassen." },
-  { "kategorie": "Flight Partner", "text": "Meen Mitspieler hat meen Schlag mit einem Kommentar kommentiert." },
-  { "kategorie": "Flight Partner", "text": "De Wartezeit auf meen Flight-Partner hat meen Körper abkühlen lassen." },
-  { "kategorie": "Flight Partner", "text": "Ick wurde durch das Lachen meenes Mitspielers aus dem Fokus gebracht." },
-  { "kategorie": "Flight Partner", "text": "Meen Partner hat de Fahne nich richtig jehalten." },
-  { "kategorie": "Flight Partner", "text": "De ständige Korrektur meiner Haltung durch meen Partner war kontraproduktiv." },
-  { "kategorie": "Flight Partner", "text": "Meen Flight-Partner hat mir ständig de Regeln erklärt, statt mich spielen zu lassen." },
-  { "kategorie": "Flight Partner", "text": "Ick musste dem Spiel meenes Partners zuschauen, das war demotivierend." },
-  { "kategorie": "Flight Partner", "text": "Meen Mitspieler hat mich bei der Schlagvorbereitung gedrängt." },
-  { "kategorie": "Flight Partner", "text": "Das Rascheln beim Öffnen der Riegel meenes Partners hat mich jestört." },
-  { "kategorie": "Flight Partner", "text": "Ick hab mich durch das schnelle Tempo meenes Partners unter Druck jesetzt jefühlt." },
-  { "kategorie": "Flight Partner", "text": "Meen Flight-Partner hat meen Ball versehentlich berührt." },
-  { "kategorie": "Flight Partner", "text": "De ständigen Besserwisser-Tipps meenes Partners waren zu viel." },
-  { "kategorie": "Flight Partner", "text": "Ick hab mich vom Fluchen meenes Mitspielers ablenken lassen." },
-  { "kategorie": "Flight Partner", "text": "Meen Partner hat den Ball im Rough nich schnell jenug jefunden." },
-  { "kategorie": "Flight Partner", "text": "Ick wurde durch das Auspacken der Ausrüstung meenes Partners jestört." },
-  { "kategorie": "Flight Partner", "text": "De mangelnde Konzentration meenes Flight-Partners hat mich angesteckt." },
-  { "kategorie": "Flight Partner", "text": "Meen Mitspieler hat bei meenem Schwung zu sehr hingeseh'n." },
-  { "kategorie": "Flight Partner", "text": "Ick wollte meem Flight-Partner einfach nich im Weg stehen." },
-  { "kategorie": "Technik", "text": "Der Anstellwinkel war heut zwei Grad zu steil." },
-  { "kategorie": "Technik", "text": "Ick hab den Sweetspot um Millimeter verfehlt." },
-  { "kategorie": "Technik", "text": "De Rotationsgeschwindigkeit meiner Hüfte war inkonsistent." },
-  { "kategorie": "Technik", "text": "Meen Takeaway war heut viel zu hastig eingeleitet." },
-  { "kategorie": "Technik", "text": "Ick hab den Ball beim Treffmoment nich sauber komprimiert." },
-  { "kategorie": "Technik", "text": "Das war ein klassisches 'Early Extension' Problem." },
-  { "kategorie": "Technik", "text": "De Schlägerkopfgeschwindigkeit war höher als meine Reaktionsfähigkeit." },
-  { "kategorie": "Technik", "text": "Ick hab den 'Release'-Punkt 'ne Zehntelsekunde zu spät jesetzt." },
-  { "kategorie": "Technik", "text": "Meen Schwerpunkt lag bei diesem Schlag zu weit auf den Fersen." },
-  { "kategorie": "Technik", "text": "Der Ball hatte zu wenig Backspin, um auf dem Grün zu halten." },
-  { "kategorie": "Technik", "text": "Ick hab den Schlag mit der Wade statt mit dem ganzen Körper eingeleitet." },
-  { "kategorie": "Technik", "text": "Das war ein reiner 'Slice'-Effekt durch ein zu offenes Schlägerblatt." },
-  { "kategorie": "Technik", "text": "De Schwungbahn war heut leider 'Outside-In'." },
-  { "kategorie": "Technik", "text": "Ick hab beim Durchschwung de Spannung im Handgelenk verloren." },
-  { "kategorie": "Technik", "text": "De Flugkurve wurde durch eine unglückliche Luftdichte korrigiert." },
-  { "kategorie": "Technik", "text": "Meen 'Downswing' war heut nich synchron mit der Schulterdrehung." },
-  { "kategorie": "Technik", "text": "Ick hab den Bodenkontakt einen Millimeter zu früh hergestellt." },
-  { "kategorie": "Technik", "text": "Das 'Tempo'-Verhältnis von Backswing to Downswing war nich 3:1." },
-  { "kategorie": "Technik", "text": "Meen Kopf ist beim Schwung eine Spur zu weit nach vorne jewandert." },
-  { "kategorie": "Technik", "text": "De Gewichtsverlagerung auf das vordere Bein kam zu abrupt." },
-  { "kategorie": "Technik", "text": "Ick hab beim Treffmoment de Unterarme zu stark rotiert." },
-  { "kategorie": "Technik", "text": "Der 'Launch-Angle' war bei diesem Wind einfach zu hoch." },
-  { "kategorie": "Technik", "text": "Ick hab de 'Lag'-Phase im Schwung nich optimal ausjenutzt." },
-  { "kategorie": "Technik", "text": "Meen 'Setup' war heut eine Spur zu weit von der Balllinie entfernt." },
-  { "kategorie": "Technik", "text": "Ick hab den Ball 'toppt', weil meen Fokus kurz weg war." },
-  { "kategorie": "Technik", "text": "De vertikale Komponente meenes Schwungs war heut zu ausgeprägt." },
-  { "kategorie": "Technik", "text": "Ick hab den Ball zu weit hinten im Stand positioniert." },
-  { "kategorie": "Technik", "text": "Das war ein 'Fat Shot' durch eine unsaubere Gewichtsverteilung." },
-  { "kategorie": "Technik", "text": "De Schaftbelastung war beim Übergang nich linear." },
-  { "kategorie": "Technik", "text": "Ick hab den 'Follow-Through' nich vollständig abgeschlossen." },
-  { "kategorie": "Technik", "text": "Meen Handgelenk-Winkel hat sich im Impact-Moment verändert." },
-  { "kategorie": "Technik", "text": "Der Ballkontakt war nich zentriert jenug op dem Sweetspot." },
-  { "kategorie": "Technik", "text": "Ick hab heut de kinetische Kette im Schwung unterbrochen." },
-  { "kategorie": "Technik", "text": "De Standbreite war für diesen Schlag nich optimal." },
-  { "kategorie": "Technik", "text": "Ick hab den 'Dynamic Loft' durch meine Handstellung zu stark erhöht." },
-  { "kategorie": "Technik", "text": "Das war eine Fehlfunktion in der Koordination zwischen Auge und Hand." },
-  { "kategorie": "Technik", "text": "Ick hab de Arme heut zu eng am Körper jeführt." },
-  { "kategorie": "Technik", "text": "De Dekompression des Handgelenks kam genau im falschen Moment." },
-  { "kategorie": "Technik", "text": "Der 'Spin-Loft' war bei diesem Eisen nich ideal." },
-  { "kategorie": "Technik", "text": "Ick hab den Ball mit dem 'Hosel' statt mit der Schlagfläche getroffen." },
-  { "kategorie": "Technik", "text": "Meine Schulterachse war beim Ansprechen des Balls zu offen." },
-  { "kategorie": "Technik", "text": "Ick hab de Energieübertragung durch eine zu steife Hüfte jehemmt." },
-  { "kategorie": "Technik", "text": "Der Schlag war rein technisch gesehen ein 'Push-Slice'." },
-  { "kategorie": "Technik", "text": "Ick hab den Übergang vom Backswing zum Downswing überhastet." },
-  { "kategorie": "Technik", "text": "Meen 'Balance-Point' hat sich beim Schwung minimal verschoben." },
-  { "kategorie": "Technik", "text": "Der Ball hat beim Impact einen ungünstigen 'Sidespin' bekommen." },
-  { "kategorie": "Technik", "text": "Ick hab den Schlägerkopf nich unter de Balllinie gebracht." },
-  { "kategorie": "Technik", "text": "De Rotationsachse ist heut leicht jewackelt." },
-  { "kategorie": "Technik", "text": "Ick hab das 'Timing' des Impact-Moments durch eine Störung von außen verloren." },
-  { "kategorie": "Technik", "text": "Technisch gesehen war das ein sauberer Fehler durch zu viel Ehrgeiz." },
-  { "kategorie": "Material", "text": "Der Ball hatte eine Unwucht, das ist physikalisch jelegt." },
-  { "kategorie": "Material", "text": "Das ist ein Range-Ball, der fliegt generell 20 Meter kürzer." },
-  { "kategorie": "Material", "text": "Meen Driver ist heut Morge wohl beim Transport leicht dejustiert worden." },
-  { "kategorie": "Material", "text": "Der Grip war von der Luftfeuchtigkeit zu rutschig." },
-  { "kategorie": "Material", "text": "Meen Handschuh ist zu trocken, ick hatte keen festen Halt." },
-  { "kategorie": "Material", "text": "Das Fairway-Holz ist für diesen Bodenbelag einfach nich ausgelegt." },
-  { "kategorie": "Material", "text": "Der Schaft hat eine zu weiche Flex-Stufe für meen heutiges Tempo." },
-  { "kategorie": "Material", "text": "De Dimples am Ball sind abgenutzt, da kann keen Lift entstreh'n." },
-  { "kategorie": "Material", "text": "Meen Putter ist auf diesen Grüns viel zu schnell eingestellt." },
-  { "kategorie": "Material", "text": "Der Driver-Kopf hat heut eine andere Resonanzfrequenz." },
-  { "kategorie": "Material", "text": "Ick brauche dringend neue Spikes, meine Füße rutschen minimal." },
-  { "kategorie": "Material", "text": "De Tee-Höhe war um einen Millimeter falsch eingestellt." },
-  { "kategorie": "Material", "text": "Meen Golfball hat eine leichte Macke durch den letzten Stein." },
-  { "kategorie": "Material", "text": "Das Eisen 7 ist in der Loft-Einstellung ein halbes Grad zu steil." },
-  { "kategorie": "Material", "text": "Der Schlägerkopf hat zu viel Sand in der Rille." },
-  { "kategorie": "Material", "text": "Meine Tasche war heut zu schwer, das hat meen Schwungzyklus belastet." },
-  { "kategorie": "Material", "text": "Der Schlägergriff ist zu dick für meine Finger heut." },
-  { "kategorie": "Material", "text": "Das ist der billige Ball, den ick im Wald gefunden hab." },
-  { "kategorie": "Material", "text": "Meen Wedge hat zu wenig Bounce für diesen matschigen Boden." },
-  { "kategorie": "Material", "text": "De Sonne reflektiert heut so unglücklich auf meenem Schlägerblatt." },
-  { "kategorie": "Material", "text": "Der Schläger ist zu kurz für meine heutige Körperhaltung." },
-  { "kategorie": "Material", "text": "De Tasche hat den Schwerpunkt meenes Schwungs verlagert." },
-  { "kategorie": "Material", "text": "Der Driver hat einen zu hohen Spin-Wert für diesen Wind." },
-  { "kategorie": "Material", "text": "Meen Ball ist zu hart für diese weichen Grüns." },
-  { "kategorie": "Material", "text": "De Markierung auf meenem Ball hat mich beim Putten irritiert." },
-  { "kategorie": "Material", "text": "Das ist ein Leihschläger, ick kenne das Feedback nich." },
-  { "kategorie": "Material", "text": "Der Schaft vibriert komisch bei diesem Untergrund." },
-  { "kategorie": "Material", "text": "Meine Socken haben heut nich genug Halt im Schuh." },
-  { "kategorie": "Material", "text": "Der Putter-Kopf fühlt sich heut irgendwie leichter an als sonst." },
-  { "kategorie": "Material", "text": "Das ist der falsche Driver-Loft für diese Höhe über dem Meeresspiegel." },
-  { "kategorie": "Material", "text": "Meen Handschuh ist zu alt, er hat keene Grip-Struktur mehr." },
-  { "kategorie": "Material", "text": "Der Ball ist eine Generation zu alt, das Material ist spröde." },
-  { "kategorie": "Material", "text": "Ick spiele heut mit einer anderen Marke, daran muss ick mich erst jewöhnen." },
-  { "kategorie": "Material", "text": "Das Eisen 9 hat heut eine völlig andere Gewichtsverteilung." },
-  { "kategorie": "Material", "text": "De Rillen im Schlägerblatt sind mit Gras verstopft." },
-  { "kategorie": "Material", "text": "Meen Golfwagen hat den Boden ungleichmäßig verdichtet." },
-  { "kategorie": "Material", "text": "De Sonne blendet mich in der Spiegelung meenes Schlägers." },
-  { "kategorie": "Material", "text": "Dieser Schläger ist für schnelle Geschwindigkeiten jemacht, nich für meen lockeren Schwung." },
-  { "kategorie": "Material", "text": "Der Ball hat eine glatte Oberfläche, er rutscht einfach durch." },
-  { "kategorie": "Material", "text": "Meen Putter ist nich auf diese spezifische Grashöhe kalibriert." },
-  { "kategorie": "Material", "text": "Der Schaft ist zu lang, ick treffe den Ball nich im Sweetspot." },
-  { "kategorie": "Material", "text": "Das ist ein Winterball, der ist bei dieser Hitze viel zu hart." },
-  { "kategorie": "Material", "text": "Meen Schuhwerk hat heut nich genug Traktion auf diesem feuchten Gras." },
-  { "kategorie": "Material", "text": "De Schlägerhaube hat den Kopf leicht verkratzt, das stört das Gleichgewicht." },
-  { "kategorie": "Material", "text": "Meen Ball hat einen Produktionsfehler bei der Gewichtsverteilung." },
-  { "kategorie": "Material", "text": "Der Schlägergriff ist nich mehr klebend jenug." },
-  { "kategorie": "Material", "text": "Das ist der Ball, den ick bei der letzten Runde verloren hab." },
-  { "kategorie": "Material", "text": "Meen Wedge ist zu sehr abgenutzt, der Spin greift nich mehr." },
-  { "kategorie": "Material", "text": "De Kappe an meenem Schaft lockert sich ständig." },
-  { "kategorie": "Bunker", "text": "Der Sand hier ist eher feiner Beton als lockerer Spielsand." },
-  { "kategorie": "Bunker", "text": "Der Ball lag in einer klassischen Sandmulde, da war keen Treffpunkt möglich." },
-  { "kategorie": "Bunker", "text": "De Schaufelbewegung hat sich im Untergrund völlig verhakt." },
-  { "kategorie": "Bunker", "text": "Der Rechen hat eine tiefe Furche genau hinter meenem Ball hinterlassen." },
-  { "kategorie": "Bunker", "text": "In diesem Bunker liegt zu viel feuchter Quarzsand, der klebt wie Leim." },
-  { "kategorie": "Bunker", "text": "Der Wind hat im Rückschwung 'ne Sandböe in meen Auge jeweht." },
-  { "kategorie": "Bunker", "text": "Der Ball hatte null Biss im harten Untergrund." },
-  { "kategorie": "Bunker", "text": "Hier wurde eindeutig Baufeuchtigkeit eingegossen." },
-  { "kategorie": "Bunker", "text": "De Kante der Bunkerwand war im Weg, ick musste drüber luppen." },
-  { "kategorie": "Bunker", "text": "Der Sand ist heut viel zu schwer für einen sauberen Splash-Schlag." },
-  { "kategorie": "Bunker", "text": "Da lag ein verdeckter Stein direkt unter der Ball-Oberfläche." },
-  { "kategorie": "Bunker", "text": "Meen Wedge ist im Sand stecken geblieben wie ein Anker." },
-  { "kategorie": "Bunker", "text": "Der Sand war zu trocken, der Ball ist einfach durchgerutscht." },
-  { "kategorie": "Bunker", "text": "De Neigung der Bunkerwand hat meen Stand komplett ruiniert." },
-  { "kategorie": "Bunker", "text": "Das war keen Bunker, das war 'ne archäologische Ausgrabungsstätte." },
-  { "kategorie": "Bunker", "text": "Der Ball lag in einem tiefen Fußabdruck von einem unkollegialen Vorspieler." },
-  { "kategorie": "Bunker", "text": "Ick hab den Sand zu früh getroffen – klassischer Fett-Schlag im Sand." },
-  { "kategorie": "Bunker", "text": "De Körnchengröße ist hier völlig inkonstant." },
-  { "kategorie": "Bunker", "text": "Der Schlägerkopf hat sich im dichten Sand sofort abgebremst." },
-  { "kategorie": "Bunker", "text": "Da war 'ne fiese Kruste auf dem Sand, de den Ball unberechenbar abgelenkt hat." },
-  { "kategorie": "Bunker", "text": "Der Bunker ist heut absolutes Sperrgebiet, so hart wie der Boden ist." },
-  { "kategorie": "Bunker", "text": "De Reflexion der Sonne vom weißen Sand hat mich im Treffmoment jeblendet." },
-  { "kategorie": "Bunker", "text": "Der Sand hat zu viel Feuchtigkeit jezogen, null Loft möglich." },
-  { "kategorie": "Bunker", "text": "Ein verdeckter Astrest lag direkt unter meenem linken Fuß." },
-  { "kategorie": "Bunker", "text": "Das ist keen Bunker, das ist 'ne ungesicherte Sandgrube." },
-  { "kategorie": "Bunker", "text": "Der Ball hat sich beim Aufkommen tief in den weichen Hang eingegraben." },
-  { "kategorie": "Bunker", "text": "Der Abstand zur Fahne war optisch im Sand komplett verzerrt." },
-  { "kategorie": "Bunker", "text": "Meen Stand war durch den abfallenden Sandwinkel völlig instabil." },
-  { "kategorie": "Bunker", "text": "Der Schlägerkopf ist im Untergrund abgerutscht." },
-  { "kategorie": "Bunker", "text": "Der Ball lag in einer Mulde, de physikalisch unspielbar war." },
-  { "kategorie": "Bunker", "text": "De Sandbeschaffenheit erinnert eher an eine Baustelle als an einen Golfplatz." },
-  { "kategorie": "Bunker", "text": "Ick dachte, hier gilt Boden in Besserung – aber nee, voller Sand." },
-  { "kategorie": "Bunker", "text": "Der Schlag war da, aber der Sand hat jegliche Energie jeschluckt." },
-  { "kategorie": "Bunker", "text": "De Bunkerwand war steiler als der Eiger-Nordwand-Grat." },
-  { "kategorie": "Bunker", "text": "Der Wind hat den Sand genau in meine Mechanik jeweht." },
-  { "kategorie": "Bunker", "text": "Da war 'ne unsichtbare Unebenheit im Sandbett." },
-  { "kategorie": "Bunker", "text": "Der Schläger ist im Sand verhungert, bevor er den Ball berühren konnte." },
-  { "kategorie": "Bunker", "text": "Das war ein astreiner Tiefschuss in de Sahara." },
-  { "kategorie": "Bunker", "text": "Der Untergrund war unter der dünnen Sandschicht komplett steinhart." },
-  { "kategorie": "Bunker", "text": "Hier wurde am Sand gespart, das ist pure Erde." },
-  { "kategorie": "Bunker", "text": "Der Ball hat sich im Sand vergraben wie ein Maulwurf." },
-  { "kategorie": "Bunker", "text": "De Neigung des Hanges hat meen Schwungradius halbiert." },
-  { "kategorie": "Bunker", "text": "Der Sand ist heut absolut unberechenbar vom Gewicht her." },
-  { "kategorie": "Bunker", "text": "Ein klassischer Fall von Schwerkraft im falschen Medium." },
-  { "kategorie": "Bunker", "text": "Der Ball lag genau auf einer harten Kante im Sandbett." },
-  { "kategorie": "Bunker", "text": "Der Schlägerkopf hat sich durch den dichten Sand gebohrt statt zu gleiten." },
-  { "kategorie": "Bunker", "text": "De Menge an Sand war schlichtweg illegal platziert." },
-  { "kategorie": "Bunker", "text": "Da war keene Chance auf einen sauberen Ballkontakt bei dem Untergrund." },
-  { "kategorie": "Bunker", "text": "Der Sand hat den Ball wie ein Magnet festgehalten." },
-  { "kategorie": "Bunker", "text": "Nächste Mal nehme ick de Schaufel statt des Sandwedges." },
-  { "kategorie": "Fazit", "text": "Der jmückliche Drive lag eendeutig daran, det det Parken im eenje Carport de Handgelenke blockiert hat." },
-  { "kategorie": "Fazit", "text": "Wer uff dem Parkplatz schon im falschen Gang anfährt, zieht sich den Slice direkt über 18 Löcher mit." },
-  { "kategorie": "Fazit", "text": "Schon beim Ausparken hat mir en rücksichtsloser Kombi de deeale Linie für den ersten Abschlag versaut." },
-  { "kategorie": "Fazit", "text": "Der Weg zum Golfplatz war durch eine Baustelle so jeprügelt, det meen Puls schon vor Loch 1 im roten Bereich war." },
-  { "kategorie": "Fazit", "text": "Wer sein Golfbag uff dem Schotterparkplatz falsch herum auslädt, braucht sich über verunglückte Putts nich zu wundern." },
-  { "kategorie": "Fazit", "text": "De Parkplatzsuche war heut so stressig, det de Konzentration für det Grün komplett uff der Strecke geblieben ist." },
-  { "kategorie": "Fazit", "text": "En zerkratzter Kotflügel uff dem Club-Parkplatz raubt einfach jede mentale Stärke für det kurze Spiel." },
-  { "kategorie": "Fazit", "text": "Wer janz hinten uff dem Ausweichparkplatz parken muss, hat physikalisch schon drei Schläge Rückstand." },
-  { "kategorie": "Fazit", "text": "Der Stau uff der Autobahnanfahrt hat meene Muskeln asymmetrisch verkrampft." },
-  { "kategorie": "Fazit", "text": "Schon beim Einparken rückwärts in de enje Lücke habe ick jewusst, det heut keen Driver sitzt." },
-  { "kategorie": "Fazit", "text": "De Vollsperrung uff der Landstraße hat meen inneres Handicap massiv nach oben korrigiert." },
-  { "kategorie": "Fazit", "text": "Wer direkt vor dem Clubhaus keen Parkplatz kriegt, spielt psychologisch direkt einen Bogey mehr." },
-  { "kategorie": "Fazit", "text": "Det Navi hat mich über drei Feldwege geschickt – da war der Schwung vor dem ersten Abschlag schon ruiniert." },
-  { "kategorie": "Fazit", "text": "Der nasse Schlamm auf dem Parkplatz hat meene Golfschuhe direkt mit fünf Kilo Extragewicht beschwert." },
-  { "kategorie": "Fazit", "text": "Schon die Parkplatzgebühren an der Schranke haben meene sportliche Motivation spürbar jedämpft." },
-  { "kategorie": "Fazit", "text": "En Drängler uff der Zufahrt zum Golfclub hinterlässt einfach Spuren im mentalen Score." },
-  { "kategorie": "Fazit", "text": "Wer sein E-Golfmobil uff dem Parkplatz nich richtig lädt, darf sich über fehlende Energie uff der Back Nine nich wundern." },
-  { "kategorie": "Fazit", "text": "Der Schlagloch-Parcours uff der Clubzufahrt hat meen Alignment komplett dejustiert." },
-  { "kategorie": "Fazit", "text": "Wer den Kofferraumdeckel beim Ausladen ins Gesicht bekommt, startet mit maximaler Verwirrung in den Flight." },
-  { "kategorie": "Fazit", "text": "De Parkplatzordnung uff diesem Platz ist so kompliziert wie ein komplexer Putt über drei Breaks." },
-  { "kategorie": "Fazit", "text": "Schon uff der Hinfahrt hat det Radio nur Lieder gespielt, de meen Golf-Rhythmus jestört haben." },
-  { "kategorie": "Fazit", "text": "Der Hagelschauer exakt uff den letzten zwei Kilometern der Anfahrt hat den Ballflug im Nachhinein völlig blockiert." },
-  { "kategorie": "Fazit", "text": "Wer den Parkplatz ohne Beinschäden erreicht, hat det schwerste Hindernis des Tages bereits hinter sich." },
-  { "kategorie": "Fazit", "text": "De enje Ausfahrt vom Parkplatz spiegelt exakt den Schwierigkeitsgrad meener heutigen Annäherungsschläge wider." },
-  { "kategorie": "Fazit", "text": "En Fehltritt uff dem geschotterten Parkplatz – und der Stand beim Schwung ist für de Tonne." },
-  { "kategorie": "Fazit", "text": "En Jlas Bier an der Bar hat isotonische Jlügenschaften, de den Slice sofort ausgleichen." },
-  { "kategorie": "Fazit", "text": "Uff der Terrasse schmeckt jedes Par wie en Major-Sieg." },
-  { "kategorie": "Fazit", "text": "De wahren Turniere werden nich uff dem Grün entscheidet, sondern bei der Nachbesprechung im Clubhaus." },
-  { "kategorie": "Fazit", "text": "Wer de Runde im Clubhaus schönredet, braucht keene Scorekarte mehr." },
-  { "kategorie": "Fazit", "text": "En kühles Getränk im Schatten der Clubhausterrasse heilt jeden dreifachen Bogey." },
-  { "kategorie": "Fazit", "text": "De physikalischen Gesetze des Golfschwungs jreifen erst ab dem zweiten Kaltgetränk im Clubhaus." },
-  { "kategorie": "Fazit", "text": "Im Clubhaus sind plötzlich alle Drives über 280 Meter lang." },
-  { "kategorie": "Fazit", "text": "Das Handicap schrumpft beim Betreten der Clubhausterrasse ganz von alleine um drei Striche." },
-  { "kategorie": "Fazit", "text": "Wer den Flight im Clubhaus einlädt, muss sich keene Vorwürfe wegen verlorener Bälle anhörn." },
-  { "kategorie": "Fazit", "text": "De besten taktischen Ratschläge für de nächste Runde entstehen uff der Clubhausterrasse." },
-  { "kategorie": "Fazit", "text": "Uff der Terrasse verblasst der Ärger über den getroffenen Rasensprenger im Rough." },
-  { "kategorie": "Fazit", "text": "En erfolgreicher Golftag endet traditionell dort, wo der Zapfhahn am nächsten steht." },
-  { "kategorie": "Fazit", "text": "Im Clubhaus hat jeder Spieler 'ne Ausrede parat, de wissenschaftlich nich widerlegbar ist." },
-  { "kategorie": "Fazit", "text": "De Scorekarte lügt vielleicht, aber de Stimmung im Clubhaus deckt jnadenlos auf." },
-  { "kategorie": "Fazit", "text": "Wer im Clubhaus zuerst de Zeche zahlt, hat de Runde sportlich am besten verkraftet." },
-  { "kategorie": "Fazit", "text": "Uff der Clubhausterrasse wandeln sich verlorene Bälle in lejendäre Geschichten." },
-  { "kategorie": "Fazit", "text": "Det 19. Loch ist de einzige Bahn uff dem Platz, bei der man garantiert keen Bunker trifft." },
-  { "kategorie": "Fazit", "text": "Nach 18 Löchern ist vor der Analyse bei Kaffee und Kuchen im Clubhaus." },
-  { "kategorie": "Fazit", "text": "En geselliger Ausklang im Clubhaus gleicht jeden verlorenen Putt wieder aus." },
-  { "kategorie": "Fazit", "text": "De Terrasse des Clubhauses ist der sicherste Ort vor unerwarteten Annäherungsschlägen." },
-  { "kategorie": "Fazit", "text": "Im Clubhaus zählt nich der Score, sondern de Qualität der verabreichten Alibis." },
-  { "kategorie": "Fazit", "text": "Wer im Clubhaus über den Wind klagt, hat uff dem Platz einfach zu tief in de Taschen jeschaut." },
-  { "kategorie": "Fazit", "text": "Uff der Clubhausterrasse sind sich alle einig: Der Platzwart war an allem schuld." },
-  { "kategorie": "Fazit", "text": "Der beste Treffpunkt nach einem harten Tag im Rough ist de Theke im Clubhaus." },
-  { "kategorie": "Fazit", "text": "Hier im Clubhaus fließt der Caddy-Kaffee wenigstens ohne Drei-Putt-Garantie." },
-  { "kategorie": "Fazit", "text": "De Greenkeeper haben heut heimlich an den Fahnenpositionen jefummelt, um unsern Flight zu zerstörn." },
-  { "kategorie": "Fazit", "text": "Wer de Grüns heut als ‚spielbar‘ bezeichnet, hat noch nie echten Rasen unter den Füßen jehabt." },
-  { "kategorie": "Fazit", "text": "Das Greenkeeping-Team hatte heute offenbar Mitleid mit dem Platz und hat die Löcher extra hinter perfekten Wellen versteckt." },
-  { "kategorie": "Fazit", "text": "Uff diesen Grüns rollt der Ball nich, er sucht sich psychologisch den längsten Umweg zum Loch." },
-  { "kategorie": "Fazit", "text": "Der Platzwart hat heute eindeutig persönliche Rachegelüste an meinem Putter ausgelassen." },
-  { "kategorie": "Fazit", "text": "Eingesäte Stolperfallen im Fairway – anders kann man den Zustand heut nich erklären." },
-  { "kategorie": "Fazit", "text": "De Greenkeeper haben den Rasen heut so kurz geschnitten, dass mein Ball vor Scham direkt ins Rough gerollt ist." },
-  { "kategorie": "Fazit", "text": "En Par war heut nur drin, wenn man die frisch vertikutierten Bahnen als aerodynamische Schanze genutzt hat." },
-  { "kategorie": "Fazit", "text": "Der morgendliche Tau wurde vom Platzwart gezielt so verteilt, dass jeder zweite Drive im Schlamm stecken bleibt." },
-  { "kategorie": "Fazit", "text": "Wer bei diesem Greenkeeper-Design noch einstellig Handicap spielt, hat den Platz bestochen." },
-  { "kategorie": "Fazit", "text": "De Platzverhältnisse waren heut so unberechenbar, dass selbst die Löcher vor Angst gezittert haben." },
-  { "kategorie": "Fazit", "text": "Der Rasensprenger-Test lief heute perfekt – exakt während unsres Schlags uff dem Grün." },
-  { "kategorie": "Fazit", "text": "Das Rough wuchert höher als det Ego nach einem Eagle." },
-  { "kategorie": "Fazit", "text": "De Greenkeeper haben die Sandbunker heute mit Treibsand verwechselt, anders jibt et keene Erklärung." },
-  { "kategorie": "Fazit", "text": "En ungemähter Traum in Grün – leider lag mein Ball immer im tiefsten Albtraum." },
-  { "kategorie": "Fazit", "text": "Der Platzwart hat die Flaggen heute im Windkanal aufgestellt." },
-  { "kategorie": "Fazit", "text": "Frisch aerifizierte Grüns sind der beste Beweis dafür, dass der Golfgott Humor hat." },
-  { "kategorie": "Fazit", "text": "De Linienführung der Fairways erinnerte heute eher an eine moderne Kunstinstallation als an eine Spielbahn." },
-  { "kategorie": "Fazit", "text": "Wer heute ein Birdie schreibt, hat den Greenkeeper persönlich bestochen oder extrem viel Glück beim Abpraller am Rasenmäher." },
-  { "kategorie": "Fazit", "text": "Der Boden war so hart vom Walzen, det der Ball vom Grün abgeprallt ist wie vom Trampolin." },
-  { "kategorie": "Fazit", "text": "De Greenkeeper haben den Vorstart-Bonus heute komplett gestrichen und überall Löcher platziert, wo sie nich hingehören." },
-  { "kategorie": "Fazit", "text": "Das Green glich heute einer Buckelpiste – Putten war eher eine wissenschaftliche Schätzung." },
-  { "kategorie": "Fazit", "text": "En Platz im absolut elitären Zustand: Man findet garantiert jeden Ball im tiefen Klee wieder." },
-  { "kategorie": "Fazit", "text": "De Fräskanten im Bunker waren heute so scharf, dass sie Bälle förmlich angesaugt haben." },
-  { "kategorie": "Fazit", "text": "Respekt an den Platzwart: So viele Hindernisse baut man sonst nur in Videospielen ein." }
+  {
+    "kategorie": "Wetter",
+    "text": "Der Wind hat den Ball jenau in der Flugkurve erwischt."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Luftfeuchtigkeit macht den Ball heute extrem schwer."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Gegenwind war in dieser Höhe viel stärker als am Boden."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die tiefstehende Sonne hat mir beim Abschlag kurz geblendet."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Det Gras is durch den Tau viel zu glitschig für meen Eisen."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der plötzliche Luftdruckabfall hat die Flugbahn beeinflusst."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Da kam eene Windböe aus einer völlig unerwarteten Richtung."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Hitze lässt den Ball heute unkontrolliert springen."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Windschatten des Baumes hat meenen Ball abbremsen lassen."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Es is zu schwül, der Schläger klebt regelrecht in meener Hand."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Durch den Regen is der Boden zu weich, der Ball gräbt sich een."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Wolken ham jenau beim Putten det Licht verändert."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Seitenwind war für diesen Balltyp viel zu stark."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Es is zu kalt, der Ball hat heute einfach keene Flugweite."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Wind hat den Spin meines Balls komplett neutralisiert."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Luft is heute so dünn, da fliegt der Ball völlig anders."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der feine Nieselregen macht det Grün unberechenbar schnell."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Hitze flimmert übern dem Fairway, det verzerrt die Distanz."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Wind hat den Ball in eene Windhose gezogen."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Durch die Kälte sind meene Muskeln steif, det Wetter is schuld."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Boden is durch den Regen zu hart jeworden, der Ball prallt ab."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Wind hat den Ball im Flug einfach 'angehalten'."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Det Licht is heute so flach, ick kann die Bodenwellen nich sehen."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die hohe Luftfeuchtigkeit hat den Flugwinkel verändert."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Een plötzlicher Windhauch hat meen Setup kurz vor dem Schlag gestört."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Hitze macht mir müde, det Wetter drosselt meene Power."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Boden is durch die Sonne so trocken, dass der Ball nur rollt."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Wind kommt heute aus zwei Richtungen gleichzeitig."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Det Wetter is zu wechselhaft, meen Rhythmus kommt nich rein."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Wolkendecke schluckt die Tiefe, ick sehe die Fahne nich jenau."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Nebel in der Senke hat die Sicht uff det Loch verzerrt."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Luftbewegung am Tee war heute völlig unlogisch."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Es is zu windig, um den Ball sauber im Flug zu kontrollieren."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Sonnenstrahlen ham jenau uff der Balloberfläche reflektiert."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Boden is durch die Feuchtigkeit zu 'klebrig' für meene Spikes."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Kälte lässt det Material des Balls hart und unspielbar werden."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Wind hat den Ball in eene Luftschicht gedrückt, die stand."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Bei diesem Wetter is det Grün nich mehr zu lesen."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Hitze hat meenen Schwung heute extrem verlangsamt."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Wind hat det Gras in eene Richtung gebogen, die den Ball bremst."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Det Wetter-Chaos macht mir heute mental einfach fertich."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die hohe Luftfeuchtigkeit lässt den Ball heute seltsam 'schweben'."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Wind hat den Schlag in der Endphase abgefälscht."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Sonne blendet mir direkt durch die Bäume am Green."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Boden is zu uneben durch det viele Regenwasser."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Es is zu schwül, meen Handschuh wird nass und rutschig."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Wind hat meenen Schwung durch die Kleidung beeinflusst."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Die Lichtverhältnisse machen den Ball im Flug fast unsichtbar."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Det Wetter is heute einfach keen Golfer-Wetter."
+  },
+  {
+    "kategorie": "Wetter",
+    "text": "Der Wind hat den Ball jenau in den Bereich gedrückt, wo er nich hin sollte."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Der Anstellwinkel war heute zwei Grad zu steil."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe den Sweetspot um Millimeter verfehlt."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Die Rotationsgeschwindigkeit meener Hüfte war inkonsistent."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Meen Takeaway war heute viel zu hastig eingeleitet."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe den Ball beim Treffmoment nich sauber komprimiert."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Det war een klassisches 'Early Extension' Problem."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Die Schlägerkopfgeschwindigkeit war höher als meene Reaktionsfähigkeit."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe den 'Release'-Punkt eene Zehntelsekunde zu spät gesetzt."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Meen Schwerpunkt lag bei diesem Schlag zu weit uff den Fersen."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Der Ball hatte zu wenig Backspin, um uff dem Grün zu halten."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe den Schlag mit der Wade statt mit dem ganzen Körper eingeleitet."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Det war een reiner 'Slice'-Effekt durch een zu offenes Schlägerblatt."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Die Schwungbahn war heute leider 'Outside-In'."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe beim Durchschwung die Spannung im Handgelenk verloren."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Die Flugkurve wurde durch eene unglückliche Luftdichte korrigiert."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Meen 'Downswing' war heute nich synchron mit der Schulterdrehung."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe den Bodenkontakt eenen Millimeter zu früh hergestellt."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Det 'Tempo'-Verhältnis von Backswing zu Downswing war nich 3:1."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Meen Kopf is beim Schwung eene Spur zu weit nach vorne gewandert."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Die Gewichtsverlagerung uff det vordere Bein kam zu abrupt."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe beim Treffmoment die Unterarme zu stark rotiert."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Der 'Launch-Angle' war bei diesem Wind einfach zu hoch."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe die 'Lag'-Phase im Schwung nich optimal ausgenutzt."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Meen 'Setup' war heute eene Spur zu weit von der Balllinie entfernt."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe den Ball 'getoppt', weil meen Fokus kurz weg war."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Die vertikale Komponente meines Schwungs war heute zu ausgeprägt."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe den Ball zu weit hinten im Stand positioniert."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Det war een 'Fat Shot' durch eene unsaubere Gewichtsverteilung."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Die Schaftbelastung war beim Übergang nich linear."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe den 'Follow-Through' nich vollständig abgeschlossen."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Meen Handgelenk-Winkel hat sich im Impact-Moment verändert."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Der Ballkontakt war nich zentriert genug uff dem Sweetspot."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe heute die kinetische Kette im Schwung unterbrochen."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Die Standbreite war für diesen Schlag nich optimal."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe den 'Dynamic Loft' durch meene Handstellung zu stark erhöht."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Det war eene Fehlfunktion in der Koordination zwischen Auge und Hand."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe die Arme heute zu eng am Körper geführt."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Die Dekompression des Handgelenks kam jenau im falschen Moment."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Der 'Spin-Loft' war bei diesem Eisen nich ideal."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe den Ball mit dem 'Hosel' statt mit der Schlagfläche getroffen."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Meene Schulterachse war beim Ansprechen des Balls zu offen."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe die Energieübertragung durch eene zu steife Hüfte gehemmt."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Der Schlag war rein technisch gesehen een 'Push-Slice'."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe den Übergang vom Backswing zum Downswing überhastet."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Meen 'Balance-Point' hat sich beim Schwung minimal verschoben."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Der Ball hat beim Impact eenen ungünstigen 'Sidespin' bekommen."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe den Schlägerkopf nich unter die Balllinie gebracht."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Die Rotationsachse is heute leicht gewackelt."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Ick habe det 'Timing' des Impact-Moments durch eene Störung von außen verloren."
+  },
+  {
+    "kategorie": "Technik",
+    "text": "Technisch gesehen war det een sauberer Fehler durch zu viel Ehrgeiz."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern viel zu viel am Golf-Simulator trainiert, meen Körper is heute völlig erschöpft."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Det Abendessen gestern war deutlich zu schwer, det liegt mir heute noch im Magen."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick hatte gestern eenen langen Arbeitstag, meen Fokus is heute noch nich bei 100 Prozent."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Golfrunde war so anstrengend, meene Muskulatur is heute noch zu steif."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern Abend noch an meinem Schwung gearbeitet, det muss sich heute erst setzen."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Nacht war viel zu kurz, meen Reaktionsvermögen is heute im Keller."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick war gestern beim Sport, meene Arme fühlen sich heute wie Blei an."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Diskussion übern Golf-Theorie hat mir mental völlig durcheinandergebracht."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick bin gestern den ganzen Tag in der Sonne jewesen, ick bin heute einfach nich fit."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Det gestrige Event hat mir so viel Energie gekostet, dass ick heute keene Kraft habe."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern Abend noch zu viel Video-Analyse von Profis gesehen, ick bin völlig verwirrt."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Anreise war so stressig, ick konnte heute nich richtich abschalten."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern zu viel Zeit in der Hocke verbracht, meene Beine machen heute nich mit."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Golf-Theorie, die ick gelesen habe, widerspricht meinem Schwunggefühl heute."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern zu wenig Wasser getrunken, ick bin heute noch nich hydriert genug."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Der gestrige Tag hat mir mental so gefordert, dass ick heute keene Ruhe finde."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick war gestern bei einem anderen Trainer, der mir meenen Schwung komplett umgestellt hat."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Det gestrige Wetter war so schlecht, dass ick heute imma noch eene Erkältung spüre."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern Abend noch meene Schläger gereinigt, vielleicht habe ick sie dabei verstellt."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Aufregung lässt mir heute nich zur nötigen Ruhe kommen."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern zu wenig Schlaf bekommen, meen Timing is heute völlig daneben."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Der gestrige Schwung-Fehler sitzt mir heute noch in den Knochen."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick hatte gestern so viel Stress, dass ick heute nich locker lassen kann."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Det gestrige Training war so intensiv, dass meen Muskelkater heute alles blockiert."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern noch so viele Bälle uff der Range geschlagen, ick bin heute überspielt."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Vorbereitung war so gründlich, dass ick heute viel zu viel nachdenke."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick war gestern bei einem Turnier, die mentale Anspannung spüre ick heute noch."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Der gestrige Erfolg hat mir heute etwas leichtsinnig werden lassen."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern Abend noch so viele Golf-Regeln gelernt, ick bin heute nur mit Denken beschäftigt."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Enttäuschung übern meen Spiel sitzt mir heute noch tief in der Seele."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern meene Schläger in der Tasche falsch sortiert, ick finde nüscht wieda."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Feier war so lang, ick habe heute noch een ganz leichtes Defizit in der Balance."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern zu viel Zeit im Internet mit Golf-Videos verbracht, meen Kopf is voll."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Wanderung war zu lang, meene Füße brauchen heute noch eene Pause."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern meen Setup umgestellt und muss mir heute erst daran gewöhnen."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Der gestrige Tag war so langweilig, dass ick heute nich richtich in Schwung komme."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern so viel Neues gelernt, dass meen Gehirn heute blockiert."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Anspannung war so jroß, ick bin heute einfach noch nich locker."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern Abend meene Schläger noch mal kurz zur Kontrolle angefasst."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Der gestrige Tag hat mir so geprägt, dass ick heute imma noch im 'Gestern-Modus' bin."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern viel zu viel Zeit mit dem Lesen von Golf-Büchern verbracht."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Reise war so anstrengend, meen ganzer Körper is noch in der 'Ankunftsphase'."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern Abend noch versucht, meene Schwungbahn zu korrigieren."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Der gestrige Tag hat meen Selbstvertrauen so erschüttert, dass ick heute zweifle."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick bin gestern den ganzen Tag gesessen, meen Rücken is heute noch komplett fest."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern zu viel Golf-Talk gehört, ick bin heute nur noch genervt."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Die gestrige Vorbereitung uff heute war so akribisch, dass ick heute zu viel Druck mache."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern Abend noch an meener Putter-Technik gearbeitet."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Der gestrige Tag hat mir so ausgelaugt, dass ick heute einfach keene Puste habe."
+  },
+  {
+    "kategorie": "Vortag",
+    "text": "Ick habe gestern so viele Fehler jemacht, die ick heute unbedingt vermeiden will – und jenau deshalb passieren sie."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Det Grün is hier so uneben, det liest sich wie een Gebirgszug."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Bunker hat den ungünstigsten Sand, den ick je gespielt habe."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Det Rough an diesem Loch is diese Woche völlig überwachsen."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Fahne steht heute in einer unfairen Position uff dem Grün."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Det Fairway is hier so schmal, da bleibt keen Platz für Fehler."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Platz is für meen Spiel einfach viel zu lang ausgelegt."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Der Boden uff diesem Platz is nach dem Regen extrem tückisch."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Abfolge der Löcher hier bringt meenen Rhythmus völlig durcheinander."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieses Loch is architektonisch einfach jejen meen Spielkonzept entworfen."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Pin-Position is uff diesem Grün quasi unspielbar platziert."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Der Übergang vom Vorgrün zum Grün is hier viel zu abrupt."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Diese Bahn hat eenen leichten Schlagseiten-Effekt durch die Hanglage."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Det Wasserhindernis an diesem Loch is psychologisch viel zu präsent."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Uff diesem Platz is det Gras so kurz, da läuft der Ball überall hin."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Bunker-Kanten sind hier viel zu steil für meenen Schwung."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Kurs is so trocken, der Ball rollt bei jedem Schlag weiter als gewollt."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Grüns uff diesem Platz sind heute einfach zu schnell für mir."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Der Windkanal, den dieser Kurs durch die Baumreihen bildet, is unfair."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Hier uff dem Platz sind die Wege zwischen den Löchern zu lang."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Kurs hat een so schwieriges Layout für den zweiten Schlag."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Topographie dieses Lochs lässt meenen Ball imma nach rechts abdriften."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Aus-Grenzen sind hier viel zu nah an der Spielbahn."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Platz is heute in einem Zustand, den man kaum bespielen kann."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Grüns wurden hier gestern so gesandet, det stört den Balllauf."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Kurs verzeiht uff dem Fairway einfach keenen einzigen Fehler."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Der Bunker hier is tiefer, als er von der Bahn aus aussieht."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Neigung uff diesem Grün bricht in zwei Richtungen gleichzeitig."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Golfplatz is bekannt für seine unfairen Platzierungen der Löcher."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Det Gras im Rough is hier so dicht, det blockiert jeden Schläger."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Kurs is für Linkshänder (oder Rechtshänder) eigentlich viel schwieriger."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Baumreihen uff diesem Loch stehen jenau in meener Flugbahn."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Platz is heute so voll, det Warten macht mir steif."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Bodenbeschaffenheit hier variiert von Loch zu Loch zu stark."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Platz hat eene so ungewöhnliche Architektur am Green."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Fahne steht hinter dem Bunker, det is een taktisches Foul."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Hier sind die Wege so hügelig, det kostet schon vor dem Schlag Kraft."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Platz is berüchtigt für seine versteckten Bodenwellen."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Wasserhindernisse uff diesem Kurs sind fast nich zu umspielen."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Det Grün an diesem Loch is so kleen, da trifft man nüscht."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Kurs is bei diesem Wetter einfach nich für meen Spiel jemacht."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Aus-Linie is uff dieser Bahn viel zu eng gewählt."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Bunker is strategisch so platziert, dass man ihn treffen muss."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Der Rasen uff diesem Platz is heute so stumpf, da rollt nüscht."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Diese Bahn hat een Gefälle, det man vom Abschlag aus nich sieht."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Platz is für meen Handicap heute einfach zu anspruchsvoll."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Wege uff diesem Kurs sind so verwinkelt, ick verliere die Orientierung."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Bunker hier hat so feinen Sand, da versinkt man komplett."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Die Fahnenposition is heute so weit hinten, det erreicht man kaum."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Dieser Golfplatz verlangt eene Präzision, die ick heute nich habe."
+  },
+  {
+    "kategorie": "Golfplatz",
+    "text": "Hier uff dem Platz is der Boden so hart, der Ball prallt überall ab."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Es braucht nur eenen Schlag um den Tag zu einem besseren zu wenden."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe es zu sehr gewollt und habe mir deswegen verkrampft."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick war mit den Gedanken schon beim wohlverdienten Bier nach der Runde."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Det war een klassischer Fall von 'Overthinking' – ick habe zu viel nachgedacht."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Meen Fokus is jenau in dem Moment abgewandert, als ick den Schläger schwang."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick wollte den Schlag unbedingt erzwingen, statt ihn einfach passieren zu lassen."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Die Angst vor dem Wasserhindernis hat den Ball magisch angezogen."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick war mental noch beim Schlag davor und konnte ihn nich loslassen."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Der Druck, hier een Par zu spielen, hat meene Muskeln steif werden lassen."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe mir beim Ansprechen des Balls zu sehr unter Druck gesetzt."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Meen Kopf wollte den Ball links halten, aber meen Körper wollte rechts."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe den 'Mental Block' in dem Moment gespürt, als ick den Schläger hob."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Die Selbstzweifel ham meene Schwungbewegung blockiert."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick war heute gedanklich nich zu 100 Prozent bei der Sache."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Der Ehrgeiz hat meen natürliches Schwunggefühl komplett unterdrückt."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe den Schlag mental schon verpatzt gesehen, bevor ick ihn ausführte."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Zu viel Adrenalin im System, det hat meene Feinmotorik beeinträchtigt."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick war zu sehr uff meen Ergebnis fokussiert statt uff den Prozess."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Meen innerer Kritiker hat jenau während des Schwungs angefangen zu reden."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe den Schlag 'zerdenkt' – die Theorie hat die Praxis zerstört."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Die Angst vor einem schlechten Score hat meene Handgelenke verkrampft."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe mir von meener Erwartungshaltung selbst blockiert."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Meen Fokus war bei der Fahne, aber meene Intuition war woanders."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe heute die 'mentale Frische' vermissen lassen."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Der Gedanke an den letzten Fehler hat mir beim aktuellen Schlag gelähmt."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick wollte zu perfekt sein und habe dabei det Gefühl verloren."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Meen 'Mindset' war heute uff Sicherheit, nich uff Angriff."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe den Ballkontakt durch eene mentale Blockade unterbrochen."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Die Vorfreude uff det nächste Loch hat meene Konzentration hier gestört."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick war mental zu entspannt, mir fehlte die nötige Spannung."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Der Ärger übern den Schlag davor hat meen Urteilsvermögen getrübt."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe versucht, den Ball mit Willenskraft statt mit Schwung zu bewegen."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Meene Konzentration is durch eene kurze Ablenkung in meinem Kopf abgerutscht."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe heute die mentale Balance zwischen Risiko und Sicherheit verloren."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Der Kopf sagte 'ja', aber det Gefühl im Schwung sagte 'nein'."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick war mental zu sehr im 'Analyse-Modus' statt im 'Spiel-Modus'."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Der Wunsch nach einem spektakulären Schlag hat die Vernunft ausgeschaltet."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe beim Schwung die mentale Verbindung zum Schläger verloren."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Die mentale Belastung durch den Spielstand hat mir kurz gelähmt."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe mir von meenen eigenen Erwartungen zu sehr unter Druck gesetzt."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Meen Kopf wollte heute einfach nich det tun, wat meen Körper kann."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick war mental zu sehr damit beschäftigt, Fehler zu vermeiden."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Die mentale Energie war nach den ersten neun Löchern kurz weg."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe den Schlag vor meinem geistigen Auge falsch visualisiert."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Der mentale Fokus uff den Score hat meen natürliches Spiel zerstört."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick war zu sehr mit dem Ergebnis beschäftigt statt mit dem Rhythmus."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Die mentale Anspannung hat meene Atemkontrolle während des Schwungs gestört."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe mir selbst durch zu viele Korrekturgedanken verunsichert."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Meen 'Mental Game' hatte heute einfach eenen freien Tag."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick habe versucht, den Schlag mental zu erzwingen, statt ihn geschehen zu lassen."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Der Gedanke an det schwierige Grün hat mir schon beim Abschlag blockiert."
+  },
+  {
+    "kategorie": "Mental",
+    "text": "Ick war heute einfach nich mental uff dem Golfplatz präsent."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Flight-Partner is jenau dann losgelaufen, als ick angesetzt habe."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Det Gespräch am Nebenschläger hat mir kurz aus dem Konzept gebracht."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Mitspieler hat sich zu früh bewegt, det war eene Ablenkung."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick musste mir uff det Spiel meines Partners konzentrieren, det hat mir müde jemacht."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Die Diskussion übern det Regelwerk vor dem Schlag war unnötig."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Flight-Partner hat an der falschen Stelle gestanden."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Die ständigen Kommentare zu meinem Schwung verunsichern mir."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick habe mir beim Abschlag durch die Schritte meines Partners irritieren lassen."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Det langsame Tempo meines Flight-Partners hat meenen Rhythmus zerstört."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Der Schatten meines Mitspielers is jenau übern meenen Ball gewandert."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Partner hat det Grün betreten, während ick noch putten wollte."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Det ständige Rascheln in der Tasche meines Flight-Partners war zu laut."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick habe mir vom Frust meines Flight-Partners anstecken lassen."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Mitspieler hat uff der falschen Seite des Lochs gewartet."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Die Vorfreude uff det Getränk nach der Runde mit meinem Partner hat mir abgelenkt."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Flight-Partner hat mir bei der Schlagwahl völlig falsch beraten."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick musste erst den Flight-Partner beruhigen, det hat Energie gekostet."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Mitspieler hat meen Ball-Markierung missachtet."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Die ständige Suche nach dem Ball meines Partners hat meenen Fokus gestört."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Flight-Partner hat zu laut geatmet beim Putten."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick habe mir von der schlechten Laune meines Mitspielers beeinflussen lassen."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Partner hat jenau in meener Sichtlinie gestanden."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Die ständigen Handy-Geräusche aus der Tasche meines Partners nerven."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick wollte nich so jut spielen wie meen Flight-Partner, det hat mir gehemmt."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Mitspieler hat mir bei meinem Setup unterbrochen."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Die Taktik meines Flight-Partners hat meenen Schwung komplett verändert."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick wurde durch det Geplauder übern Geschäftliches unterbrochen."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Partner hat meen Tempo bei der Runde vorgegeben, det war nich meins."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick habe mir uff det Spiel meines Partners konzentriert, statt uff meenen Ball."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Flight-Partner hat mir den falschen Schläger empfohlen."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Det ständige Zurechtrücken der Tasche meines Mitspielers war zu laut."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick habe mir vom Jubel meines Partners ablenken lassen."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Mitspieler hat meenen Schlag mit einem Kommentar kommentiert."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Die Wartezeit uff meenen Flight-Partner hat meenen Körper abkühlen lassen."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick wurde durch det Lachen meines Mitspielers aus dem Fokus gebracht."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Partner hat die Fahne nich richtich gehalten."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Die ständige Korrektur meener Haltung durch meenen Partner war kontraproduktiv."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Flight-Partner hat mir ständig die Regeln erklärt, statt mir spielen zu lassen."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick musste dem Spiel meines Partners zuschauen, det war demotivierend."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Mitspieler hat mir bei der Schlagvorbereitung gedrängt."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Det Rascheln beim Öffnen der Riegel meines Partners hat mir gestört."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick habe mir durch det schnelle Tempo meines Partners unter Druck gesetzt gefühlt."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Flight-Partner hat meenen Ball versehentlich berührt."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Die ständigen Besserwisser-Tipps meines Partners waren zu viel."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick habe mir vom Fluchen meines Mitspielers ablenken lassen."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Partner hat den Ball im Rough nich schnell genug gefunden."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick wurde durch det Auspacken der Ausrüstung meines Partners gestört."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Die mangelnde Konzentration meines Flight-Partners hat mir angesteckt."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Meen Mitspieler hat bei meinem Schwung zu sehr hingesehen."
+  },
+  {
+    "kategorie": "Flight Partner",
+    "text": "Ick wollte meinem Flight-Partner einfach nich im Weg stehen."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Ball hatte eene Unwucht, det is physikalisch belegt."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Det is een Range-Ball, der fliegt generell 20 Meter kürzer."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meen Driver is heute Morgen wohl beim Transport leicht dejustiert worden."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Grip war von der Luftfeuchtigkeit zu rutschig."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meen Handschuh is zu trocken, ick hatte keenen festen Halt."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Det Fairway-Holz is für diesen Bodenbelag einfach nich ausgelegt."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Schaft hat eene zu weiche Flex-Stufe für meen heutiges Tempo."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Die Dimples am Ball sind abgenutzt, da kann keen Lift entstehen."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meen Putter is uff diesen Grüns viel zu schnell eingestellt."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Driver-Kopf hat heute eene andere Resonanzfrequenz."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Ick brauche dringend neue Spikes, meene Füße rutschen minimal."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Die Tee-Höhe war um eenen Millimeter falsch eingestellt."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meen Golfball hat eene leichte Macke durch den letzten Stein."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Det Eisen 7 is in der Loft-Einstellung een halbes Grad zu steil."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Schlägerkopf hat zu viel Sand in der Rille."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meene Tasche war heute zu schwer, det hat meenen Schwungzyklus belastet."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Schlägergriff is zu dick für meene Finger heute."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Det is der billige Ball, den ick im Wald gefunden habe."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meen Wedge hat zu wenig Bounce für diesen matschigen Boden."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Die Sonne reflektiert heute so unjlücklich uff meinem Schlägerblatt."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Schläger is zu kurz für meene heutige Körperhaltung."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Die Tasche hat den Schwerpunkt meines Schwungs verlagert."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Driver hat eenen zu hohen Spin-Wert für diesen Wind."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meen Ball is zu hart für diese weichen Grüns."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Die Markierung uff meinem Ball hat mir beim Putten irritiert."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Det is een Leihschläger, ick kenne det Feedback nich."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Schaft vibriert komisch bei diesem Untergrund."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meene Socken ham heute nich genug Halt im Schuh."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Putter-Kopf fühlt sich heute irjendwie leichter an als sonst."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Det is der falsche Driver-Loft für diese Höhe übern dem Meeresspiegel."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meen Handschuh is zu alt, er hat keene Grip-Struktur mehr."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Ball is eene Generation zu alt, det Material is spröde."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Ick spiele heute mit einer anderen Marke, daran muss ick mir erst gewöhnen."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Det Eisen 9 hat heute eene völlig andere Gewichtsverteilung."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Die Rillen im Schlägerblatt sind mit Gras verstopft."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meen Golfwagen hat den Boden ungleichmäßig verdichtet."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Die Sonne blendet mir in der Spiegelung meines Schlägers."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Dieser Schläger is für schnelle Geschwindigkeiten jemacht, nich für meenen lockeren Schwung."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Ball hat eene glatte Oberfläche, er rutscht einfach durch."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meen Putter is nich uff diese spezifische Grashöhe kalibriert."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Schaft is zu lang, ick treffe den Ball nich im Sweetspot."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Det is een Winterball, der is bei dieser Hitze viel zu hart."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meen Schuhwerk hat heute nich genug Traktion uff diesem feuchten Gras."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Die Schlägerhaube hat den Kopf leicht verkratzt, det stört det Gleichgewicht."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meen Ball hat eenen Produktionsfehler bei der Gewichtsverteilung."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Der Schlägergriff is nich mehr klebend genug."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Det is der Ball, den ick bei der letzten Runde verloren habe."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Meen Wedge is zu sehr abgenutzt, der Spin greift nich mehr."
+  },
+  {
+    "kategorie": "Material",
+    "text": "Die Kappe an meinem Schaft lockert sich ständig."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Sand hier is eher feiner Beton als lockerer Spielsand."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Ball lag in einer klassischen Sandmulde, da war keen Treffpunkt möglich."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Die Schaufelbewegung hat sich im Untergrund völlig verhakt."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Rechen hat eene tiefe Furche jenau hinter meinem Ball hinterlassen."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "In diesem Bunker liegt zu viel feuchter Quarzsand, der klebt wie Leim."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Wind hat im Rückschwung eene Sandböe in meen Auge geweht."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Ball hatte null Biss im harten Untergrund."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Hier wurde eindeutig Baufeuchtigkeit eingegossen."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Die Kante der Bunkerwand war im Weg, ick musste drüber lupfen."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Sand is heute viel zu schwer für eenen sauberen Splash-Schlag."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Da lag een verdeckter Stein direkt unter der Ball-Oberfläche."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Meen Wedge is im Sand stecken geblieben wie een Anker."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Sand war zu trocken, der Ball is einfach durchgerutscht."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Die Neigung der Bunkerwand hat meenen Stand komplett ruiniert."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Det war keen Bunker, det war eene archäologische Ausgrabungsstätte."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Ball lag in einem tiefen Fußabdruck von einem unkollegialen Vorspieler."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Ick habe den Sand zu früh getroffen – klassischer Fett-Schlag im Sand."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Die Körnchengröße is hier völlig inkonstant."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Schlägerkopf hat sich im dichten Sand sofort abgebremst."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Da war eene fiese Kruste uff dem Sand, die den Ball unberechenbar abgelenkt hat."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Bunker is heute absolutes Sperrgebiet, so hart wie der Boden is."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Die Reflexion der Sonne vom weißen Sand hat mir im Treffmoment geblendet."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Sand hat zu viel Feuchtigkeit gezogen, null Loft möglich."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Een verdeckter Astrest lag direkt unter meinem linken Fuß."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Det is keen Bunker, det is eene ungesicherte Sandgrube."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Ball hat sich beim Aufkommen tief in den weichen Hang eingegraben."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Abstand zur Fahne war optisch im Sand komplett verzerrt."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Meen Stand war durch den abfallenden Sandwinkel völlig instabil."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Schlägerkopf is im Untergrund abgerutscht."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Ball lag in einer Mulde, die physikalisch unspielbar war."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Die Sandbeschaffenheit erinnert eher an eene Baustelle als an eenen Golfplatz."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Ick dachte, hier gilt Boden in Besserung – aber nein, voller Sand."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Schwung war da, aber der Sand hat jegliche Energie geschluckt."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Die Bunkerwand war steiler als der Eiger-Nordwand-Grat."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Wind hat den Sand jenau in meene Mechanik geweht."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Da war eene unsichtbare Unebenheit im Sandbett."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Schläger is im Sand verhungert, bevor er den Ball berühren konnte."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Det war een astreiner Tiefschuss in die Sahara."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Untergrund war unter der dünnen Sandschicht komplett steinhart."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Hier wurde am Sand gespart, det is pure Erde."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Ball hat sich im Sand vergraben wie een Maulwurf."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Die Neigung des Hanges hat meenen Schwungradius halbiert."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Sand is heute absolut unberechenbar vom Gewicht her."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Een klassischer Fall von Schwerkraft im falschen Medium."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Ball lag jenau uff einer harten Kante im Sandbett."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Schlägerkopf hat sich durch den dichten Sand gebohrt statt zu gleiten."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Die Menge an Sand war schlichtweg illegal platziert."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Da war keene Chance uff eenen sauberen Ballkontakt bei dem Untergrund."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Der Sand hat den Ball wie een Magnet festgehalten."
+  },
+  {
+    "kategorie": "Bunker",
+    "text": "Nächstes Mal nehme ick die Schaufel statt des Sandwedges."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der schlechte Drive lag eindeutig daran, dass det Parken im engen Carport die Handgelenke blockiert hat."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer uff dem Parkplatz schon im falschen Gang anfährt, zieht sich den Slice direkt übern 18 Löcher mit."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Schon beim Ausparken hat mir een rücksichtsloser Kombi die ideale Linie für den ersten Abschlag versaut."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Weg zum Golfplatz war durch eene Baustelle so verstopft, dass meen Puls schon vor Loch 1 im roten Bereich war."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer sein Golfbag uff dem Schotterparkplatz falsch herum auslädt, braucht sich übern verunglückte Putts nich zu wundern."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Parkplatzsuche war heute so stressig, dass die Konzentration für det Grün komplett uff der Strecke geblieben is."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Een zerkratzter Kotflügel uff dem Club-Parkplatz raubt einfach jede mentale Stärke für det kurze Spiel."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer ganz hinten uff dem Ausweichparkplatz parken muss, hat physikalisch schon drei Schläge Rückstand."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Stau uff der Autobahnanfahrt hat meene Muskeln asymmetrisch verkrampft."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Schon beim Einparken rückwärts in die enge Lücke habe ick gemerkt, dass heute keen Driver sitzt."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Vollsperrung uff der Landstraße hat meen inneres Handicap massiv nach oben korrigiert."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer direkt vor dem Clubhaus keenen Parkplatz kriegt, spielt psychologisch direkt eenen Bogey mehr."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Det Navi hat mir übern drei Feldwege geschickt – da war der Schwung vor dem ersten Abschlag schon ruiniert."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der nasse Schlamm uff dem Parkplatz hat meene Golfschuhe direkt mit fünf Kilo Extragewicht beschwert."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Schon die Parkplatzgebühren an der Schranke ham meene sportliche Motivation spürbar gedämpft."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Een Drängler uff der Zufahrt zum Golfclub hinterlässt einfach Spuren im mentalen Score."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer sein E-Golfmobil uff dem Parkplatz nich richtich lädt, darf sich übern fehlende Energie uff der Back Nine nich wundern."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Schlagloch-Parcours uff der Clubzufahrt hat meen Alignment komplett dejustiert."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer den Kofferraumdeckel beim Ausladen ins Gesicht bekommt, startet mit maximaler Verwirrung in den Flight."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Parkplatzordnung uff diesem Platz is so kompliziert wie een komplexer Putt übern drei Breaks."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Schon uff der Hinfahrt hat det Radio nur Lieder gespielt, die meenen Golf-Rhythmus gestört ham."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Hagelschauer exakt uff den letzten zwei Kilometern der Anfahrt hat den Ballflug im Nachhinein völlig blockiert."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer den Parkplatz ohne Beinschäden erreicht, hat det schwerste Hindernis des Tages bereits hinter sich."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die enge Ausfahrt vom Parkplatz spiegelt exakt den Schwierigkeitsgrad meener heutigen Annäherungsschläge wider."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Een Fehltritt uff dem geschotterten Parkplatz – und der Stand beim Schwung is für die Tonne."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Det Bier an der Bar hat isotonische Eigenschaften, die den Slice sofort ausgleichen."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Uff der Terrasse schmeckt jedes Par wie een Major-Sieg."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die wahren Turniere werden nich uff dem Grün, sondern bei der Nachbesprechung im Clubhaus entschieden."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer die Runde im Clubhaus schönredet, braucht keene Scorekarte mehr."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Een kühles Getränk im Schatten der Clubhausterrasse heilt jeden dreifachen Bogey."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die physikalischen Gesetze des Golfschwungs greifen erst ab dem zweiten Kaltgetränk im Clubhaus."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Im Clubhaus sind plötzlich alle Drives übern 280 Meter lang."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Det Handicap schrumpft beim Betreten der Clubhausterrasse ganz von alleine um drei Striche."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer den Flight im Clubhaus einlädt, muss sich keene Vorwürfe wegen verlorener Bälle anhören."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die besten taktischen Ratschläge für die nächste Runde entstehen uff der Clubhausterrasse."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Uff der Terrasse verblasst der Ärger übern den getroffenen Rasensprenger im Rough."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Een erfolgreicher Golftag endet traditionell dort, wo der Zapfhahn am nächsten steht."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Im Clubhaus hat jeder Spieler eene Ausrede parat, die wissenschaftlich nich widerlegbar is."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Scorekarte lügt vielleicht, aber die Stimmung im Clubhaus deckt gnadenlos uff."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer im Clubhaus zuerst die Zeche zahlt, hat die Runde sportlich am besten verkraftet."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Uff der Clubhausterrasse wandeln sich verlorene Bälle in legendäre Geschichten."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Det 19. Loch is die einzige Bahn uff dem Platz, bei der man garantiert keenen Bunker trifft."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Nach 18 Löchern is vor der Analyse bei Kaffee und Kuchen im Clubhaus."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Een geselliger Ausklang im Clubhaus gleicht jeden verlorenen Putt wieda aus."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Terrasse des Clubhauses is der sicherste Ort vor unerwarteten Annäherungsschlägen."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Im Clubhaus zählt nich der Score, sondern die Qualität der verabreichten Alibis."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer im Clubhaus übern den Wind klagt, hat uff dem Platz einfach zu tief in die Taschen geschaut."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Uff der Clubhausterrasse sind sich alle einig: Der Platzwart war an allem schuld."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der beste Treffpunkt nach einem harten Tag im Rough is die Theke im Clubhaus."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Hier im Clubhaus fließt der Caddy-Kaffee wenigstens ohne Drei-Putt-Garantie."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Greenkeeper ham heute heimlich an den Fahnenpositionen gefummelt, um unseren Flight zu zerstören."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer die Grüns heute als 'spielbar' bezeichnet, hat noch nie echten Rasen unter den Füßen gehabt."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Det Greenkeeping-Team hatte heute offenbar Mitleid mit dem Platz und hat die Löcher extra hinter perfekten Wellen versteckt."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Uff diesen Grüns rollt der Ball nich, er sucht sich psychologisch den längsten Umweg zum Loch."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Platzwart hat heute eindeutig persönliche Rachegelüste an meinem Putter ausgelassen."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Eingesäte Stolperfallen im Fairway – anders kann man den Zustand heute nich erklären."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Greenkeeper ham den Rasen heute so kurz geschnitten, dass meen Ball vor Scham direkt ins Rough gerollt is."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Een Par war heute nur drin, wenn man die frisch vertikutierten Bahnen als aerodynamische Schanze genutzt hat."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der morgendliche Tau wurde vom Platzwart gezielt so verteilt, dass jeder zweite Drive im Schlamm stecken bleibt."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer bei diesem Greenkeeper-Design noch einstellig Handicap spielt, hat den Platz bestochen."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Platzverhältnisse waren heute so unberechenbar, dass selbst die Löcher vor Angst gezittert ham."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Rasensprenger-Test lief heute perfekt – exakt während unseres Schlags uff dem Grün."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Det Rough wuchert höher als det Ego nach einem Eagle."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Greenkeeper ham die Sandbunker heute mit Treibsand verwechselt, anders gibt es keene Erklärung."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Een ungemähter Traum in Grün – leider lag meen Ball imma im tiefsten Albtraum."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Platzwart hat die Flaggen heute im Windkanal aufgestellt."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Frisch aerifizierte Grüns sind der beste Beweis dafür, dass der Golfgott Humor hat."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Linienführung der Fairways erinnerte heute eher an eene moderne Kunstinstallation als an eene Spielbahn."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Wer heute een Birdie schreibt, hat den Greenkeeper persönlich bestochen oder extrem viel Glück beim Abpraller am Rasenmäher."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Der Boden war so hart vom Walzen, dass der Ball vom Grün abgeprallt is wie vom Trampolin."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Greenkeeper ham den Vorstart-Bonus heute komplett gestrichen und überall Löcher platziert, wo sie nich hingehören."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Det Green glich heute einer Buckelpiste – Putten war eher eene wissenschaftliche Schätzung."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Een Platz im absolut elitären Zustand: Man findet garantiert jeden Ball im tiefen Klee wieda."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Die Fräskanten im Bunker waren heute so scharf, dass sie Bälle förmlich angesaugt ham."
+  },
+  {
+    "kategorie": "Fazit",
+    "text": "Respekt an den Platzwart: So viele Hindernisse baut man sonst nur in Videospielen een."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Det Tee war viel zu tief eingesteckt, da konnte man nur drunterhermauschen."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Der Flight hinter uns stand schon im Abbschlagskreis und hat mir komplett gestresst."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Kaltstart ohne Range-Bälle – da is der Muskeltonus noch im Standby-Modus."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Der Wind kam jenau in dem Wimpernschlag von schräg hinten."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Ick dachte, det wäre een Holz und keen Eisen. Der Schläger hat mir betrogen."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Wer schlägt denn bitte auch direkt nach Begrüßung und Scorekarten-Ausfüllen ab? Da fehlt die Betriebstemperatur."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Die Zuschauer uff der Clubterrasse ham jenau im Schwung geredet. Klassische akustische Irritation."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Der Boden am Abschlag war so hart, da is det Tee abgebrochen wie een Streichholz."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Meen Vormieter im Flight hat den Ball so platziert, dass meene gesamte Aura gestört war."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Erster Schlag des Tages is keen Golf, det is een wissenschaftliches Experiment."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Die Sonne stand exakt im 45-Grad-Winkel direkt in meinem rechten Auge. Blindflug pur."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Der Griffgummi war noch feucht vom Desinfektionsmittel am Tee-Klo."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Ick habe den Ball im Augenwinkel flattern sehen – der hatte bestimmt eene Unwucht."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Zu hoher Erwartungsdruck vom Flight. Die Blicke brannten sich förmlich in meenen Rücken."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Der Greenkeeper hat die en Tee-Klos so nah an den Baum jestellt, dass meen Rückschwung illegal war."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Meen Frühstücksbrötchen lag noch quer im Magen und hat den Schwerpunkt verlagert."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Ick wollte den Ball absichtlich kurz halten, um det Material zu schonen."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Der Driver hat heute Morgen beim Einpacken in die Tasche eenen Schock bekommen."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Det war keen Slice, det war een gewollter Fade mit extremer Übertreibung."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Nervös? Ick? Niemals. Der Ball war einfach nur extrem unkooperativ."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Uff Loch 1 gilt die physikalische Unschärferelation: Niemand weiß, wo der Ball hinfliegt."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Der Flight vor uns hat uns so lange warten lassen, dass der Adrenalinspiegel ins Bodenlose abgesackt is."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Falsche Startzeit im Kopf gehabt, da war der Schwung gedanklich noch im Auto."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Ick habe den Ball im Gras kaum gesehen – tarnfarben quasi."
+  },
+  {
+    "kategorie": "Tee 1",
+    "text": "Det war nur der obligatorische Opferball für den Platzgott, ab jetzt läuft's."
+  }
 ]
