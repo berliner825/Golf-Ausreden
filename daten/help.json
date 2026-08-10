@@ -1,0 +1,154 @@
+{
+    "categorymosaicview": {
+        "title": "Kategorien & Übersicht",
+        "items": [
+            {
+                "icon": "doc.on.doc",
+                "color": "gray",
+                "title": "Kopieren",
+                "description": "Kopiert das Alibi direkt in deine Zwischenablage."
+            },
+            {
+                "icon": "square.and.arrow.up",
+                "color": "blue",
+                "title": "Teilen",
+                "description": "Teilt das Alibi direkt mit deinen Flight-Partnern."
+            },
+            {
+                "icon": "square.and.arrow.down.fill",
+                "color": "green",
+                "title": "Übernehmen",
+                "description": "Übernimmt das Alibi nach einer Sicherheitsabfrage in deine eigene Kategorie „Meine“."
+            },
+            {
+                "icon": "pencil",
+                "color": "orange",
+                "title": "Bearbeiten",
+                "description": "In der Kategorie „Meine“ kannst du eigene Alibis anpassen."
+            },
+            {
+                "icon": "trash",
+                "color": "red",
+                "title": "Löschen",
+                "description": "Entfernt eigene Alibis dauerhaft aus deinen gespeicherten Ausreden."
+            }
+        ]
+    },
+    "activerounddetail": {
+        "title": "Aktive Runde",
+        "items": [
+            {
+                "icon": "mic.fill",
+                "color": "blue",
+                "title": "Sprachsteuerung",
+                "description": "Alibis ganz entspannt per Sprache für das aktuelle Loch einsprechen."
+            },
+            {
+                "icon": "sparkles",
+                "color": "green",
+                "title": "Zauberstab",
+                "description": "Generiert ein zufälliges Alibi für das aktuelle Loch."
+            }
+        ]
+    },
+    "myexcusesview": {
+        "title": "Meine Alibis",
+        "items": [
+            {
+                "icon": "plus.circle.fill",
+                "color": "green",
+                "title": "Hinzufügen",
+                "description": "Erstelle ein neues, eigenes Alibi für deine Sammlung."
+            },
+            {
+                "icon": "square.and.arrow.up",
+                "color": "blue",
+                "title": "Eigene Alibis exportieren (.json)",
+                "description": "Exportiere deine erstellten Ausreden als JSON-Datei."
+            },
+            {
+                "icon": "square.and.arrow.down",
+                "color": "blue",
+                "title": "Alibis importieren",
+                "description": "erweitere deine Alibis, in dem du andere Alibis aus einer dir zur Verfügung gestellten JSON-Datei in deine Alibis."
+            },
+            {
+                "icon": "pencil",
+                "color": "orange",
+                "title": "Bearbeiten",
+                "description": "Passe bestehende Alibis durch Wischen an."
+            },
+            {
+                "icon": "trash",
+                "color": "red",
+                "title": "Löschen",
+                "description": "Wische ein Alibi nach links, um es zu löschen."
+            }
+        ]
+    },
+    "roundshistoryview": {
+        "title": "Runden-Details & Alibis",
+        "items": [
+            {
+                "icon": "square.and.arrow.up",
+                "color": "blue",
+                "title": "Teilen",
+                "description": "Teile deine Runden-Zusammenfassung oder einzelne Loch-Alibis wahlweise als Text, Fotos oder PDF."
+            },
+            {
+                "icon": "star.fill",
+                "color": "orange",
+                "title": "Favorit & Infos",
+                "description": "Markiere die Runde als Favorit und sehe alle Eckdaten wie Datum, gespielte Löcher und Notizen auf einen Blick."
+            },
+            {
+                "icon": "flag.fill",
+                "color": "green",
+                "title": "Tages-Fazit",
+                "description": "Füge ein persönliches Fazit zur Runde hinzu, wähle ein bestehendes aus oder passe es über das Menü an."
+            },
+            {
+                "icon": "hand.left.fill",
+                "color": "orange",
+                "title": "Wisch-Optionen (Swipe nach links)",
+                "description": "Wische in einem Alibi-Eintrag nach links, um alle Schnellzugriff-Optionen für dieses Loch zu öffnen."
+            },
+            {
+                "icon": "square.and.arrow.up",
+                "color": "blue",
+                "title": "Loch-Alibi teilen",
+                "description": "Teile das spezifische Alibi des jeweiligen Lochs direkt mit deinen Flight-Partnern."
+            },
+            {
+                "icon": "pencil",
+                "color": "orange",
+                "title": "Bearbeiten",
+                "description": "Passe den Text oder das zugeordnete Loch eines eigenen Alibis nachträglich an."
+            },
+            {
+                "icon": "camera",
+                "color": "purple",
+                "title": "Foto hinzufügen oder ändern",
+                "description": "Füge ein neues Beweisfoto hinzu oder ersetze ein bestehendes Bild für dieses Loch."
+            },
+            {
+                "icon": "xmark.bin.fill",
+                "color": "pink",
+                "title": "Foto löschen",
+                "description": "Ist bereits ein Foto vorhanden, kann es über diese Option direkt entfernt werden."
+            },
+            {
+                "icon": "map",
+                "color": "green",
+                "title": "Auf der Karte zeigen",
+                "description": "Zeigt dir via Apple Maps genau die geografische Stelle auf dem Golfplatz an, an der das Alibi eingegeben wurde."
+            },
+            {
+                "icon": "trash",
+                "color": "red",
+                "title": "Eintrag löschen",
+                "description": "Löscht den gesamten Alibi-Eintrag dieses Lochs nach einer Sicherheitsabfrage dauerhaft aus der Runde."
+            }
+        ]
+    }
+}
