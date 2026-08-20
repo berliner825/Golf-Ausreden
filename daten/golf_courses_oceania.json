@@ -60029,42 +60029,6 @@
     }
   },
   {
-    "id": "d24cfffc-3efe-5eff-84a6-2c86c6546021",
-    "clubName": "New Judgeford Golf Club",
-    "latitude": -41.12229,
-    "longitude": 174.9425094,
-    "courses": [
-      "New Judgeford Golf Club"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 18879871,
-    "savedAt": 1786589578.4282382,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "New Judgeford Golf Club"
-    }
-  },
-  {
     "id": "34b7cbfb-011c-564f-8285-905ab3075a07",
     "clubName": "Nelson Golf Club",
     "latitude": -41.2903649,
@@ -60600,43 +60564,6 @@
     }
   },
   {
-    "id": "e4a993c8-cdd4-5afc-a50c-291c883269dc",
-    "clubName": "Miramar Golf Course",
-    "latitude": -41.330529,
-    "longitude": 174.8142408,
-    "courses": [
-      "Miramar Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 25354560,
-    "savedAt": 1786589578.428938,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": "https://www.miramargolfclub.co.nz/",
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Miramar Golf Course",
-      "website": "https://www.miramargolfclub.co.nz/"
-    }
-  },
-  {
     "id": "a95e7ad2-7607-503b-b031-ae487d31c15e",
     "clubName": "Tai Tapu Golf Course",
     "latitude": -43.6537843,
@@ -61020,43 +60947,6 @@
       "sport": "golf",
       "start_date": "1873",
       "website": "https://www.hagleygc.org.nz/"
-    }
-  },
-  {
-    "id": "1de5a710-f6bd-5ce7-af13-4027223d5663",
-    "clubName": "Park International Country Club",
-    "latitude": -37.7987409,
-    "longitude": 175.2135419,
-    "courses": [
-      "Park International Country Club"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 32294568,
-    "savedAt": 1786589578.429367,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": "golf",
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Park International Country Club",
-      "sport": "golf"
     }
   },
   {
@@ -62113,115 +62003,6 @@
     }
   },
   {
-    "id": "c61ede7b-5845-5368-9c2d-c5016505fe8c",
-    "clubName": "Queens Park Golf Course",
-    "latitude": -46.4001571,
-    "longitude": 168.3528131,
-    "courses": [
-      "Queens Park Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 83078938,
-    "savedAt": 1786589578.429963,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Queens Park Golf Course"
-    }
-  },
-  {
-    "id": "47a95647-66e8-50b7-aeed-8daf98e72cfa",
-    "clubName": "Queens Park Golf Course",
-    "latitude": -46.3990229,
-    "longitude": 168.3586906,
-    "courses": [
-      "Queens Park Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 83079123,
-    "savedAt": 1786589578.4299798,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Queens Park Golf Course"
-    }
-  },
-  {
-    "id": "ff19987e-078a-55c4-a38c-ff36b2d19ef4",
-    "clubName": "Southland Golf Course",
-    "latitude": -46.44717,
-    "longitude": 168.24483,
-    "courses": [
-      "Southland Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 83132160,
-    "savedAt": 1786589578.429996,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "area": "yes",
-      "leisure": "golf_course",
-      "name": "Southland Golf Course"
-    }
-  },
-  {
     "id": "85b06d93-c5f2-59d7-aea4-90e2df636a65",
     "clubName": "Invercargill Golf Course",
     "latitude": -46.4289352,
@@ -63180,43 +62961,6 @@
     }
   },
   {
-    "id": "a6df078f-dd73-51f3-a4ca-11201734fdee",
-    "clubName": "Ohai Golf Course",
-    "latitude": -45.9364272,
-    "longitude": 167.9630964,
-    "courses": [
-      "Ohai Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 91846281,
-    "savedAt": 1786589578.430449,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Ohai Golf Course",
-      "source": "LINZ & NZ Open GIS"
-    }
-  },
-  {
     "id": "0d5f9120-e7a1-5d69-a772-ec09d3591b44",
     "clubName": "Waikare Golf Club",
     "latitude": -37.3976434,
@@ -63553,43 +63297,6 @@
       "leisure": "golf_course",
       "name": "Tokoroa Golf Course",
       "ref:linz:topo50_id": "4982142"
-    }
-  },
-  {
-    "id": "0a0b15ea-6ad4-53c1-9d1b-6ad871960724",
-    "clubName": "Wairunga Golf Course",
-    "latitude": -39.8523563,
-    "longitude": 176.9031764,
-    "courses": [
-      "Wairunga Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 110678629,
-    "savedAt": 1786589578.430623,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": "golf",
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Wairunga Golf Course",
-      "sport": "golf"
     }
   },
   {
@@ -64933,52 +64640,6 @@
     }
   },
   {
-    "id": "37ba19a7-f212-52f1-a031-bfcc23bd2796",
-    "clubName": "Urenui Golf Club",
-    "latitude": -38.9903723,
-    "longitude": 174.3943374,
-    "courses": [
-      "Urenui Golf Club"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 147246662,
-    "savedAt": 1786589578.431256,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": "http://www.urenuigolfclub.co.nz/",
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": {
-      "street": "Urenui Beach Road",
-      "housenumber": "30",
-      "postcode": "4377",
-      "city": "Urenui"
-    },
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "addr:city": "Urenui",
-      "addr:housenumber": "30",
-      "addr:postcode": "4377",
-      "addr:street": "Urenui Beach Road",
-      "leisure": "golf_course",
-      "name": "Urenui Golf Club",
-      "website": "http://www.urenuigolfclub.co.nz/"
-    }
-  },
-  {
     "id": "8709ece5-79b3-5d73-b02e-6e2c1d16a363",
     "clubName": "Ōpōtiki Golf Club",
     "latitude": -38.0129848,
@@ -65349,43 +65010,6 @@
     "rawTags": {
       "leisure": "golf_course",
       "name": "Northern Wairoa Golf Club"
-    }
-  },
-  {
-    "id": "0bfe9fb1-ad62-5c81-81b2-0f07198298ea",
-    "clubName": "Fairlie Golf Club",
-    "latitude": -44.1037705,
-    "longitude": 170.8349634,
-    "courses": [
-      "Fairlie Golf Club"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 151029361,
-    "savedAt": 1786589578.431464,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": "https://golf.fairlienz.com/",
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Fairlie Golf Club",
-      "website": "https://golf.fairlienz.com/"
     }
   },
   {
@@ -65874,43 +65498,6 @@
       "leisure": "golf_course",
       "name": "Shandon Golf Club",
       "website": "https://shandongolf.co.nz/"
-    }
-  },
-  {
-    "id": "f15f84a1-2b15-50db-bc75-c2511f626661",
-    "clubName": "Dannevirke Golf Course",
-    "latitude": -40.2244867,
-    "longitude": 176.0646249,
-    "courses": [
-      "Dannevirke Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 163175011,
-    "savedAt": 1786589578.431732,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": "https://www.dannevirkegolfclub.co.nz/",
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Dannevirke Golf Course",
-      "website": "https://www.dannevirkegolfclub.co.nz/"
     }
   },
   {
@@ -67667,43 +67254,6 @@
     }
   },
   {
-    "id": "6b80d8b8-be79-51b0-8e67-f331a4c008ad",
-    "clubName": "The Kinloch Club",
-    "latitude": -38.6551431,
-    "longitude": 175.9332069,
-    "courses": [
-      "The Kinloch Club"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 208644875,
-    "savedAt": 1786589578.432728,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": "https://www.thekinlochclub.com/",
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "The Kinloch Club",
-      "website": "https://www.thekinlochclub.com/"
-    }
-  },
-  {
     "id": "8864d568-134a-52ef-891b-b638f3a5b71f",
     "clubName": "Mayfield Golf Club",
     "latitude": -43.8163721,
@@ -69451,43 +69001,6 @@
     }
   },
   {
-    "id": "fda4dc8f-906e-5485-a694-1a53d25f2122",
-    "clubName": "Featherston Golf Course",
-    "latitude": -41.141056,
-    "longitude": 175.3126285,
-    "courses": [
-      "Featherston Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 307693383,
-    "savedAt": 1786589578.433815,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": "closed",
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Featherston Golf Course",
-      "opening_hours": "closed"
-    }
-  },
-  {
     "id": "5d597ef1-91f4-5e64-a41d-cea3179fe8a1",
     "clubName": "Kaitaia Golf Club",
     "latitude": -35.1540907,
@@ -70591,42 +70104,6 @@
     }
   },
   {
-    "id": "11b4e76a-ae0a-572b-b908-4f0d685b67af",
-    "clubName": "New Judgeford Golf Club",
-    "latitude": -41.1172678,
-    "longitude": 174.9449894,
-    "courses": [
-      "New Judgeford Golf Club"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 394729966,
-    "savedAt": 1786589578.434649,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "New Judgeford Golf Club"
-    }
-  },
-  {
     "id": "e7eb3237-4ddf-5df7-93af-9e42317e5048",
     "clubName": "Harewood Golf Club",
     "latitude": -43.4795705,
@@ -70849,43 +70326,6 @@
     "rawTags": {
       "leisure": "golf_course",
       "name": "Dipton Golf Club"
-    }
-  },
-  {
-    "id": "d1133b17-7407-577d-a4a0-d497755c4bd9",
-    "clubName": "Matamata Golf Course",
-    "latitude": -37.7869445,
-    "longitude": 175.8348336,
-    "courses": [
-      "Matamata Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 425464890,
-    "savedAt": 1786589578.43485,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Matamata Golf Course",
-      "ref:linz:topo50_id": "4982176"
     }
   },
   {
@@ -71578,42 +71018,6 @@
     }
   },
   {
-    "id": "8fca299e-427a-553e-8417-b57871e500e2",
-    "clubName": "Mini Golf NZ with Bunnies",
-    "latitude": -38.1111977,
-    "longitude": 176.2233921,
-    "courses": [
-      "Mini Golf NZ with Bunnies"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 505774908,
-    "savedAt": 1786589578.435373,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Mini Golf NZ with Bunnies"
-    }
-  },
-  {
     "id": "392f88d9-69da-5222-a966-004bd7748cae",
     "clubName": "Northridge Country Lodge",
     "latitude": -36.6003762,
@@ -71907,42 +71311,6 @@
     }
   },
   {
-    "id": "0868c61d-d09f-56ba-83c9-16f23d1ff63d",
-    "clubName": "Dannevirke Golf Course",
-    "latitude": -40.2286827,
-    "longitude": 176.0660796,
-    "courses": [
-      "Dannevirke Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 653032926,
-    "savedAt": 1786589578.435617,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Dannevirke Golf Course"
-    }
-  },
-  {
     "id": "9cbdb983-c19b-5641-8c77-6ea0acd5e6b7",
     "clubName": "Patea Golf Club",
     "latitude": -39.762703,
@@ -72094,52 +71462,6 @@
       "leisure": "golf_course",
       "name": "Houhora Golf Club",
       "phone": "+64 9 409 8749"
-    }
-  },
-  {
-    "id": "6b8e7f78-ba98-589f-94b0-91c463a21018",
-    "clubName": "Urenui Golf Club",
-    "latitude": -38.9936189,
-    "longitude": 174.3948316,
-    "courses": [
-      "Urenui Golf Club"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 815160338,
-    "savedAt": 1786589578.435759,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": "http://www.urenuigolfclub.co.nz/",
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": {
-      "street": "Urenui Beach Road",
-      "housenumber": "30",
-      "postcode": "4377",
-      "city": "Urenui"
-    },
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "addr:city": "Urenui",
-      "addr:housenumber": "30",
-      "addr:postcode": "4377",
-      "addr:street": "Urenui Beach Road",
-      "leisure": "golf_course",
-      "name": "Urenui Golf Club",
-      "website": "http://www.urenuigolfclub.co.nz/"
     }
   },
   {
@@ -72380,42 +71702,6 @@
     }
   },
   {
-    "id": "8cc236c3-af32-5261-93a3-efe9710baacc",
-    "clubName": "Whanga Putter",
-    "latitude": -37.2061681,
-    "longitude": 175.8724524,
-    "courses": [
-      "Whanga Putter"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 974372679,
-    "savedAt": 1786589578.4359539,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Whanga Putter"
-    }
-  },
-  {
     "id": "068b2d2f-f35f-57bf-ba57-c1c792368a86",
     "clubName": "Tahunga Golf Course",
     "latitude": -38.6180172,
@@ -72450,80 +71736,6 @@
       "leisure": "golf_course",
       "name": "Tahunga Golf Course",
       "ref:linz:topo50_id": "7748028"
-    }
-  },
-  {
-    "id": "3c2205cc-7e2f-545f-a5e1-343fafcf3b94",
-    "clubName": "Ruakituri Golf Course",
-    "latitude": -38.7563975,
-    "longitude": 177.3598831,
-    "courses": [
-      "Ruakituri Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 981460190,
-    "savedAt": 1786589578.436018,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Ruakituri Golf Course",
-      "ref:linz:topo50_id": "4982402"
-    }
-  },
-  {
-    "id": "72c92d25-4d82-543b-8f65-3e705c97eefb",
-    "clubName": "Waikaremoana Golf Course",
-    "latitude": -38.8271017,
-    "longitude": 177.1538172,
-    "courses": [
-      "Waikaremoana Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 981460191,
-    "savedAt": 1786589578.4360461,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Waikaremoana Golf Course",
-      "ref:linz:topo50_id": "4982486"
     }
   },
   {
@@ -72562,44 +71774,6 @@
       "name": "Renner Park Golf Course",
       "ref:linz:topo50_id": "4982472",
       "website": "https://www.rennerparkgolf.co.nz/"
-    }
-  },
-  {
-    "id": "1b41586c-ab76-5557-a296-2261dad8e581",
-    "clubName": "Taranui Golf Course",
-    "latitude": -38.8487627,
-    "longitude": 174.9723564,
-    "courses": [
-      "Taranui Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 981460193,
-    "savedAt": 1786589578.436102,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Taranui Golf Course",
-      "note": "Seems to be closed",
-      "ref:linz:topo50_id": "4982475"
     }
   },
   {
@@ -73577,43 +72751,6 @@
     }
   },
   {
-    "id": "de6aee70-e259-54b5-be97-535257fbe13d",
-    "clubName": "Lake Brunner Golf Course",
-    "latitude": -42.5638901,
-    "longitude": 171.4788792,
-    "courses": [
-      "Lake Brunner Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 981464044,
-    "savedAt": 1786589578.436852,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Lake Brunner Golf Course",
-      "ref:linz:topo50_id": "4982269"
-    }
-  },
-  {
     "id": "7b57f536-faa9-5c0f-abec-12d67fd0f50a",
     "clubName": "Karamea Golf Course",
     "latitude": -41.233304,
@@ -73794,43 +72931,6 @@
       "leisure": "golf_course",
       "name": "Waikite Valley Golf Club",
       "ref:linz:topo50_id": "4982347"
-    }
-  },
-  {
-    "id": "6b46b5dd-7d2d-5c2f-a024-eb31bb4bd332",
-    "clubName": "The Kinloch Club",
-    "latitude": -38.647824,
-    "longitude": 175.9385676,
-    "courses": [
-      "The Kinloch Club"
-    ],
-    "country": "NZ",
-    "osmType": "way",
-    "osmId": 1356642846,
-    "savedAt": 1786589578.437024,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": "https://www.thekinlochclub.com/",
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "The Kinloch Club",
-      "website": "https://www.thekinlochclub.com/"
     }
   },
   {
@@ -74251,44 +73351,6 @@
     }
   },
   {
-    "id": "7dd8da6e-c84f-5392-9e32-acbafb7b8249",
-    "clubName": "Gulf Harbour Golf Course",
-    "latitude": -36.6184839,
-    "longitude": 174.7986894,
-    "courses": [
-      "Gulf Harbour Golf Course"
-    ],
-    "country": "NZ",
-    "osmType": "relation",
-    "osmId": 5714401,
-    "savedAt": 1786589578.437336,
-    "holes": null,
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": "https://www.gulfharbourcountryclub.co.nz/",
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "leisure": "golf_course",
-      "name": "Gulf Harbour Golf Course",
-      "type": "multipolygon",
-      "website": "https://www.gulfharbourcountryclub.co.nz/"
-    }
-  },
-  {
     "id": "12973731-712e-5d85-b2ae-38a54f820816",
     "clubName": "Jacks Point Golf Course",
     "latitude": -45.0738294,
@@ -74666,44 +73728,6 @@
       "name": "Motueka Golf Course",
       "type": "multipolygon",
       "website": "https://motuekagolf.co.nz/"
-    }
-  },
-  {
-    "id": "2a942675-35b9-5068-82bc-19d2a7c7db7a",
-    "clubName": "Whataroa Golf Club",
-    "latitude": -43.2655005,
-    "longitude": 170.3640729,
-    "courses": [
-      "Whataroa Golf Club"
-    ],
-    "country": "NZ",
-    "osmType": "relation",
-    "osmId": 13543220,
-    "savedAt": 1786589578.4377742,
-    "holes": "9_hole",
-    "par": null,
-    "courseName": null,
-    "architect": null,
-    "startDate": null,
-    "fee": null,
-    "access": null,
-    "website": null,
-    "phone": null,
-    "fax": null,
-    "email": null,
-    "operator": null,
-    "openingHours": null,
-    "address": null,
-    "sport": null,
-    "wheelchair": null,
-    "description": null,
-    "wikipedia": null,
-    "wikidata": null,
-    "rawTags": {
-      "golf:course": "9_hole",
-      "leisure": "golf_course",
-      "name": "Whataroa Golf Club",
-      "type": "multipolygon"
     }
   },
   {
